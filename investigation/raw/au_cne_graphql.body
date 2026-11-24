@@ -1,0 +1,1 @@
+{"errors":[{"message":"GQL_PCM_API_ERROR_400","path":["productDetailPage"],"extensions":{"args":{"productId":"lopmi7nqah","locale":"en-au"},"code":"PCM_API_ERROR_400","serviceName":"kiwi-module-pdp"}}],"data":{"productDetailPage":null}}

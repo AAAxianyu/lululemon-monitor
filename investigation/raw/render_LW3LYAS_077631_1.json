@@ -1,0 +1,35 @@
+{
+  "label": "render_LW3LYAS_077631_1",
+  "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?wid=480&fmt=jpeg",
+  "method": "GET",
+  "client": "curl_cffi; impersonate=chrome; no cookies or authentication",
+  "requested_at_utc": "2026-11-16T04:18:15.716119+00:00",
+  "request_headers": {},
+  "status": 200,
+  "final_url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?wid=480&fmt=jpeg",
+  "headers": {
+    "content-type": "image/webp",
+    "content-length": "54",
+    "access-control-allow-origin": "*",
+    "last-modified": "Wed, 19 Apr 2023 18:48:56 GMT",
+    "etag": "\"33a2c0a78be7abd979d67806d151fa90\"",
+    "x-adobe-smart-imaging": "1564",
+    "server": "Unknown",
+    "expires": "Mon, 16 Nov 2026 05:18:17 GMT",
+    "date": "Mon, 16 Nov 2026 04:18:17 GMT",
+    "akamai-request-bc": "on",
+    "server-timing": "clientrtt; dur=3, clienttt; dur=190, origin; dur=164, cdntime; dur=26",
+    "akamai-cache-status": "Miss from child, Miss from parent",
+    "x-akamai-cache": "0",
+    "akamai-grn": "0.31153b17.1794802696.2c021625"
+  },
+  "bytes": 54,
+  "sha256": "f6d0bc85be06f7b3aead84613bc2c4b33be2b0e6e303686fed24cd09857f8f6e",
+  "decoded_image": {
+    "size": [
+      480,
+      480
+    ],
+    "format": "WEBP"
+  }
+}

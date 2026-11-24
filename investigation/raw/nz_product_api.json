@@ -1,0 +1,32 @@
+{
+  "label": "nz_product_api",
+  "url": "https://www.lululemon.co.nz/.uf-svc/v1/products/lopmi7nqah",
+  "method": "GET",
+  "client": "curl_cffi; impersonate=chrome; no cookies or authentication",
+  "requested_at_utc": "2026-11-16T04:17:38.484906+00:00",
+  "request_headers": {
+    "x-lll-locale": "en-nz"
+  },
+  "status": 410,
+  "final_url": "https://www.lululemon.co.nz/.uf-svc/v1/products/lopmi7nqah",
+  "headers": {
+    "date": "Mon, 16 Nov 2026 04:17:40 GMT",
+    "content-type": "text/html;charset=UTF-8",
+    "cf-ray": "a5b3aff129dd2ab9-LAX",
+    "cf-cache-status": "DYNAMIC",
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+    "server": "cloudflare",
+    "x-dw-request-base-id": "52rD--SD-moBAAB_",
+    "vary": "accept-encoding",
+    "pragma": "no-cache",
+    "content-security-policy": "default-src 'self' blob: data: 'unsafe-inline' 'unsafe-eval' https://www.google.co.nz https://www.googletagmanager.com https://www.googleadservices.com https://www.google.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://ad.doubleclick.net https://d10b6b7saxlxa2.cloudfront.net https://studio-assets.cartfulsolutions.com https://studio-api.cartfulsolutions.com https://ephemeris.cartfulsolutions.com https://int-studio.cartfulsolutions.com https://cdn.rudderlabs.com https://api.rudderstack.com https://*.adyen.com https://*.analytics.google.com https://ucarecdn.com https://upload.uploadcare.com https://598nyfqkt7.execute-api.eu-west-1.amazonaws.com https://*.bazaarvoice.com https://crawl2.feedonomics.com https://crawl3.feedonomics.com https://*.braintree-api.com https://*.braintreegateway.com https://*.btttag.com https://*.criteo.com https://*.doubleclick.net https://*.google-analytics.com https://*.googleapis.com https://*.gstatic.com https://*.kampyle.com https://*.medallia.com https://*.paypal.com https://bat.bing.com https://www.bing.com https://*.sheerid.com https://*.truefitcorp.com https://adservice.google.com https://analytics.google.com https://api-env.cartfulsolutions.com https://api.cartfulsolutions.com https://apis.google.com https://assets.adobedtm.com https://careers.lululemon.com https://cdn.cquotient.com https://cdn.honey.io https://cdn.jsdelivr.net https://cdn.quantummetric.com https://ingest.quantummetric.com https://cdn.treasuredata.com https://cdnjs.cloudflare.com https://cfjump.lululemon.co.nz https://challenges.cloudflare.com https://cm.g.doubleclick.net https://cm.teads.tv https://connect.facebook.net https://ct.pinterest.com https://d38d4ysphgm9dz.cloudfront.net https://dpm.demdex.net https://e.cquotient.com https://embed.cartfulsolutions.com https://external.quantummetric.com https://fledge.teads.tv https://globalstaticassets.lululemon.com https://google.com https://images.lululemon.com https://ln-rules.rewardstyle.com https://lululemon.quiq-api.com https://lululemonathleticacanadainc.demdex.net https://lululemoninternational-app.quantummetric.com https://lululemoninternational.quantummetric.com https://static.criteo.net https://mpsnare.iesnare.com https://o4503962274299904.ingest.sentry.io https://p.cquotient.com https://p.teads.tv https://pay.google.com https://r.cquotient.com https://s.pinimg.com https://s7mbrstream.scene7.com https://sc-static.net https://smetrics.lululemon.co.nz https://static.cloudflareinsights.com https://stats.g.doubleclick.net https://t.cfjump.com https://t.teads.tv https://tez.google.com https://tokyo.in.treasuredata.com https://tpc.googlesyndication.com https://tr.snapchat.com https://translate.google.com https://wf.cartfulsolutions.com https://www.cloudflare.com https://www.facebook.com https://www.lululemon.co.nz https://www.lululemon.co.uk https://www.paypalobjects.com https://*.browser-intake-datadoghq.com https://www.datadoghq-browser-agent.com https://tags.srv.stackadapt.com https://acdn.adnxs.com https://srv.stackadapt.com https://east.srv.stackadapt.com https://uw.srv.stackadapt.com https://eu.srv.stackadapt.com https://qvdt3feo.com https://ingesteu.quantummetric.com https://shop.lululemon.com https://ctnsnet.com https://ipac.ctnsnet.com https://cdn.ctnsnet.com https://i.ctnsnet.com https://embed-env.cartfulsolutions.com https://analytics.tiktok.com https://tr6.snapchat.com https://ib.adnxs.com https://rl.quantummetric.com https://apps.storystream.ai https://media.storystream.ai https://storyboard.storystream.ai https://content.storystream.ai https://www.redditstatic.com https://alb.reddit.com https://pixel-config.reddit.com https://d3g5d7323c2i6m.cloudfront.net https://d29qb9vav0xwuc.cloudfront.net https://d7c4jjeuqag9w.cloudfront.net wss://lululemoninternational.quantummetric.com https://cdn.cookielaw.org wss://mpsnare.iesnare.com; base-uri 'self'; frame-ancestors 'self'; object-src 'none'; img-src * 'self' data: https:; font-src * 'self' data: https:; block-all-mixed-content;",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=157,cfOrigin;dur=151, cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=22,cfOrigin;dur=0,cfWorker;dur=338",
+    "x-content-type-options": "nosniff",
+    "worker": "true",
+    "set-cookie": "<removed>",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 330696,
+  "sha256": "9a547eef24b619475fcf3cbfbb97bd0e0c24ffbc629f80325ef2e3674ddf4858"
+}

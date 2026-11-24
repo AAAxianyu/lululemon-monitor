@@ -1,0 +1,12 @@
+{
+  "url": "https://www.lululemon.com.au/static/wce-checkout-app/_next/static/chunks/pages/_app-abdee4cb503dfc9f-lll.js",
+  "status": 200,
+  "bytes": 5568781,
+  "sha256": "e13748c5fdd09153f9f3830e3f4754a842bfd3dd7b72914528b1e134fea8d9b2",
+  "matches_previously_analyzed_bundle": true,
+  "findings": [
+    "Payment Continue calls processContinueSubmission with savePayment=true when signed in and save checkbox selected.",
+    "The Adyen adapter sends savePayment in createAdyenCreditCardPayment input.",
+    "Successful payment-method processing requests userProfile invalidation; backend persistence has not been verified for this card."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "label": "gb_product_api",
+  "url": "https://www.lululemon.co.uk/.uf-svc/v1/products/lopmi7nqah",
+  "method": "GET",
+  "client": "curl_cffi; impersonate=chrome; no cookies or authentication",
+  "requested_at_utc": "2026-11-16T04:17:37.431494+00:00",
+  "request_headers": {
+    "x-lll-locale": "en-gb"
+  },
+  "status": 410,
+  "final_url": "https://www.lululemon.co.uk/.uf-svc/v1/products/lopmi7nqah",
+  "headers": {
+    "date": "Mon, 16 Nov 2026 04:17:39 GMT",
+    "content-type": "text/html;charset=UTF-8",
+    "cf-ray": "a5b3afebc9f88e7d-LAX",
+    "cf-cache-status": "DYNAMIC",
+    "cache-control": "no-cache, no-store, must-revalidate",
+    "expires": "Thu, 01 Dec 1994 16:00:00 GMT",
+    "server": "cloudflare",
+    "x-dw-request-base-id": "6XYMAuOD-moBAAB_",
+    "vary": "accept-encoding",
+    "pragma": "no-cache",
+    "content-security-policy": "default-src 'self' blob: data: 'unsafe-inline' 'unsafe-eval' https://www.google.co.uk https://www.googletagmanager.com https://www.googleadservices.com https://www.google.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://ad.doubleclick.net https://d10b6b7saxlxa2.cloudfront.net https://api.rudderstack.com https://cdn.rudderlabs.com https://*.adyen.com https://*.analytics.google.com https://ephemeris.cartfulsolutions.com https://ephemeris-eu.cartfulsolutions.com https://int-studio.cartfulsolutions.com https://int-studio-eu.cartfulsolutions.com https://integration-service.cartfulsolutions.com https://ucarecdn.com https://upload.uploadcare.com https://598nyfqkt7.execute-api.eu-west-1.amazonaws.com https://studio-api.cartfulsolutions.com https://studio-api-eu.cartfulsolutions.com https://studio-assets.cartfulsolutions.com https://studio.cartfulsolutions.com https://embed.cartfulsolutions.com https://*.awin1.com https://osm.klarnaservices.com https://*.bazaarvoice.com https://*.btttag.com https://*.criteo.com https://*.doubleclick.net https://*.google-analytics.com https://*.googleapis.com https://*.gstatic.com https://*.kampyle.com https://*.klarna.com https://*.medallia.com https://*.paypal.com https://*.sheerid.com https://*.truefitcorp.com https://*.wepowerconnections.com https://*.zenaps.com https://adservice.google.com https://analytics.google.com https://apis.google.com https://apprl.com https://assets.adobedtm.com https://bat.bing.com https://careers.lululemon.com https://cdn.cookielaw.org https://cdn.cquotient.com https://cdn.honey.io https://cdn.jsdelivr.net https://cdn.quantummetric.com https://ingest.quantummetric.com https://cdnjs.cloudflare.com https://challenges.cloudflare.com https://cm.g.doubleclick.net https://cm.teads.tv https://connect.facebook.net https://ct.pinterest.com https://d38xvr37kwwhcm.cloudfront.net https://dpm.demdex.net https://e.cquotient.com https://eu-library.klarnaservices.com https://eu.klarnaevt.com https://evt-eu.klarnaservices.com https://external.quantummetric.com https://fledge.teads.tv https://fonts.googleapis.com https://geolocation.onetrust.com https://globalstaticassets.lululemon.com https://google.com https://images.lululemon.com https://intljs.rmtag.com https://ln-rules.rewardstyle.com https://lululemon.quiq-api.com https://lululemonathleticacanadainc.demdex.net https://lululemoninternational-app.quantummetric.com https://lululemoninternational.quantummetric.com https://maps.googleapis.com https://mpsnare.iesnare.com https://p.cquotient.com https://p.teads.tv https://pay.google.com https://privacyportal.onetrust.com https://r.cquotient.com https://rcgmal4n.klarnaservices.com https://s.apprl.com https://s.pinimg.com https://s3.eu-west-1.amazonaws.com https://s7mbrstream.scene7.com https://sc-static.net https://scripts.agilone.com https://smetrics.lululemon.co.uk https://sslwidget.criteo.com https://static.cloudflareinsights.com https://static.criteo.com https://static.criteo.net https://stats.g.doubleclick.net https://t.teads.tv https://tag.rmp.rakuten.com https://tez.google.com https://the.sciencebehindecommerce.com https://tpc.googlesyndication.com https://tr.snapchat.com https://translate.google.com https://v2.waitwhile.com https://widget.as.criteo.com https://www.bing.com https://www.cloudflare.com https://www.dwin1.com https://www.facebook.com https://www.lululemon.co.uk https://www.paypalobjects.com https://x.klarnacdn.net https://*.browser-intake-datadoghq.com https://www.datadoghq-browser-agent.com https://analytics.tiktok.com https://ingesteu.quantummetric.com https://*.klarnaevt.com https://shop.lululemon.com https://embed-env.cartfulsolutions.com https://tr6.snapchat.com https://lantern.roeyecdn.com https://tr-shadow.snapchat.com https://pixel.tapad.com https://api.cartfulsolutions.com https://api-env.cartfulsolutions.com https://sp.analytics.yahoo.com https://s.yimg.com https://wf.cartfulsolutions.com https://d38d4ysphgm9dz.cloudfront.net https://o4503962274299904.ingest.us.sentry.io https://rl.quantummetric.com https://apps.storystream.ai https://media.storystream.ai https://storyboard.storystream.ai https://content.storystream.ai https://d3g5d7323c2i6m.cloudfront.net https://d29qb9vav0xwuc.cloudfront.net https://d7c4jjeuqag9w.cloudfront.net https://amazon-adsystem.com https://*.amazon-adsystem.com https://paa-reporting-advertising.amazon https://*.paa-reporting-advertising.amazon https://m.media-amazon.com https://fls-na.amazon.com https://www.redditstatic.com https://alb.reddit.com https://pixel-config.reddit.com wss://lululemoninternational.quantummetric.com wss://mpsnare.iesnare.com; base-uri 'self'; frame-ancestors 'self'; object-src 'none'; img-src * 'self' data: https:; font-src * 'self' data: https:; block-all-mixed-content;",
+    "report-to": "{\"group\":\"cf-csp-endpoint\",\"max_age\":86400,\"endpoints\":[{\"url\":\"https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=_H.zgaDmepFsMBGf_9mqiQMYd8dYW0rBeXzzbO2YUmg-1794802659.202302-1.0.1.1-o7.jtCX8WQlRN1eA.jySISTS4csDa80.oSzuY.ToE179A8MKJx2_3FVjJJppuUeurOmhF7BYcnIhz4HRoGozKmz5HEtOFMokoDK9_bEbvpwQzn0ZJ7nq45WPdVA1LLlC7wpF9enOnw_NI5l8LKoIF4wGkg6mDGHdtM4Ku64lMbMWY.iNIudB0tp1dv7eqJ1r\"}]}",
+    "reporting-endpoints": "cf-csp-endpoint=\"https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=_H.zgaDmepFsMBGf_9mqiQMYd8dYW0rBeXzzbO2YUmg-1794802659.202302-1.0.1.1-o7.jtCX8WQlRN1eA.jySISTS4csDa80.oSzuY.ToE179A8MKJx2_3FVjJJppuUeurOmhF7BYcnIhz4HRoGozKmz5HEtOFMokoDK9_bEbvpwQzn0ZJ7nq45WPdVA1LLlC7wpF9enOnw_NI5l8LKoIF4wGkg6mDGHdtM4Ku64lMbMWY.iNIudB0tp1dv7eqJ1r\"",
+    "server-timing": "cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=149,cfOrigin;dur=206, cfCacheStatus;desc=\"DYNAMIC\", cfEdge;dur=24,cfOrigin;dur=0,cfWorker;dur=384",
+    "x-content-type-options": "nosniff",
+    "worker": "true",
+    "set-cookie": "<removed>",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  },
+  "bytes": 437101,
+  "sha256": "49f2c8e45116bdaf6e64399cd78f1268dada864a6e06351e698666d3a534e9a1"
+}

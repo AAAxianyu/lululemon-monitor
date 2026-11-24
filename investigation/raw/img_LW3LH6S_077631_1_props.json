@@ -1,0 +1,27 @@
+{
+  "label": "img_LW3LH6S_077631_1_props",
+  "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_1?req=props",
+  "method": "GET",
+  "client": "curl_cffi; impersonate=chrome; no cookies or authentication",
+  "requested_at_utc": "2026-11-16T04:17:09.229076+00:00",
+  "request_headers": {},
+  "status": 403,
+  "final_url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_1?req=props",
+  "headers": {
+    "content-type": "text/plain",
+    "content-length": "20",
+    "access-control-allow-origin": "*",
+    "server": "Unknown",
+    "expires": "Mon, 16 Nov 2026 04:17:10 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Mon, 16 Nov 2026 04:17:10 GMT",
+    "akamai-request-bc": "on",
+    "server-timing": "clientrtt; dur=3, clienttt; dur=300, origin; dur=273, cdntime; dur=27",
+    "akamai-cache-status": "Miss from child, Miss from parent",
+    "x-akamai-cache": "0",
+    "akamai-grn": "0.30153b17.1794802630.3e1e11c2"
+  },
+  "bytes": 20,
+  "sha256": "4318e64ac550c0ef81a27d3e2b1c87aaf46e1f81b3ef82735a9dd1c9cb07d50d"
+}

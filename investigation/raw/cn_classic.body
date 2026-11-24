@@ -1,0 +1,2600 @@
+
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!--↑↑模板中请务必使用HTML5的标准DOCTYPE↑↑-->
+<meta name="generator" content="ecstore.b2c" />
+
+<script src="//g.alicdn.com/frontend-lib/frontend-lib/2.3.74/antidom.js"></script><script src="//o.alicdn.com/frontend-lib/common-lib/jquery.min.js"></script><script src="https://image.lululemon.cn/public/app/site/lang/zh_CN/js/lang.js"></script><link href="https://image.lululemon.cn/public/app/site/statics/css_mini/typical.css" rel="stylesheet" media="screen, projection" /><script src="https://image.lululemon.cn/public/app/site/statics/js_mini/moo.min.js"></script><script src="https://image.lululemon.cn/public/app/site/statics/js_mini/ui.min.js?t=2026080310"></script><script src="https://image.lululemon.cn/public/app/site/statics/js/jsencrypt.js"></script>
+<script type="application/ld+json">
+        {
+        "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+        "@id": "https://www.lululemon.cn/product-382674.html",                       //页面URL
+        "appid": "1599883931478145",                                              //不变
+        "title": "Scuba™ Evolve 女士经典剪裁拉链连帽衫|露露乐蒙中国大陆官网",           //页面标题
+        "images": [
+            "https://image.lululemon.cn/public/images/04/33/b8/77664025d57bf79b0b9231b799e1fe800437ec0f.jpg"
+        ], //产品页面产品第一张图片的绝对路径URL
+        "pubDate": "2026-11-16T12:15:22" // 需按照yyyy-mm-ddThh:mm:ss格式编写时间，字母T不能省去
+    }
+    </script>
+
+<!-- <script type="text/javascript">
+    function fireEvents(eventType, eventName){
+        var PROPERTY_ID = "1a77a678f9184a768948a6ad048a4d70";
+        var PING_SERVER_URL = "https://advertiser.inmobiapis.cn/tpce/v1/events/"+eventType+"?trackingPartner=InMobi&country=CN";
+        var pageData = {};
+        if(typeof InmobiPixel != "undefined"){
+            window.inmobiPixel = new InmobiPixel();
+            window.inmobiPixel.init({
+                   pingServer: PING_SERVER_URL,
+                   propertyId: PROPERTY_ID,
+                   domain: "m.lululemon.cn"
+            });
+        }
+        window.inmobiPixel.ping(eventName, pageData);
+    }
+    function fireCustomEvent(eventName) {
+        fireEvents("custom", eventName);
+    }
+    function fireDownloadEvent() {
+        fireEvents("download", "download");
+    }
+</script>
+<script type="text/javascript" charset="UTF-8" src="https://www.lululemon.cn/wap_themes/lululemon/images/inmobipixel.js" onload='fireCustomEvent("lululemon_lp")'></script> -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W7WBRSS');</script>
+<!-- End Google Tag Manager -->
+    
+<script>
+var dataLayer = [];
+dataLayer.push({
+'event': 'visitor',
+'userID': 'anonymous',   //登录用户传入用户ID，未登录用户则传入"anonymous"
+});
+</script>
+
+<!-- 百度统计 -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?28efa80bd5a6e5e6dc190c3d2c282b2e";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+<!-- 头条 -->
+<!-- <script type="text/javascript">
+(function(root) {
+    root._tt_config = true;
+    var ta = document.createElement('script'); ta.type = 'text/javascript'; ta.async = true;
+    ta.src = document.location.protocol + '//' + 's3.pstatp.com/bytecom/resource/track_log/src/toutiao-track-log.js';
+    ta.onerror = function () {
+        var request = new XMLHttpRequest();
+        var web_url = window.encodeURIComponent(window.location.href);
+        var js_url  = ta.src;
+        var url = '//ad.toutiao.com/link_monitor/cdn_failed?web_url=' + web_url + '&js_url=' + js_url + '&convert_id=1602321864866867';
+        request.open('GET', url, true);
+        request.send(null);
+    }
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ta, s);
+})(window);
+</script> -->
+
+<!-- OCPA -->
+<script>
+ !function(g,d,t,e,v,n,s){if(g.gdt)return;v=g.gdt=function(){v.tk?v.tk.apply(v,arguments):v.queue.push(arguments)};v.sv='1.0';v.bt=0;v.queue=[];n=d.createElement(t);n.async=!0;n.src=e;s=d.getElementsByTagName(t)[0];s.parentNode.insertBefore(n,s);}(window,document,'script','//qzonestyle.gtimg.cn/qzone/biz/gdt/dmp/user-action/gdtevent.min.js');
+ gdt('init','1110055868');
+ gdt('track','PAGE_VIEW');
+</script>
+<noscript>
+ < img height="1" width="1" style="display:none" src="https://a.gdt.qq.com/pixel?user_action_set_id=1110055868&action_type=PAGE_VIEW&noscript=1"/>
+</noscript>
+
+<!-- Bytedance Tracking -->
+<!-- <script>
+(function(r,d,s,l){var meteor=r.meteor=r.meteor||[];meteor.methods=["track","off","on"];meteor.factory=function(method){return function(){
+var args=Array.prototype.slice.call(arguments);args.unshift(method);meteor.push(args);return meteor}};for(var i=0;i<meteor.methods.length;i++){
+var key=meteor.methods[i];meteor[key]=meteor.factory(key)}meteor.load=function(){var js,fjs=d.getElementsByTagName(s)[0];js=d.createElement(s);
+js.src="https://analytics.snssdk.com/meteor.js/v1/"+l+"/sdk";fjs.parentNode.insertBefore(js,fjs)};meteor.load();if(meteor.invoked){return}
+meteor.invoked=true;meteor.track("pageview")})(window,document,"script","1651235088179207");
+</script> -->
+<!-- End Bytedance Tracking -->
+<!-- Bytedance Tracking -->
+<!-- <script>
+  (function(r,d,s){r._tt_config=true;var _baq=(r._baq=r._baq||[]);_baq.methods=["track","off","on"];
+  _baq.factory=function(method){return function(){var args=Array.prototype.slice.call(arguments);
+  args.unshift(method);_baq.push(args);return _baq}};for(var i=0;i<_baq.methods.length;i++){
+  var key=_baq.methods[i];_baq[key]=_baq.factory(key)}_baq.load=function(){
+  var js,fjs=d.getElementsByTagName(s)[0];js=d.createElement(s);
+  js.src="https://analytics.oceanengine.com/api/v2/js/sdk";fjs.parentNode.insertBefore(js,fjs)};
+  _baq.load();if(_baq.invoked){return}_baq.invoked=true;_baq.track("pageview")})(window,document,"script");
+</script> -->
+<!-- End Bytedance Tracking -->
+
+
+<title>Scuba™ Evolve 女士经典剪裁拉链连帽衫|露露乐蒙中国大陆官网</title><meta name="keywords" content="lululemon,露露乐蒙,Scuba™ Evolve 女士经典剪裁拉链连帽衫" /><meta name="description" content="欢迎登录Lululemon|露露乐蒙中国大陆官方商城,在线选购正品lululemon Scuba™ Evolve 女士经典剪裁拉链连帽衫,了解lululemon女士出行LW3LHPS价格和图片等详情。更多精选瑜伽、跑步装备尽在www.lululemon.cn。" /><link rel="icon" href="https://image.lululemon.cn/public/app/site/statics/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://image.lululemon.cn/public/app/site/statics/favicon.ico" type="image/x-icon" />
+<link href="https://image.lululemon.cn/public/app/b2c/statics/css_mini/basic.min.css" rel="stylesheet" media="screen, projection" /><script src="https://image.lululemon.cn/public/app/b2c/lang/zh_CN/js/lang.js"></script>
+<script>
+var Shop = {"url":{"shipping":"\/cart-shipping.html","total":"\/cart-total.html","region":"\/tools-selRegion.html","payment":"\/cart-payment.html","purchase_shipping":"\/cart-purchase_shipping.html","purchase_def_addr":"\/cart-purchase_def_addr.html","purchase_payment":"\/cart-purchase_payment.html","get_default_info":"\/cart-get_default_info.html","diff":"\/product-diff.html","fav_url":"\/member-ajax_fav.html","datepicker":"https:\/\/image.lululemon.cn\/public\/app\/site\/statics\/js_mini","placeholder":"https:\/\/image.lululemon.cn\/public\/app\/b2c\/statics\/images\/imglazyload.gif"},"base_url":"\/"};
+</script>
+
+  <script src="https://image.lululemon.cn/public/app/b2c/statics/js_mini/shop.min.js"></script>
+<meta name="applicable-device" content="pc"><link rel="stylesheet" href="https://www.lululemon.cn/widgetsproinstance-get_css-lulu-cHJvZHVjdC5odG1s.html" /><script type='text/javascript'>
+    // 此处关闭严格模式
+    !(function (e, n, t, s, c) {
+    e[s] =
+      e[s] ||
+      function () {
+        (e[s].q = e[s].q || []).push(arguments);
+      };
+    (e._gio_local_vds = c = c || 'vds'),
+      (e[c] = e[c] || {}),
+      (e[c].namespace = s);
+    var d = n.createElement('script');
+    var i = n.getElementsByTagName('script')[0];
+    (d.async = !0), (d.src = t);
+    i ? i.parentNode.insertBefore(d, i) : n.head.appendChild(d);
+  })(window, document, '/public/app/b2c/statics/js/gdp.js', 'gio');
+
+  gio('init', 'aad47e08174b0cd2', '8632bc116e787dbf', {
+    version: 'hel',
+    debug:false,
+    trackPage: false,
+    // OP私有部署客户请填写serverUrl，Saas客户请忽略
+    // serverUrl: 'your server url',
+  });
+  
+</script></head>
+<body>
+<link rel="stylesheet" href="https://www.lululemon.cn/themes/lulu/images/max.css?5132">
+<link rel="stylesheet" href="https://www.lululemon.cn/themes/lulu/images/swiper.min.css?513">
+<script src="https://www.lululemon.cn/themes/lulu/images/jquery-3.6.1.min.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+<script src="https://www.lululemon.cn/themes/lulu/images/swiper.min.js"></script>
+<script src="https://www.lululemon.cn/themes/lulu/images/home-slides.js"></script>
+<script type="text/javascript" async="true" src="//lululemoncn.btttag.com/btt.js"></script>
+<div class="maxTopW">
+<div class="maxTop">
+  <div class="maxLogo">
+     <div class="logo"><a href="./"><img src="https://image.lululemon.cn/public/images/65/35/f9/c63ae74e53c892476074a8dcc4357575e6213e4d.png?1725335641#h" alt=""></a></div>
+  </div>
+
+  <div class="loginBox">
+    <div class="login-widgets">
+<em id="login_9028" class="me-item small-signin">
+    <a href="/passport-login.html" class="login">登录</a>&nbsp;/&nbsp;<a href="/passport-signup.html" style="margin-right:13px">注册</a>|
+</em>
+<em id="enterprise_login_9028" class="me-item small-signin">
+<!--  -->
+<!--  <a href="/passport-enterprise_login.html" class="login">企业登录</a>&nbsp;&nbsp;|-->
+</em>
+  <em id="cs_login_9028" class="me-item small-signin">
+        <a href="/passport-cs_login.html" class="login">大宗采购登录</a>&nbsp;&nbsp;|
+  </em>
+<em id="member_9028" class="me-item small-member" style="display:none;">
+  <a href="/member.html" id="uname_9028" style="margin-right:13px;">我的账户</a>|
+  <a href="/passport-logout.html" id="logout_9028">登出</a>
+</em>
+<span class="search-item" style="margin-left:2px;">
+  <i class="icon icon-sc"></i>
+    搜索
+    <form action="/search-result.html" method="post" id="searchbar_9028" async="false">
+      <input type="hidden" name="gctype" value="1">
+    <input class="x-input" type="text" name="search_keywords" id="dom_el_0931fd0" />    <button type="submit" class="btn btn-search" onclick="return validate()"></button>
+  </form>
+</span>
+<span class="cart-item" style="margin-left:10px;">
+<a href="/cart.html">
+  <i class="icon icon-cart"></i>
+  购物车
+  <em id="cart_number" class="op-cart-number" style="color: #707070"></em>
+</a>
+</span>
+<span class="cart-item" style="margin-left:12px;">
+<a href="https://lululemon-online.live800.com/live800/chatClient/chatbox.jsp?companyID=9204&configID=2">
+  <i class="icon icon-kf"></i>
+  在线客服
+</a>
+</span>
+<span class="cart-item" style="margin-left:12px;">
+<a href="/exshop.html">
+  <i class="icon icon-address"></i>
+  门店查询
+</a>
+</span>
+</div>
+<script>
+var name = Cookie.read('UNAME') || '';
+var cartNum = Cookie.read('S[CART_NUMBER]') || '';
+$('cart_number').innerHTML=cartNum;
+if(name){
+    //$("uname_9028").innerHTML = name;
+    $("member_9028").setStyle('display','');
+    $("login_9028").setStyle('display','none');
+    $("enterprise_login_9028").setStyle('display','none');
+    $("cs_login_9028").setStyle('display','none');
+}
+else{
+    $("login_9028").setStyle('display','');
+    $("member_9028").setStyle('display','none');
+    $("enterprise_login_9028").setStyle('display','');
+    $("cs_login_9028").setStyle('display','');
+}
+</script>
+<script type="text/javascript">
+(function($){
+$('#searchbar_9028').on('submit',function(){
+    if($(this).find('input').val().trim() === ''){
+        return false;
+    }
+    var data = 'search_keywords='+$(this).find('input').val().trim();
+    ajax_analytics(data, 'Direct Searches');
+});
+function ajax_analytics(data, searchAction){
+    $.post("/gallery-analytics_data.html",data,function(re){
+        re = JSON.parse(re);
+        if (re.status=='success') {
+            dataLayer.push({
+                'event': 'internalSearch',
+                'searchAction': searchAction, 
+                'searchKeyword': re.keywords, //传入搜索词
+                'searchResults': re.count, //传入搜索结果个数，无结果需传入“0”
+            });
+            // console.log(dataLayer);
+        }
+    });
+}
+
+$('.cart-item').click(function(){
+    dataLayer.push({
+        'event': 'customerService',
+    });
+});
+})(jQuery)
+</script>  </div>
+</div>
+<div class="MenuBox">
+    <div class="maxMenu">
+      <dl class="ad-ly-Morelinks " id="Morelinks_595">
+	
+	<dd>
+		<ul class="clearfix lv1-box">
+		    			<li class="item-1 item-lv-1 item-1 first ">
+				<a  target="_blank" href="https://www.lululemon.cn" >首页</a>
+							</li>
+						<li class="item-2 item-lv-1 item-2">
+				<a  href="/gallery-25.html?intcmp=PCHomepage|Top|Button2|2|Women" >女士</a>
+								<div class="popup-box">
+					<ul class="clearfix">
+						 						<li class="item-lv-2 item-1 first " style="" >
+							<a  href="/gallery-25.html" >新品上市</a>
+							<div class="sub-item">
+								 								<a  href="/active-9.html" >每周上新</a>
+															<a  href="/active-1025.html" >人气热卖</a>
+															<a  href="gallery-25.html" >季节精选</a>
+															<a  href="/gallery-28.html" >瑜伽垫/瑜伽辅具</a>
+															<a  href="/active-90.html" >亚洲定制剪裁</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-2" style="" >
+							<a  href="/gallery-33.html" >上装</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-42.html" >夹克/套头衫</a>
+															<a  href="/gallery-43.html" >外套/马甲</a>
+															<a  href="/gallery-41.html" >短/长袖T恤</a>
+															<a  href="/gallery-34.html" >背心</a>
+															<a  href="/gallery-37.html" >运动内衣</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-3" style="" >
+							<a  href="/gallery-44.html" >下装</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-45.html" >长裤</a>
+															<a  href="/gallery-47.html" >短裤/裙</a>
+															<a  href="/gallery-46.html" >中长裤</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-4" style="" >
+							<a  href="/gallery-339.html" >鞋</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-340.html" >运动鞋</a>
+															<a  href="/gallery-378.html" >休闲鞋</a>
+															<a  href="/gallery-341.html" >拖鞋</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-5" style="" >
+							<a  href="/gallery-26.html" >配件</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-29.html" >包袋</a>
+															<a  href="/gallery-50.html" >帽子/头带</a>
+															<a  href="/gallery-359.html" >水瓶</a>
+															<a  href="/gallery-28.html" >瑜伽垫/瑜伽配件</a>
+															<a  href="/gallery-52.html" >围巾/手套</a>
+															<a  href="/gallery-51.html" >袜子</a>
+															<a  href="/gallery-337.html" >内裤</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-6" style="" >
+							<a  href="/gallery-27.html" >瑜伽</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-45.html?activity_id=27" >长裤</a>
+															<a  href="/gallery-29.html?activity_id=27" >包袋</a>
+															<a  href="/gallery-42.html?activity_id=27" >夹克/套头衫</a>
+															<a  href="/gallery-47.html?activity_id=27" >短裤/裙</a>
+															<a  href="/gallery-46.html?activity_id=27" >中长裤</a>
+															<a  href="/gallery-50.html?activity_id=27" >帽子/头带</a>
+															<a  href="/gallery-41.html?activity_id=27" >短/长袖T恤</a>
+															<a  href="/gallery-28.html?activity_id=27" >瑜伽垫/瑜伽配件</a>
+															<a  href="/gallery-34.html?activity_id=27" >背心</a>
+															<a  href="/gallery-37.html?activity_id=27" >运动内衣</a>
+															<a  href="/gallery-51.html?activity_id=27" >袜子</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-7 last " style="" >
+							<a  href="javascript:void(0);" >运动</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-32.html" >跑步</a>
+															<a  href="/gallery-35.html" >训练</a>
+															<a  href="/gallery-36.html" >出行</a>
+														</div>
+						</li>
+											</ul>
+				</div>
+							</li>
+						<li class="item-3 item-lv-1 item-3">
+				<a  href="/gallery-1.html?intcmp=PCHomepage|Top|Button3|3|Men" >男士</a>
+								<div class="popup-box">
+					<ul class="clearfix">
+						 						<li class="item-lv-2 item-1 first " style="" >
+							<a  href="/gallery-1.html" >新品上市</a>
+							<div class="sub-item">
+								 								<a  href="/active-10.html" >每周上新</a>
+															<a  href="/active-1027.html" >人气热卖</a>
+															<a  href="/gallery-1.html" >季节精选</a>
+															<a  href="/gallery-99.html" >瑜伽垫/瑜伽辅具</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-2" style="" >
+							<a  href="/gallery-2.html" >上装</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-7.html" >夹克/套头衫</a>
+															<a  href="/gallery-8.html" >外套/马甲</a>
+															<a  href="/gallery-4.html" >短/长袖T恤</a>
+															<a  href="/gallery-60.html" >背心</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-3" style="" >
+							<a  href="/gallery-9.html" >下装</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-10.html" >长裤</a>
+															<a  href="/gallery-12.html" >短裤</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-4" style="" >
+							<a  href="/gallery-342.html" >鞋</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-343.html" >拖鞋</a>
+															<a  href="/gallery-379.html" >休闲鞋</a>
+															<a  href="/gallery-380.html" >运动鞋</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-5" style="" >
+							<a  href="/gallery-15.html" >配件</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-19.html" >包袋</a>
+															<a  href="/gallery-17.html" >帽子/头带</a>
+															<a  href="/gallery-18.html" >围巾/手套</a>
+															<a  href="/gallery-16.html" >袜子</a>
+															<a  href="/gallery-373.html" >水瓶</a>
+															<a  href="/gallery-338.html" >内裤</a>
+															<a  href="/gallery-99.html" >瑜伽垫/瑜伽配件</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-6" style="" >
+							<a  href="/gallery-11.html" >瑜伽</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-10.html?activity_id=11" >长裤</a>
+															<a  href="/gallery-411.html?activity_id=11" >袜子</a>
+															<a  href="/gallery-12.html?activity_id=11" >短裤</a>
+															<a  href="/gallery-60.html?activity_id=11" >背心</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-7 last " style="" >
+							<a  href="javascript:void(0);" >运动</a>
+							<div class="sub-item">
+								 								<a  href="/gallery-5.html" >跑步</a>
+															<a  href="/gallery-3.html" >训练</a>
+															<a  href="/gallery-6.html" >出行</a>
+														</div>
+						</li>
+											</ul>
+				</div>
+							</li>
+						<li class="item-4 item-lv-1 item-4">
+				<a  href="https://www.lululemon.cn/article-pinpaigushi_beallinhuochukeneng-254.html" >品牌故事 </a>
+								<div class="popup-box">
+					<ul class="clearfix">
+						 						<li class="item-lv-2 item-1" style="padding-left:680px;" >
+							<a  href="https://www.lululemon.cn/article-pinpaigushi_beallinhuochukeneng-254.html" >我们的品牌</a>
+							<div class="sub-item">
+								 								<a  href="https://www.lululemon.cn/article-pinpaigushi_Fabric+Technology-105.html" >Science  of Feel触感科学</a>
+															<a  href="https://www.lululemon.cn/article-pinpaigushi_ProductCare-132.html" >我们的产品</a>
+															<a  href="https://www.lululemon.cn/article-ecezhiyin2-304.html" >我们的承诺</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-2" style="padding-left:680px;" >
+							<a  href="" ></a>
+							<div class="sub-item">
+								 							</div>
+						</li>
+												<li class="item-lv-2 item-3 last " style="padding-left:900px;" >
+							<a  href="" ></a>
+							<div class="sub-item">
+								 							</div>
+						</li>
+											</ul>
+				</div>
+							</li>
+						<li class="item-5 item-lv-1 item-5 last ">
+				<a  href="" >社区故事</a>
+								<div class="popup-box">
+					<ul class="clearfix">
+						 						<li class="item-lv-2 item-1" style="padding-left:800px;" >
+							<a  href="https://www.lululemon.cn/article-pinpaigushi_brand-289.html" >遇见大使</a>
+							<div class="sub-item">
+								 								<a  href="https://www.lululemon.cn/active-328.html" >活出可能 ，垫上习练</a>
+															<a  href="https://www.lululemon.cn/active-412.html" >男士训练系列课程</a>
+															<a  href="https://www.lululemon.cn/article-pinpaigushi_PeaceonPurpose-248.html" > Peace on Purpose</a>
+															<a  href="" >　　</a>
+															<a  href="https://www.lululemon.cn/article-pinpaigushi_heretobejingsuixinzhuan-258.html" >境随心转社区资助计划</a>
+														</div>
+						</li>
+												<li class="item-lv-2 item-2" style="padding-left:800px;" >
+							<a  href="" ></a>
+							<div class="sub-item">
+								 							</div>
+						</li>
+											</ul>
+				</div>
+							</li>
+					</ul>
+	</dd>
+</dl>
+
+
+
+    
+  </div>
+</div>
+</div>
+<link rel="stylesheet" href="https://www.lululemon.cn/themes/lulu/images/product.css?513">
+
+<div class="max-page-product">
+	<div class="product-w">
+	 <div id="main" class="clearfix">
+  <div class="bread-crumbs">
+        <a href="https://www.lululemon.cn" alt="" title="">首页</a>
+    <span>|</span>
+        <a href="/gallery-25.html" alt="" title="">女士</a>
+    <span>|</span>
+        <a href="/gallery-33.html" alt="" title="">上装</a>
+    <span>|</span>
+        <a href="/gallery-42.html" alt="" title="">夹克/套头衫</a>
+    <span>|</span>
+    Scuba™ Evolve 女士经典剪裁拉链连帽衫  </div>
+
+  <!-- 商品详情 -->
+  <div class="page-maincontent">
+    <div id="product_container" class="product-container clearfix">
+      <form action="/cart-add-goods.html" method="post" target="_dialog_minicart">
+  <input type="hidden" name="prepare_type" value="">
+  <input type="hidden" name="btype">
+  <input type="hidden" name="goods[goods_id]" value="20936">
+  <input type="hidden" name="goods[product_id]" value="382674">
+  <input type="hidden" name="spec[num]" value="2">
+    <input type="hidden" name="spec[selected]" value="1">
+    <div class="product-side">
+    <!-- 商品相册 -->
+<div id="product_album" class="product-album">
+
+  
+  <div class="product-album-preview clearfix">
+    <!-- 3d -->
+        <div class="product-album-pic">
+    <!-- 大图 -->
+            <!-- 有视频 -->
+      <a href="https://image.lululemon.cn/public/images/04/33/b8/77664025d57bf79b0b9231b799e1fe800437ec0f.jpg?1789709895#h" class="album-preview-container" style="height: 100%;display: block;" id="op_product_zoom">
+        <img src="https://image.lululemon.cn/public/images/33/e3/c7/97cd7cdf152e50e194bf7bae7cfe3601c9d24583.png?1790141746#h" alt="" class="small-pic" style="max-width:750px;max-height:750px;display: none;">
+      
+        <video class="product-video" poster="https://image.lululemon.cn/public/images/33/e3/c7/97cd7cdf152e50e194bf7bae7cfe3601c9d24583.png?1790141746#h" playsinline="" muted="" preload="auto" autoplay style="max-width:750px;max-height:750px;width: 100%;height: 100%;">
+          <source src="https://image.lululemon.cn/public/video/LW3LHPS-031045.mp4" type="video/mp4">
+        </video>
+      </a>
+             <!-- 搭配推荐大图 -->
+          </div>
+    <img class="loading" app="b2c" src="https://image.lululemon.cn/public/app/b2c/statics/images/loading.gif" alt="正在加载大图..." style="display:none;" />    <!-- <div class="product-album-zoom"><a href="/product-albums-20936.html" title="点击查看大图" target="_blank" class="icon">&#x4a;</a></div> -->
+      </div>
+  <div class="product-album-thumb product-album-thumb-bottom">
+    <div class="flip  prev forward over"><a href="javascript:void(0);" class="icon">&#x34;</a></div>
+    <div class="thumbnail-list">
+      <ul class="clearfix">
+        <!-- 小图 -->
+                <li class="thumb-item active first">
+          <div class="thumbnail">
+            <a href="https://image.lululemon.cn/public/images/33/e3/c7/97cd7cdf152e50e194bf7bae7cfe3601c9d24583.png?1790141746#h" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/33/e3/c7/97cd7cdf152e50e194bf7bae7cfe3601c9d24583.png?1790141746#h" id="videotype">
+              <img src="https://image.lululemon.cn/public/images/33/e3/c7/97cd7cdf152e50e194bf7bae7cfe3601c9d24583.png?1790141746#h" alt="" width="60" height="60" >
+            </a>
+          </div>
+        </li>
+                  <li class="active">
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/a3/e8/16/b3169c46cbf732a8951a15638ab1f66e8e015115.jpg?1789709895#h" data-index="1" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/a3/e8/16/b3169c46cbf732a8951a15638ab1f66e8e015115.jpg?1789709895#h"><img src="https://image.lululemon.cn/public/images/ab/83/c0/461c4997102d6a57b19bdbb97cf4276801a1f168.jpg?1789709895#h" alt="" width="60" height="60"></a></div>
+          </li>
+                    <li >
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/89/23/0f/f1006da4486550eed386803420b3f8c5c23a8ad8.jpg?1789709895#h" data-index="2" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/89/23/0f/f1006da4486550eed386803420b3f8c5c23a8ad8.jpg?1789709895#h"><img src="https://image.lululemon.cn/public/images/07/16/a2/f08d6176feae2740a086cbd5db597c464b2b9b31.jpg?1789709895#h" alt="" width="60" height="60"></a></div>
+          </li>
+                    <li >
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/df/c1/2b/7055983e70ec17cf3270b01ad9e0e2ab1f7aa482.jpg?1789709896#h" data-index="3" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/df/c1/2b/7055983e70ec17cf3270b01ad9e0e2ab1f7aa482.jpg?1789709896#h"><img src="https://image.lululemon.cn/public/images/cb/54/01/987f9a4ea22f387557841a74a43a9d7253bc42d9.jpg?1789709896#h" alt="" width="60" height="60"></a></div>
+          </li>
+                    <li >
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/ea/71/25/5fe7d9ebfc8fb1abf8b5f70b1fc4da07bad11d26.jpg?1789709896#h" data-index="4" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/ea/71/25/5fe7d9ebfc8fb1abf8b5f70b1fc4da07bad11d26.jpg?1789709896#h"><img src="https://image.lululemon.cn/public/images/07/b4/ae/71ff48f25b3dc7423342b7b58c915427144f72dc.jpg?1789709896#h" alt="" width="60" height="60"></a></div>
+          </li>
+                    <li >
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/3c/ef/34/7ae31ed334115a17df68df80dd49e13a4c24b129.jpg?1789709896#h" data-index="5" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/3c/ef/34/7ae31ed334115a17df68df80dd49e13a4c24b129.jpg?1789709896#h"><img src="https://image.lululemon.cn/public/images/26/bf/92/732b60df758c62221357d08b469758efbff4b9fe.jpg?1789709896#h" alt="" width="60" height="60"></a></div>
+          </li>
+                    <li >
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/17/f3/7a/538c9ced6328ef8bdba4a31b9dccc3eecf9541b3.jpg?1789709897#h" data-index="6" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/17/f3/7a/538c9ced6328ef8bdba4a31b9dccc3eecf9541b3.jpg?1789709897#h"><img src="https://image.lululemon.cn/public/images/80/fd/87/487f1c6d870cc2a418fe9de4616e042de215be47.jpg?1789709897#h" alt="" width="60" height="60"></a></div>
+          </li>
+                    <li >
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/8f/53/a6/bed120397fb52c88920d45159c94ac320727c9f4.jpg?1789709897#h" data-index="7" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/8f/53/a6/bed120397fb52c88920d45159c94ac320727c9f4.jpg?1789709897#h"><img src="https://image.lululemon.cn/public/images/35/59/90/d4a2a4c4fcb23ac074c2df754f2df2ca2f39ba56.jpg?1789709897#h" alt="" width="60" height="60"></a></div>
+          </li>
+                    <li >
+            <div class="arrow arrow-top"><i class="below"></i></div>
+            <div class="thumbnail"><a href="https://image.lululemon.cn/public/images/19/6b/80/d38ac9e543fcb938fd09fc5b9239269f67c87f8f.jpg?1789709898#h" data-index="8" rel="op_product_zoom" rev="https://image.lululemon.cn/public/images/19/6b/80/d38ac9e543fcb938fd09fc5b9239269f67c87f8f.jpg?1789709898#h"><img src="https://image.lululemon.cn/public/images/28/38/52/a7b5c14f43184ff9e6e9180e500f3b4a3bca094e.jpg?1789709898#h" alt="" width="60" height="60"></a></div>
+          </li>
+          
+        <!-- 推荐商品 -->
+                
+      </ul>
+    </div>
+    <div class="flip next backward over "><a href="javascript:void(0);" class="icon">&#x35;</a></div>
+  </div>
+</div>
+
+   
+  </div>
+  <div class="product-main clearfix">
+
+    <!-- 标题简介 -->
+    <div class="product-titles">
+        
+    <span class="favbox">
+    <a href="javascript:void(0);" class="btn btn-rounded btn-addfav" rel="_favbtn_" data-gid="20936" style="right:40px;"></a>
+    <a href="javascript:void(0);" class="btn btn-rounded btn-faved" rev="_favbtn_" style="display:none;right:40px;"></a>
+  </span>
+      <!-- 分享推荐收藏 -->
+    
+      <h2>
+        Scuba™ Evolve 女士经典剪裁拉链连帽衫      </h2>
+            <div class="product-bn">LW3LHPS</div>
+
+    </div>
+    <!-- 商品基本信息 -->
+    <div id="product_information" class="product-information">
+      <!--商品价格 and 商品评分-->
+       <div class="product-concerns">
+    <ul>
+      <li class="item action-promotion_tag">
+      </li>
+            <li class="item">
+        <span class="detail">
+            <b class="price"><ins class="action-price_range"></ins></b>
+            
+            <b class="price"><ins class="action-price"></ins></b>
+                          <i class="minor"><span class="action-saveprice"></span></i>
+                    </span>
+      </li>
+            <li class="item">
+        <span class="detail">
+          <i class="minor"><del class="action-mktprice"></del></i>
+        </span>
+      </li>
+            <li class="item" style="display:none">
+      <span class="label">会员价：</span>
+        <span class="detail">
+                    <i class="minor">最低<span class="action-minprice"></span>起</i>
+                    <span class="more pop-wrapper">
+            <a href="javascript:void(0);" class="action-handle"><span>更多会员价</span><i class="icon">&#x36;</i></a>
+            <div class="pop-body action-memberprice" style="display:none;">
+            </div>
+          </span>
+                  </span>
+      </li>
+            <li class="item" style="display:none">
+      <span class="label">商品评分：</span>
+        <span class="detail">
+          <em class="stars stars-0">
+            <span class="below"><i class="icon star">&#x2f;</i><i class="icon star">&#x2f;</i><i class="icon star">&#x2f;</i><i class="icon star">&#x2f;</i><i class="icon star">&#x2f;</i></span><span class="above"><i class="icon star">&#x2e;</i><i class="icon star">&#x2e;</i><i class="icon star">&#x2e;</i><i class="icon star">&#x2e;</i><i class="icon star">&#x2e;</i></span>
+          </em>
+          <i>(<a href="javascript:void(0);" onclick="$$('.product-tags .tag-comment').fireEvent('click');location.href='#product_comment';">共0人评论</a>)</i>
+        </span>
+      </li>
+          </ul>
+</div>
+      <!-- 赠品和促销 -->
+        
+               <!--判断是预售商品-->
+
+            <!-- 倒计时 -->
+            
+      <!-- 扩展属性 -->
+      
+      <!-- 购买区 -->
+      <div class="product-buy">
+        <!-- 商品规格 -->
+        <div id="product_spec" class="product-spec">
+  <ul class="spec-area">
+        <li class="spec-item  image " >
+      <span class="item-label"><i>颜色</i>
+              </span>
+      <span class="item-content">
+        <ul class="clearfix">
+                    <li class="spec-attr selected">
+          	
+                        <a href="javascript:void(0);">
+                        <img src="https://image.lululemon.cn/public/images/a1/7e/18/8f2a5cdfd6021a2ea344d59e5519956eb6da0e2e.jpg?1789709943#h" alt="杂色柏树绿" title="杂色柏树绿">
+            
+                       
+            </a>
+                          <i class="color-code">杂色柏树绿</i>
+                       </li>
+                    <li class="spec-attr">
+          	
+                        <a href="/product-382679.html" rel="382679">
+                        <img src="https://image.lululemon.cn/public/images/89/c3/a6/0e6a6a48c16286bafe8e580a494914be663d1485.jpg?1789709979#h" alt="杂色核心中灰" title="杂色核心中灰">
+            
+                       
+            </a>
+                          <i class="color-code">杂色核心中灰</i>
+                       </li>
+                  </ul>
+      </span>
+    </li>
+        <li class="spec-item  text active  " >
+      <span class="item-label"><i>尺码</i>
+                <div class="cmzn" onclick="$('guide_popup').show()">尺码指南</div>
+              </span>
+      <span class="item-content">
+        <ul class="clearfix">
+                    <li class="spec-attr">
+          	
+                        <a href="/product-382674.html" rel="382674">
+                        <span>M</span>
+                       
+            </a>
+                       </li>
+                    <li class="spec-attr">
+          	
+                        <a href="/product-382677.html" rel="382677">
+                        <span>L</span>
+                       
+            </a>
+                       </li>
+                    <li class="spec-attr">
+          	
+                        <a href="/product-382676.html" rel="382676">
+                        <span>XL</span>
+                       
+            </a>
+                       </li>
+                  </ul>
+      </span>
+    </li>
+      </ul>
+</div>
+        <div class="product-action">
+          <ul>
+                        <!--商品库存-->
+              <li class="product-buy-quantity" >
+  <label class="item-label" for="for_quantity_input" style="font-size: 16px;text-align:left;">选择数量：</label>
+  <span class="item-content">
+    <span class="p-quantity"><a href="javascript:void(0);" class="btn-decrease">-</a><input type="text" name="goods[num]" id="for_quantity_input" class="action-quantity-input" value="1" min="1" max=""><a href="javascript:void(0);" class="btn-increase">+</a> 剩余2件</span>
+    <span class="p-store"></span>
+    <input type="hidden" name="stock" value="2">
+  </span>
+</li>
+
+<!-- <dl class="product-quantity">
+  <dt>选择数量</dt>
+  <dd>
+    <div class="s">1</div>
+    <ul>
+      <li><span>1</span></li>
+      <li><span>2</span></li>
+      <li><span>3</span></li>
+      <li><span>4</span></li>
+      <li><span>5</span></li>
+    </ul>
+    <div class="msg">余量有限</div>
+
+  </dd>
+</dl> -->
+              <!--购买按钮-->
+              <li class="product-buy-action ">
+  <button type="submit" class="btn btn-major btn-huge action-addtocart" rel="_request"><span><span>加入购物车</span></span></button><button type="submit" class="btn btn-import btn-huge action-buynow" rel="_request"><span><span>立即购买</span></span></button>
+<!--判断是否是预售商品和预售商品的时间判断-->
+</li>
+              <!--判断是预售商品-->
+                      </ul>
+        </div>
+                <div class="service" style="">
+          <a href="https://lululemon-online.live800.com/live800/chatClient/chatbox.jsp?companyID=9204&configID=2" class="item1"><i></i><span>在线客服</span></a>
+          <a class="item2"><i></i><span>客服热线:400-600-6865</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+
+<img src="/product-cron-20936.html" width="1" border="none" height="1">
+
+
+<div id="product_notify" class="product-notify" style="display:none;">
+  <p class="desc">该货品暂时缺货，请在下面输入您的邮箱地址或手机号码，当我们有现货供应时，我们会发送邮件通知您！</p>
+  <form class="form" method="post" action="/product-toNotify.html">
+    <input type="hidden" name="item[0][goods_id]" value="20936">
+    <input type="hidden" name="item[0][product_id]" value="382674">
+    <ul>
+      <li class="form-item">
+        <label for="" class="form-label">邮箱地址：</label>
+        <span class="form-act">
+          <input class="x-input" type="text" name="email" id="dom_el_0931fd1" size="30" />        </span>
+      </li>
+      <li class="form-item">
+        <label for="" class="form-label">手机号码：</label>
+        <span class="form-act">
+          <input class="x-input" type="text" name="cellphone" id="dom_el_0931fd2" size="30" />        </span>
+      </li>
+      <li class="form-item form-item-last">
+        <label for="" class="form-label"></label>
+        <span class="form-act">
+          <button type="submit" class="btn btn-caution" rel="_request"><span><span>提交</span></span></button>        </span>
+      </li>
+    </ul>
+  </form>
+</div>
+
+    </div>
+
+    <!-- 配件套餐 -->
+    
+    <div id="product_section">
+      <div id="product_detail" class="product-section product-detail">
+        <h2 class="tags-hd active"><a href="#detail">商品详情</a></h2>
+        <div class="detail-content">
+  <textarea class="action-lazyload hide">
+    <div class="detail-content-item active">
+      <h3>
+        <span class="icon">
+          <img src="https://www.lululemon.cn/wap_themes/lululemon/images/pdp-icon-1.png">
+        </span>
+        <span class="title">
+          商品信息
+        </span>
+        <span class="fr open">+</span>
+        <span class="fr close">-</span>
+      </h3>
+      <div class="intro">
+        <!-- 商品信息 -->
+        <img src="https://image.lululemon.cn/public/images/36/76/96/f3eda0b0f7aff159ab06159763a32c78f2def421.jpg?1791785362#h">&nbsp;&nbsp;
+<img src="https://image.lululemon.cn/public/images/0e/db/f5/677acef246b5015b07ede5798e6705ae90608931.jpg?1789709886#h">      </div>
+    </div>
+
+   <div class="detail-content-item active">
+    <h3>
+      <span class="icon">
+        <img src="https://www.lululemon.cn/wap_themes/lululemon/images/pdp-icon-2.png">
+      </span>
+      <span class="title">
+        洗护说明
+      </span>
+      <span class="fr open">+</span>
+      <span class="fr close">-</span>
+    </h3>
+    <div class="intro">
+      <!-- 洗护说明 -->
+          </div>
+   </div>
+
+   <div class="detail-content-item active cs_hide">
+      <h3>
+        <span class="icon">
+          <img src="https://www.lululemon.cn/wap_themes/lululemon/images/pdp-icon-3.png">
+        </span>
+        <span class="title">
+          发货&退换货
+        </span>
+        <span class="fr open">+</span>
+        <span class="fr close">-</span>
+      </h3>
+      <div class="intro">
+        <!-- 发货&退换货 -->
+        <img src="https://image.lululemon.cn/public/images/e4/ef/f2/03be453012d5b2edc368fb96540b7e7aa3fb47c0.jpg?1789709874#h">      </div>
+   </div>
+   
+    <!-- <img src="https://www.lululemon.cn/wap_themes/lululemon/images/declare.png"> -->
+  </textarea>
+</div>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+<dl class="goods-list max-index-block3" id="goodslist_20936">
+  <dt class="title">
+    <em>热卖推荐</em>
+  </dt>
+  <dd class="tabs-body">
+    <div class="n">
+    <div class="tabs-item  swiper-container" id="ct_20936">
+      <div class="w swiper-wrapper">
+      <div class="ul-w  swiper-slide">
+      <ul class="clearfix">
+                <li class="goods-item">
+          <div class="item">
+            <div class="goods-pic">
+              <a href="/product-385362.html">
+                <img src="https://image.lululemon.cn/public/images/e9/a4/0f/9d8de017be79fbdbb3927e1b6b6768c9d0a3ce8d.jpg?1792143410#h" alt="Align? 女士运动高腰紧身裤 24""/>
+              </a>
+            </div>
+            <div class="goods-info">
+              <div class="goods-name">
+                <div class="yw"><a href="/product-385362.html">Align? </a></div>
+                <h6>
+                  <a href="/product-385362.html">女士运动高腰紧身裤 24"</a>
+                </h6>
+
+              </div>
+              <div class="goods-price">￥850.00</div>
+              <div class="goods-btn-box">
+                <a class="a-btn" href="/product-385362.html">立即购买</a>
+              </div>
+            </div>
+          </div>
+
+        </li>
+                <li class="goods-item">
+          <div class="item">
+            <div class="goods-pic">
+              <a href="/product-95409.html">
+                <img src="https://image.lululemon.cn/public/images/23/7e/19/9b25a8f77917cbd9eecbaa21306a3e7fb7eb4e41.jpg?1681806584#h" alt="Wunder Train 女士运动高腰紧身裤 24""/>
+              </a>
+            </div>
+            <div class="goods-info">
+              <div class="goods-name">
+                <div class="yw"><a href="/product-95409.html">Wunder Train </a></div>
+                <h6>
+                  <a href="/product-95409.html">女士运动高腰紧身裤 24"</a>
+                </h6>
+
+              </div>
+              <div class="goods-price">￥850.00</div>
+              <div class="goods-btn-box">
+                <a class="a-btn" href="/product-95409.html">立即购买</a>
+              </div>
+            </div>
+          </div>
+
+        </li>
+                <li class="goods-item">
+          <div class="item">
+            <div class="goods-pic">
+              <a href="/product-209468.html">
+                <img src="https://image.lululemon.cn/public/images/66/e6/36/531c3fad15c0a640157144d0df9810e21800c8a6.jpg?1723387085#h" alt="Cross Chill 男士运动夹克"/>
+              </a>
+            </div>
+            <div class="goods-info">
+              <div class="goods-name">
+                <div class="yw"><a href="/product-209468.html">Cross Chill </a></div>
+                <h6>
+                  <a href="/product-209468.html">男士运动夹克</a>
+                </h6>
+
+              </div>
+              <div class="goods-price">￥1680.00</div>
+              <div class="goods-btn-box">
+                <a class="a-btn" href="/product-209468.html">立即购买</a>
+              </div>
+            </div>
+          </div>
+
+        </li>
+                <li class="goods-item">
+          <div class="item">
+            <div class="goods-pic">
+              <a href="/product-176681.html">
+                <img src="https://image.lululemon.cn/public/images/15/8f/21/e104a722c22f99e6a5ff6ac8ad188fea50313b54.jpg?1774415252#h" alt="Wunderlust 背包"/>
+              </a>
+            </div>
+            <div class="goods-info">
+              <div class="goods-name">
+                <div class="yw"><a href="/product-176681.html">Wunderlust </a></div>
+                <h6>
+                  <a href="/product-176681.html">背包</a>
+                </h6>
+
+              </div>
+              <div class="goods-price">￥1380.00</div>
+              <div class="goods-btn-box">
+                <a class="a-btn" href="/product-176681.html">立即购买</a>
+              </div>
+            </div>
+          </div>
+
+        </li>
+                </ul>
+        </div>
+                </div>
+    </div>
+
+    </div>
+
+  </dd>
+  <div class="tab-click swiper-pagination">
+      <span>
+                </span>
+              </div>
+    <a class="slider-btn prev "href="javascript:void(0)" title=""></a>
+    <a class="slider-btn next "href="javascript:void(0)" title=""></a>
+</dl>
+<script type="text/javascript">
+(function($){
+var nologin = true;
+new Request({
+    url:"/passport-ajax_check_login.html",
+    onComplete:function(rs) {
+
+      rs = JSON.parse(rs);
+      if( rs.status == true ){
+        nologin = false;
+      }else{
+        $$('.favbox').set('html', '<a href="/passport-login.html" class="btn btn-rounded btn-addfav" style="right:40px;"></a>');
+        nologin = true;
+      }
+    }
+}).post();
+
+  var prev_btn=$('#goodslist_20936').find('.prev');
+  var next_btn=$('#goodslist_20936').find('.next');
+  var swiper = new Swiper('#goodslist_20936 .swiper-container', {
+        pagination: '#goodslist_20936 .swiper-pagination',
+        paginationClickable: '#goodslist_20936 .swiper-pagination',
+        nextButton: next_btn,
+        prevButton: prev_btn,
+        observer:true,
+        observeParents:true,
+        spaceBetween: 30
+    });
+
+})(jQuery)
+</script>
+
+
+<div id="guide_popup" class="" style="display:none">
+	<i class="mask"></i>
+	<div class="guidebody" style="top:10%;bottom:10%;">
+		<div class="close-guide-popup" onclick="this.getParents('#guide_popup').hide();"></div>
+		<div class="guide-title border-b">尺寸指南</div>
+    	<div class="guide-content">
+                        <img src="https://image.lululemon.cn/public/images/29/2d/32/6d9019be864ba3bee344af1aa52a326c1c6b2521.jpg?1716971961#h" style="width:100%;">
+            
+    		<!-- 以下调用 -->
+    		<!-- <div class="table-div">
+    			<h3>轻量级支撑度</h3>
+    			<table width="100%" style="text-align:center;line-height:3;">
+    				<tbody>
+    					<tr>
+    						<th width="50%">尺码</th>
+    						<th width="50%">胸围</th>
+    					</tr>
+    					<tr><td>2/xxs</td><td>30*</td></tr>
+    					<tr><td>4/xs</td><td>32*</td></tr>
+    					<tr><td>6/s</td><td>34*</td></tr>
+    					<tr><td>8/m</td><td>36*</td></tr>
+    					<tr><td>10/l</td><td>38*</td></tr>
+    					<tr><td>12/xl</td><td>40*</td></tr>
+    				</tbody>
+    			</table>
+    		</div>
+    		<br>
+    		<div class="table-div">
+    			<h3>中/重量级支撑度</h3>
+    			<table width="100%" style="text-align:center;">
+    				<tbody>
+    					<tr>
+    						<th>松紧带测试</th>
+    						<th colspan="9">胸围测定对应罩杯</th>
+    					</tr>
+    					<tr>
+    						<td bgcolor="#ebebeb">27-29*</td>
+    						<td bgcolor="#f9f9f9">31-32*<br><b>32A</b></td>
+    						<td bgcolor="#f9f9f9">32-33*<br><b>32B</b></td>
+    						<td bgcolor="#f9f9f9">33-34*<br><b>32C</b></td>
+    						<td bgcolor="#f9f9f9">34-35*<br><b>32D</b></td>
+    						<td bgcolor="#f9f9f9">35-36*<br><b>32DD</b></td>
+    						<td bgcolor="#f9f9f9">36-37*<br><b>32E</b></td>
+    						<td bgcolor="#f9f9f9"></td>
+    						<td bgcolor="#f9f9f9"></td>
+    						<td bgcolor="#f9f9f9"></td>
+    					</tr>
+    					<tr>
+    						<td bgcolor="#f9f9f9">29-31*</td>
+    						<td></td>
+    						<td>31-32*<br><b>34A</b></td>
+    						<td>32-33*<br><b>34B</b></td>
+    						<td>33-34*<br><b>34C</b></td>
+    						<td>34-35*<br><b>34D</b></td>
+    						<td>35-36*<br><b>34DD</b></td>
+    						<td>36-37*<br><b>34E</b></td>
+    						<td></td>
+    						<td></td>
+    					</tr>
+    					<tr>
+    						<td bgcolor="#ebebeb">31-33*</td>
+    						<td bgcolor="#f9f9f9"></td>
+    						<td bgcolor="#f9f9f9"></td>
+    						<td bgcolor="#f9f9f9">31-32*<br><b>36A</b></td>
+    						<td bgcolor="#f9f9f9">32-33*<br><b>36B</b></td>
+    						<td bgcolor="#f9f9f9">33-34*<br><b>36C</b></td>
+    						<td bgcolor="#f9f9f9">34-35*<br><b>36D</b></td>
+    						<td bgcolor="#f9f9f9">35-36*<br><b>36DD</b></td>
+    						<td bgcolor="#f9f9f9">36-37*<br><b>36E</b></td>
+    						<td bgcolor="#f9f9f9"></td>
+    					</tr>
+    					<tr>
+    						<td bgcolor="#f9f9f9">33-35*</td>
+    						<td></td>
+    						<td></td>
+    						<td></td>
+    						<td>31-32*<br><b>38A</b></td>
+    						<td>32-33*<br><b>38B</b></td>
+    						<td>33-34*<br><b>38C</b></td>
+    						<td>34-35*<br><b>38D</b></td>
+    						<td>35-36*<br><b>38DD</b></td>
+    						<td>36-37*<br><b>38E</b></td>
+    					</tr>
+    					<tr>
+    						<td bgcolor="#ebebeb">35-37*</td>
+    						<td bgcolor="#f9f9f9"></td>
+    						<td bgcolor="#f9f9f9"></td>
+    						<td bgcolor="#f9f9f9"></td>
+    						<td bgcolor="#f9f9f9">31-32*<br><b>40A</b></td>
+    						<td bgcolor="#f9f9f9">32-33*<br><b>40B</b></td>
+    						<td bgcolor="#f9f9f9">33-34*<br><b>40C</b></td>
+    						<td bgcolor="#f9f9f9">34-35*<br><b>40D</b></td>
+    						<td bgcolor="#f9f9f9">35-36*<br><b>40DD</b></td>
+    						<td bgcolor="#f9f9f9">36-37*<br><b>40E</b></td>
+    					</tr>
+    				</tbody>
+    			</table>
+    		</div> -->
+    		<!-- 以上调用 end-->
+		</div>
+	</div>
+</div>
+
+
+
+<script src="https://image.lululemon.cn/public/app/b2c/statics/js_mini/product.js"></script><script src="https://image.lululemon.cn/public/app/desktop/statics/js_mini/dateFormat.min.js"></script><script>
+    var blindTimer = 0, nowTimer = 0;
+    (function(){
+        // 浏览器休眠后重启倒计时
+        document.addEventListener("visibilitychange", function (e) {
+            if (document.visibilityState === 'visible') {
+                
+                function getNowTime(){
+                    console.log("浏览器休眠重新请求倒计时");
+                    new Request({
+                        url:"/product-getNowTime.html",
+                        data: '',
+                        onComplete:function(rs) {
+                            var result = JSON.parse(rs);
+                            var nowTime = result.nowtime
+                            countDownBlindBox(nowTime)
+                        }
+                    }).post(); 
+                }
+
+                !nowTimer && getNowTime()
+               
+                if(nowTimer===0){
+                    nowTimer = setTimeout(function(){
+                        clearTimeout(nowTimer)
+                        nowTimer = 0
+                    },1000*60*5)
+                }
+
+              } 
+        });
+
+        // 商品开售倒计时
+        var timeStart = '';
+        var timeNow = '';
+        var is_marketable_time = '';  // 1 到时间 0 未到
+        is_marketable_time = parseInt(is_marketable_time)
+        if(timeStart&&timeNow&&!is_marketable_time){
+            $$('.action-addtocart').set("disabled", true);
+            $$('.action-buynow').set("disabled", true);
+            
+            var domStartTime = DateFormat.format.date(timeStart, 'M月d日 HH:mma')
+            $('domStartTime').set('html',domStartTime)
+           
+            timeStart = new Date(timeStart.replace(/-/g,'/')).getTime();
+            timeNow = new Date(timeNow.replace(/-/g,'/')).getTime();
+            // 需要倒计时的秒数
+            var countTime = (timeStart - timeNow)/1000;
+            if(countTime>0){
+                var timer = setInterval(function(){
+                    if(countTime>0){
+                        countTime--
+                        countDown(countTime)
+                    }else{
+                        clearInterval(timer)
+                        new Request({
+                            url:"/product-goodsMarketable.html",
+                            data: 'goods_id=20936',
+                            onComplete:function(rs) {
+                                location.reload();
+                            }
+                        }).post();
+                    }
+                },1000)
+            }else{
+                $('countTime').set('html','00:00:00')
+            }
+
+            function countDown(timestamp){
+                timestamp = timestamp;
+                var day = Math.floor(timestamp / 60 / 60 / 24);
+                day < 10 && ( day = '0'+ day);
+                var hour = Math.floor(timestamp / 60 / 60 % 24 );
+                hour < 10 && ( hour = '0'+ hour);
+                var min = Math.floor(timestamp / 60 % 60);
+                min < 10 && ( min = '0'+ min);
+                var sec = Math.floor(timestamp % 60);
+                sec < 10 && ( sec = '0'+ sec);
+                var html = (day > 0 ? day + '天 ':'') + hour + ':' + min + ':' + sec
+                // console.log('timestamp',timestamp,'day',day,'hour',hour,'min',min,'sec',sec);
+                
+                $('countTime').set('html',html)
+            }
+        }
+
+    countDownBlindBox()   
+
+
+    // 锚点
+    //点击加入购物车判断
+    $$('.product-tips').addEvent('click', function(e){
+
+        var top = $$('#anchor')
+        console.log(111, top)
+        if(top){
+            window.scrollTo({
+              top: top[0].offsetTop ,//需要父元素设置postion(relative、absolute、fixed)
+              behavior: "smooth"
+            })
+        }
+    });
+
+    })();
+
+
+// fireCustomEvent("lululemon_product_"+"20936");   
+(function(){
+    var pic = $$('.album-preview-container')[0],
+    video = $$('.product-album-pic .product-video')[0],
+    rate;
+
+    if(video) {
+        video.addEventListener('canplay',function(){
+            console.log('视频canplay完成',pic.getSize().y);
+        },false)
+
+        video.addEventListener('loadeddata',function(){
+            console.log('视频loadeddata完成',pic.getSize().y);
+        },false)
+
+        video.addEventListener('canplaythrough',function(){
+            var pic_w = pic.getSize().x,
+            pic_y = pic.getSize().y;
+            rate = pic.getSize().x / pic.getSize().y;
+            console.log('pic_w',pic_w,'pic_y',pic_y,'rate',rate,1);
+            console.log('canplaythrough加载完成',pic_y);
+            setPicHeight();
+        },false)
+
+        window.addEventListener('resize',function(){
+            setPicHeight();
+        });
+
+        function setPicHeight(){
+            console.log('rate',rate);
+            var pic_w = pic.getSize().x;
+            pic.setStyles({'height':pic_w/rate,'line-height':pic_w/rate});
+            video.setStyles({'height':pic_w/rate,'line-height':pic_w/rate});
+        }
+    }
+})()
+    
+  
+
+var pic = $$('.album-preview-container')[0],
+    video = $$('.product-album-pic .product-video')[0],
+    pic_w = pic.getSize().x,
+    pic_y = pic.getSize().y,
+    rate = pic.getSize().x / pic.getSize().y;
+    if(video){
+        video.addEventListener('canplaythrough',function(){
+            // video.addEventListener('canplay',function(){
+            //     console.log('视频canplay完成',pic.getSize().y);
+            // },false)
+
+            // video.addEventListener('loadeddata',function(){
+            //     console.log('视频loadeddata完成',pic.getSize().y);
+            // },false)
+            console.log('canplaythrough加载完成',pic_y);
+            setPicHeight();
+        },false)
+    }else {
+        setPicHeight();
+    }
+    
+
+    window.addEventListener('resize',function(){
+        setPicHeight();
+    });
+
+    // 解决相册图切换抖动的问题
+    function setPicHeight(){
+        console.log('rate',rate);
+        // 规格切换后需要重新获取元素
+        var pic = $$('.album-preview-container')[0],
+            video = $$('.product-album-pic .product-video')[0];
+        console.log('pic_w',pic_w);
+        pic.setStyles({'height':pic_w/rate,'line-height':pic_w/rate});
+        video && video.setStyles({'height':pic_w/rate,'line-height':pic_w/rate});
+    }   
+
+var main = $('main');
+var container = $('product_container');
+var section = $('product_section');
+priceControl.spec = {"decimals":"2","dec_point":".","thousands_sep":"","fonttend_decimal_type":"0","fonttend_decimal_remain":"2","sign":"\uffe5"};
+//请求库存和价格
+var Router = {
+    price: function(id){
+        return '/product-ajax_product_price-'+id+'.html';
+    },
+    stock: function(id) {
+        return '/product-ajax_product_store-'+id+'.html';
+    },
+    basic: function(id, select_size) {
+        if(select_size){
+            return '/product-ajax_product_basic-'+id+'-1.html';
+        }else{
+            return '/product-ajax_product_basic-'+id+'.html';
+        }
+    }
+};
+
+
+var Query = function(url, options) {
+    var self = this;
+    this.send = function(url, options) {
+        options = Object.merge({
+            url: url,
+            method: 'post',
+            link: 'chain'
+        }, options || {});
+        return new Request(options).send();
+    };
+    this.update = function (url, update, options) {
+        options = Object.merge({
+            url: url,
+            update: update,
+            method: 'post',
+            link: 'chain'
+        }, options || {});
+        new Request.HTML(options).send();
+    };
+    this.price = function(options) {
+        options = Object.merge({
+            method: 'get',
+            onSuccess:function(rs) {
+                rs = JSON.decode(rs);
+
+                if(rs && Object.getLength(rs)) {
+                    if(rs.error) {
+                        return Message.error(rs.error);
+                    }
+                                        if (rs.now_buy=='false') {
+                        console.log($$('.action-buynow'));
+                        $$('.action-buynow').set("disabled", true);
+                    }
+                    var spec_num = container.getElement('input[name="spec[num]"]').value;
+                    var spec_selected = container.getElement('input[name="spec[selected]"]').value;
+                    if(spec_num > spec_selected){
+                        rs.mktprice = rs.max_mktprice;
+                        if(rs.price_range.max!=undefined){
+                            rs.price = '';
+                            rs.saveprice = '';
+                        }
+                    }else{
+                        rs.price_range='';
+                    }
+                    
+                    Object.each(rs, function(v, k) {
+                        if(typeOf(v) === 'array') {
+                            var s = '';
+                            if(k=='memberprice'){
+                                v.each(function(vi){
+                                    s += '<li>' + vi.name + '：' + priceControl.format(vi.price) + '</li>';
+                                });
+                                v = '<ul>' + s + '</ul>';
+                            }
+                        }
+                        else {
+                            if(k=='price_range'){
+                                if(v.max==undefined){
+                                    v='';
+                                }else{
+                                    v = priceControl.format(v.min)+'-'+priceControl.format(v.max);
+                                }
+                            } else if(k==='promotion_tag'){
+                                if (v.length>0) {
+                                    v = '<span class="tag-employee">'+v+'</span>'
+                                }else{
+                                    v = '<span class="tag">'+v+'</span>'
+                                }
+                            }else{
+                                v = priceControl.format(v);
+                            }
+                        }
+                        var el = main.getElement('.action-' + k);
+                        if(el) {
+                            if(k == 'mktprice' && priceControl.number(rs.mktprice) <= priceControl.number(rs.price)){
+                                v = '';
+                            }
+                            
+                            if(!v) el.getParent().hide();
+                            else el.set('html', v);
+                        }      
+                    });
+                }
+            }
+        }, options || {});
+        var url = Router.price(options.id);
+        this.send.delay(0, this, [url, options]);
+    };
+    this.stock = function(options) {
+        if(!container.getElement('.product-buy-quantity')) return;
+        options = Object.merge({
+            method: 'get',
+            onSuccess:function(rs) {
+                rs = JSON.decode(rs);
+                if(rs && Object.getLength(rs)) {
+                    if(rs.error) {
+                        return Message.error(rs.error);
+                    }
+                    if (rs.blindBox=='true') {
+                         var tpl = '<span class="p-quantity"><a href="javascript:void(0);" class="btn-decrease">-</a><input type="text" name="goods[num]" class="action-quantity-input" value="1" min="1" max="1"><a href="javascript:void(0);" class="btn-increase">+</a> 剩余{store}件</span><span class="p-store">{title}</span><input type="hidden" name="stock" value="{store}">';
+                    }
+                    else{
+                         var tpl = '<span class="p-quantity"><a href="javascript:void(0);" class="btn-decrease">-</a><input type="text" name="goods[num]" class="action-quantity-input" value="1" min="1" max="{store}"><a href="javascript:void(0);" class="btn-increase">+</a> 剩余{store}件</span><span class="p-store">{title}</span><input type="hidden" name="stock" value="{store}">';
+                    }
+                   
+                    container.getElement('.product-buy-quantity .item-content').innerHTML = tpl.substitute(rs);
+                    if(!rs.store) {
+                        container.getElement('.action-quantity-input').disabled = true;
+                        container.getElement('.product-buy-quantity').addClass('hide');
+                        container.getElements('.action-buynow, .action-addtocart').addClass('hide');
+                        container.getElement('.action-notify').removeClass('hide');
+                                            }
+                    else {
+                                            }
+                    if(!rs.title) {
+                        container.getElements('.p-store').addClass('hide');
+                    }
+                }
+            }
+        }, options || {});
+        var url = Router.stock(options.id);
+        this.send.delay(300, this, [url, options]);
+    };
+};
+Query = new Query;
+
+attachAction('382674');
+bindQuantityEvent(container,setQuantity);
+
+//== 为数量选择框绑定事件
+function bindQuantityEvent(elements, callback) {
+    elements = document.id(elements) || $$(elements);
+    if(!elements && !elements.length) return;
+    var value = '';
+    elements.addEvents({
+        //= 数量按钮
+        'click:relay(.btn-decrease,.btn-increase)': function(e) {
+            var input = this.getParent().getElement('.action-quantity-input');
+            value = +input.value;
+            input.value = this.hasClass('btn-decrease') ? value - 1 : value + 1;
+            callback && callback(input, value);
+        },
+        //= 数量输入框
+        'focus:relay(.action-quantity-input)': function(e){
+            value = +this.value;
+        },
+        'change:relay(.action-quantity-input)': function(e) {
+            callback && callback(this, value);
+        }
+    });
+}
+//== 获取商品数量值
+function getQuantity(el, type) {
+    return el.getElement('input[name=' + type + ']').value;
+}
+//== 设置商品数量
+function setQuantity(input, value) {
+    var type = 'product';
+    var p = input.getParent('li');
+    inputCheck(input, {min: input.get('min'), max: input.get('max'), 'default': value, store: getQuantity(p, 'stock'), callback: window.quantityCallback});
+}
+//== 商品数量输入框正确性检测
+function inputCheck(input, options) {
+    if(!input) return false;
+    options = options || {};
+    if(isNaN(options.min)) options.min = 1;
+    if(isNaN(options.max)) options.max = 999999;
+    options['default'] = options['default'] || options.min;
+    var value = +input.value;
+    var tips = new Tips(input);
+    var pre = '';
+    var msg = '';
+    if(options.store && options.store - value <= 0) {
+        pre = '库存有限，';
+    }
+    if(value < options.min) {
+        input.value = options.min;
+        msg = '此商品的最小购买数量为' + options.min + '件';
+    }
+    else if(value > options.max){
+        input.value = options.max;
+        msg = pre + '此商品最多只能购买' + options.max + '件';
+    }
+    else if(isNaN(value)) {
+        input.value = options['default'];
+        msg = '只允许输入数字';
+    }
+    if (msg) {
+        tips.show(msg);
+        return false;
+    }
+    tips.hide();
+    if(options.callback) options.callback(input, options['default']);
+    return true;
+}
+
+//== 商品详情图片延迟加载，并缩放到合适大小
+var sectionWidth = section.getStyle('width').toInt();
+new DataLazyLoad({containers: section,textarea:'action-lazyload',onCallback:function(){
+    section.getElements('img').each(function(img){
+        img.setStyle('width', '100%');
+        // img.zoomImg(sectionWidth);
+    });
+    var cs = Cookie.read('CS');
+    if (cs == 'true') {
+      document.querySelector('.cs_hide').style.display='none'
+    }
+
+}});
+
+var recommendContanier,recommendTag;
+var initRecommend;
+var isShowRecomm = false;
+
+// 重写  AlbumZoom replaceZoom 方法，实现相册视频
+
+AlbumZoom.prototype.replaceZoom = function(ael) {
+    if(ael.rev == this.previewImg.src && ael.id !== 'goodsRecommend' && !isShowRecomm) { return };
+    if(recommendContanier) {
+        // 有推荐搭配
+        recommendContanier.setStyles({display: 'none'});
+        isShowRecomm = false; // 解决搭配推荐和第二张相册图切换时，图片相同问题
+        if(ael.dataset.index === '2'){
+            recommendTag.setStyles({display: 'block'});
+        }else{
+            recommendTag.setStyles({display: 'none'});
+        }
+    } 
+
+    if(ael.id === 'videotype'){
+        container.getElement('.small-pic').setStyles({display: 'none'})
+        container.getElement('.product-video').setStyles({display: 'inline'});
+        // container.getElement('.small-pic').setStyles({visibility: 'hidden',height: '0'})
+        // container.getElement('.product-video').setStyles({visibility: 'visible',height: '100%'});
+        this.previewImg.src = ael.rev;
+        return
+    } else if(ael.id === 'goodsRecommend'){
+        // 搭配推荐
+        recommendContanier.setStyles({display: 'block'});
+        isShowRecomm = true;
+    }
+    
+    if(container.getElement('.product-video')){
+        container.getElement('.product-video').setStyles({display: 'none'});
+        container.getElement('.small-pic').setStyles({display: 'inline'})
+    }
+
+    
+    this.previewImg.src = ael.rev; // 替换大图
+    if(this.options.zoomable) {
+        var newZoomsImage = new Element('img', {
+            src:ael.href
+        });
+        newZoomsImage.replaces(this.zoomsImg);
+        this.zoomsImg = newZoomsImage;
+
+        this.safariOnLoadStarted = false;
+        this.initZoom();
+    }
+}
+
+AlbumZoom.prototype.mousemove = function(e) {
+    e.stop();
+    if (this.recalculating || !this.checkcoords(e)||e.target.className === 'product-video') {
+        return;
+    }
+    this.recalculating = true;
+    var previewImg = this.previewImg;
+    var r = e.page;
+    var x = r.x;
+    var y = r.y;
+    var s = previewImg.getPosition();
+    var previewX = s.x;
+    var previewY = s.y;
+    this.positionX = x - previewX;
+    this.positionY = y - previewY;
+    if ((this.positionX + this.handleX / 2) >= this.previewImgX) {
+        this.positionX = this.previewImgX - this.handleX / 2
+    }
+    if ((this.positionY + this.handleY / 2) >= this.previewImgY) {
+        this.positionY = this.previewImgY - this.handleY / 2
+    }
+    if ((this.positionX - this.handleX / 2) <= 0) {
+        this.positionX = this.handleX / 2
+    }
+    if ((this.positionY - this.handleY / 2) <= 0) {
+        this.positionY = this.handleY / 2
+    }
+    setTimeout(this.showrect.bind(this), 16);
+}
+
+
+//== 处理商品基本信息交互
+function attachAction(id) {
+    //== 价格和库存异步加载
+    Query.price({id: id});
+    Query.stock({id: id});
+        //== 商品相册图放大镜
+    window.addEvent('domready', function(){
+        new AlbumZoom(container, {
+                        zoomable:false,
+                        zoomsSize:{
+                x:400,
+                y:300            }
+        });
+    });
+    }
+
+var ajax;
+var state;
+container.addEvents({
+    'click:relay(.action-slidedown)': function(e){
+        var panel = this.getParent('.switchable-panel');
+        var top = panel.getElement('.panel-top');
+        var cont = this.getParent('.product-promotion');
+        if(!panel.hasClass('unfold')) {
+            top && top.setStyle('height', 'auto');
+            panel.addClass('unfold');
+        }
+        else {
+            top && top.setStyle('height', 82);
+            panel.removeClass('unfold');
+        }
+
+        toggleText(this.getElement('.icon'));
+        toggleText(this.getElement('.text'));
+    },
+    'mouseenter:relay(.action-handle)': function(e){
+        var menu = this.getNext('.pop-body');
+        if(menu) {
+            clearTimeout(menu.timer);
+            this.addClass('active');
+            menu.show();
+        }
+    },
+    'mouseenter:relay(.pop-body)': function(e){
+        clearTimeout(this.timer);
+    },
+    'mouseleave:relay(.pop-wrapper)': function(e) {
+        var menu = this.getElement('.pop-body');
+        menu.timer = (function(){
+            this.getElement('.active').removeClass('active');
+            menu.hide();
+        }).delay(200,this);
+    },
+    'click:relay(.pop-close)': function(e) {
+        this.getParent('.pop-body').hide();
+    },
+    'click:relay(.action-buynow)': function(e) {
+        var form = this.getParent('form');
+
+        var spec_num = form.getElement('input[name="spec[num]"]').value;
+        var spec_selected = form.getElement('input[name="spec[selected]"]').value;
+        if(spec_num > spec_selected){
+            return false;
+        }
+
+        form.getElement('input[name=btype]').value = 'is_fastbuy';
+        form.store('target', form.target).target = '';
+        
+        // 设置429错误处理
+        var existingConfig = this.retrieve('_ajax_config') || {};
+        var existingOnFailure = existingConfig.onFailure;
+        var mergedConfig = Object.merge(existingConfig, {
+            onFailure: function(xhr){
+                // 先调用原有的 onFailure（如果存在）
+                if (existingOnFailure && typeOf(existingOnFailure) === 'function') {
+                    existingOnFailure.call(this, xhr);
+                }
+                // 处理429状态码
+                if(xhr.status == 429)
+                {
+                    //alert('活动太火爆，请稍后再试！');
+                    location.href = '/hot.html';
+                }
+            }
+        });
+        
+                
+        this.store('_ajax_config', mergedConfig);
+
+        var color_var = '_';
+        var size_var = '_';
+        if ($('product_spec') != null) {
+            $('product_spec').getElements('.spec-item').each(function(re){     
+                if (re.getElement('.selected .color-code') != null) {
+                    color_var = re.getElement('.selected .color-code').innerText;
+                }else{
+                    size_var = re.getElement('.selected span').innerText;
+                }
+            });
+        }
+        var utm = Cookie.read('utm');
+        utm = JSON.decode(utm);
+        var gioutm = {'utmSource_var': utm.utm_source,'utmCampaign_var': utm.utm_campaign, 'utmMedium_var':utm.utm_medium,'utmContent_var': utm.utm_content, 'utmTerm_var':utm.utm_term,
+            'firstClass_var':'女士',
+            'secondClass_var':'上装',
+            'thirdClass_var':'夹克/套头衫',
+            'goodsName_var':'Scuba™ Evolve 女士经典剪裁拉链连帽衫'+'',
+            'goodsID_var':'382674',
+            'color_var':color_var,
+            'size_var':size_var,
+            'quantity_var':$$('.product-quantity dd .s').get('text')[0],
+            'campaignId_var':'_',
+            'campaignName_var': '_',
+        }; 
+        gio('track', 'buyNow',gioutm);
+    },
+    'click:relay(.action-addtocart)': function () {
+        var form = this.getParent('form');
+        var target = form.retrieve('target');
+        form.getElement('input[name=btype]').value = '';
+        if(target) form.target = target;
+    },
+    'click:relay(.action-notify)': function(e) {
+        var dialog = new Dialog($('product_notify').wrapped(), {
+            title:'到货通知',
+            width: 400,
+            modal: {
+                'class': 'cover'
+            },
+            onLoad: function(){
+                var content = this.content;
+                content.getElement('[rel=_request]').store('_ajax_config',{onSuccess:function(rs){
+                    if(rs && rs[0]) {
+                        if(rs[0]['true']) {
+                            content.getElement('.product-notify').innerHTML = '<div class="success"><i class="icon">&#x25;</i>联系方式已经成功提交，到货后会立刻通知您。</div>';
+                            dialog.hide.delay(3000, dialog);
+                        }
+                    }
+                }});
+            }
+        });
+    },
+    'click:relay(.item-label)': function(e){
+      this.getParent().toggleClass('active')
+    },
+    'click:relay(.spec-attr)': function(e){
+        e.preventDefault();
+        if(this.hasClass('selected')) return;
+        var a = this.getElement('a');
+        var url = a.href;
+        var select_size = false;
+        if(!this.getParents('.image').length){
+           url = null;
+           select_size = true;
+        }
+        var id = a.rel;
+        if(!id) return;
+
+        if (window.history && history.pushState) {
+            e.stop();
+            /*html5 history manage*/
+            if(ajax){
+                ajax.cancel();
+            }
+            else {
+                state = {title: document.title, html: container.innerHTML, url: location.href, id: id};
+            }
+            ajax = Query.send(Router.basic(id, select_size), {
+                method: 'post',
+                onSuccess: function(rs) {
+   
+                    //setTimeout(function(){ bShare.ready()},500)
+                    try{
+                        rs = JSON.decode(rs);
+                        if(rs.error) {
+                            return Message.error(rs.error);
+                        }
+                    }catch(e) {
+                        updateBasic(rs, id, url);
+                    }
+                }
+            });
+        }
+    },
+    'click:relay(.box-3d-icon)': function(e){
+        console.log(111);
+        $$('.pop-3d').setStyles({ display: 'block' });
+        $$('.pop-3d').tween('opacity', '1');
+        jQuery('body,html').css('overflow','hidden'); 
+    },
+    'click:relay(.pop-3d .pop-3d-close-btn)': function(e){
+        $$('.pop-3d').tween('opacity', '0');
+        setTimeout(function(){
+            $$('.pop-3d').setStyles({ display: 'none' });
+        }, 200);
+        jQuery('body,html').css('overflow',''); 
+    }
+});
+
+if ('onpopstate' in window) {
+    window.onpopstate = function(event){
+        if(ajax == null) return;
+        var data;
+        if(event && event.state){
+            data = event.state;
+        }else{
+            data = state;
+        }
+        document.title = data.title;
+        //updateBasic(data.html, data.id);
+    }
+}
+
+
+function updateBasic(rs, id, url) {
+    container.innerHTML = rs;
+    setPicHeight()
+    initRecommend && initRecommend();
+    attachAction(id);
+        url && history.pushState({url: url, title: document.title, html: rs, id:id}, document.title, url);
+    //迷你购物车
+    formToCart();
+    countDownBlindBox()
+}
+
+
+function countDownBlindBox(nowTime) {
+     // 盲盒开售倒计时
+        var btimeStart = '';
+        // var btimeNow = '';
+        if(!btimeStart) return;
+        var btimeNow = nowTime || $('bcountTime').get('data-value');
+        
+        console.log('btimeNow',btimeNow)
+        var bis_marketable_time = '';  // 1 到时间 0 未到
+        bis_marketable_time = parseInt(bis_marketable_time);
+
+        if(btimeStart&&btimeNow&&!bis_marketable_time){
+            $$('.action-addtocart').set("disabled", true);
+            $$('.action-buynow').set("disabled", true);
+            $$('.action-buynow').setStyles({'background-color':'#8e8e8e'});
+            
+            var bdomStartTime = DateFormat.format.date(btimeStart, 'M月d日 HH:mma')
+            $('bdomStartTime').set('html',bdomStartTime)
+            btimeStart = new Date(btimeStart.replace(/-/g,'/')).getTime();
+            btimeNow = new Date(btimeNow.replace(/-/g,'/')).getTime();
+            // 需要倒计时的秒数
+            var countTime = (btimeStart - btimeNow)/1000;
+            console.log(countTime);
+
+            if(countTime>0){
+                
+                if(blindTimer) clearInterval(blindTimer);
+                blindTimer = setInterval(function(){
+                    if(countTime>0){
+                        countTime--
+                        countDown(countTime);
+                    }else{
+                        clearInterval(blindTimer);
+                        $$('.action-addtocart').set("disabled", false);
+                        $$('.action-buynow').set("disabled", false);
+                        $$('.action-buynow').setStyles({'background-color':'#000'});
+                        // new Request({
+                        //     url:"/product-goodsMarketable.html",
+                        //     data: 'goods_id=20936',
+                        //     onComplete:function(rs) {
+                        //         location.reload();
+                        //     }
+                        // }).post();
+                    }
+                },1000)
+            }else{
+                $('bcountTime').set('html','00:00:00')
+            }
+            function countDown(timestamp){
+                // console.log('countDown')
+                timestamp = timestamp;
+                var day = Math.floor(timestamp / 60 / 60 / 24);
+                day < 10 && ( day = '0'+ day);
+                var hour = Math.floor(timestamp / 60 / 60 % 24 );
+                hour < 10 && ( hour = '0'+ hour);
+                var min = Math.floor(timestamp / 60 % 60);
+                min < 10 && ( min = '0'+ min);
+                var sec = Math.floor(timestamp % 60);
+                sec < 10 && ( sec = '0'+ sec);
+                var html = (day > 0 ? day + '天 ':'') + hour + ':' + min + ':' + sec
+                // console.log('timestamp',timestamp,'day',day,'hour',hour,'min',min,'sec',sec);
+                
+                $('bcountTime').set('html',html)
+            }
+        }
+}
+
+
+
+
+$(document.body).addEvents({
+    'click:relay(.btn-caution)': function(e) {
+        if(this.hasClass('disabled')) return;
+        var data = this.getParent('.form');
+        if(!validate(data, 'all')) {
+            e.stop();
+            return;
+        }
+    },
+    //点击展开商品详情
+    'click:relay(.detail-content-item h3)':function(e){
+        var par = this.getParent('.detail-content-item');
+        if(par.hasClass('active')){
+            par.removeClass('active');
+            jQuery(this).next().slideUp("fast")
+        }else{
+            par.addClass('active');
+            jQuery(this).next().slideDown("fast")
+        }
+    }
+});
+
+function notice(msg, inject, where, type) {
+    var el = new Element('div.notice' + (type ? '.' + type : ''), {html:msg}).inject(inject, where);
+    el.destroy.delay(3000,el);
+}
+notice.success = function(msg, inject, where) {
+    notice('<q class="icon">&#x25;</q>' + msg, inject, where, 'success');
+};
+
+function getVal(p,c,i) {
+    if(!c) return $(p).get('text');
+    p = $(p).getElement(c).get('text');
+    if(!i) return p;
+    return Number.from(p);
+}
+function toggleText(el, attr) {
+    attr = attr || 'data-toggle';
+    var a = el.get(attr);
+    var b = el.get('text');
+    el.set(attr, b).set('text', a);
+}
+$('product_container').addEvents({
+      'click:relay(.product-quantity dd li)':function(){
+        var num= this.get('text')
+        $$('.product-quantity dd .s').set('html',num)
+        $$('.product-quantity dd ul').hide()
+        $$('.product-buy-quantity .action-quantity-input').set('value',num).fireEvent('change');
+      },
+      'mouseenter:relay(.product-quantity dd)':function(){
+          $$('.product-quantity dd ul')[0].style.display=""
+      }
+})
+
+
+withBrowserStore(function(browserStore){
+    var myName = Cookie.read('UNAME');
+    var key = 'history_'+myName;
+    browserStore.get(key, function(history){
+        history=JSON.decode(history);
+        if(!history||typeOf(history)!=='array') history=[];
+        if(history.length>=40) history.pop();
+        var newHst = {
+            'goodsId':'382674',
+            'goodsName':'Scuba™ Evolve 女士经典剪裁拉链连帽衫',
+            'goodsImg':'https://image.lululemon.cn/public/images/ab/83/c0/461c4997102d6a57b19bdbb97cf4276801a1f168.jpg?1789709895#h',
+            'price':'￥980.00',
+            'viewTime':+new Date()
+        };
+        if(history.length) {
+            for(var i = history.length; i --;) {
+                if(history[i]['goodsId'] == newHst['goodsId']) {
+                    history.splice(i, 1);
+                    break;
+                }
+            }
+        }
+        history.unshift(newHst);
+        browserStore.set(key, JSON.encode(history));
+    });
+});
+</script>
+<script>
+    var cs = Cookie.read('CS');
+    if (cs == 'true') {
+    var element = document.querySelector('.goods-list');
+    element.style.display = 'none';
+
+    var element1 = document.querySelector('.service');
+    element1.style.display = 'none';
+
+    var element2 = document.querySelector('.favbox');
+    element2.style.display = 'none';
+  }
+</script>	</div>
+</div>
+	<div class="maxindexProw"></div>
+<div class="maxFooterMenuBox">
+  <div class="maxFooterMenu">
+      
+  </div>
+</div>
+<div class="maxFooterBox">
+  <div class="maxFooter clearfix">
+    <div class="maxFl">
+      <div class="helper-item item-1"><dl class="ad-ly-Morelinks " id="Morelinks_297">
+	<dt class="ly-title">我的账户</dt>
+	<dd>
+		<ul class="clearfix lv1-box">
+		    			<li class="item-1 item-lv-1 item-1 first ">
+				<a  href="/passport-login.html"  rel="nofollow">登录</a>
+							</li>
+						<li class="item-2 item-lv-1 item-2">
+				<a  href="/passport-signup.html"  rel="nofollow">注册</a>
+							</li>
+						<li class="item-3 item-lv-1 item-3">
+				<a  href="/member-orders.html"  rel="nofollow">订单状态</a>
+							</li>
+						<li class="item-4 item-lv-1 item-4 last ">
+				<a  href="/aftersales-afterrec.html"  rel="nofollow">退货</a>
+							</li>
+					</ul>
+	</dd>
+</dl>
+
+
+
+</div>
+      <div class="helper-item item-2"><dl class="ad-ly-Morelinks " id="Morelinks_298">
+	<dt class="ly-title">帮助</dt>
+	<dd>
+		<ul class="clearfix lv1-box">
+		    			<li class="item-1 item-lv-1 item-1 first ">
+				<a  href="https://career-site.lululemon.cn/" >加入我们</a>
+							</li>
+						<li class="item-2 item-lv-1 item-2">
+				<a  href="/sitemaps.html" >网站地图</a>
+							</li>
+						<li class="item-3 item-lv-1 item-3">
+				<a  href="https://www.lululemon.cn/article-help-91.html" >退货政策</a>
+							</li>
+						<li class="item-4 item-lv-1 item-4">
+				<a  href="https://www.lululemon.cn/giftcard" >lululemon 热享卡</a>
+							</li>
+						<li class="item-5 item-lv-1 item-5 last ">
+				<a  href="https://www.lululemon.cn/article-zhengcezhiyin-300.html" >政策指引</a>
+							</li>
+					</ul>
+	</dd>
+</dl>
+
+
+
+</div>
+      <div class="helper-item item-3"><dl class="ad-ly-Morelinks " id="Morelinks_729">
+	<dt class="ly-title">门店查找</dt>
+	<dd>
+		<ul class="clearfix lv1-box">
+		    			<li class="item-1 item-lv-1 item-1 first ">
+				<a  href="/exshop.html" >浏览全部门店</a>
+							</li>
+					</ul>
+	</dd>
+</dl>
+
+
+
+</div>
+    </div>
+    <div class="maxFr">
+              <div class="maxFooterQrcode">
+          <div class="t">关注我们：</div>
+          <div class="c"><img src="https://image.lululemon.cn/public/images/44/45/76/3749ca103e98183534f112c84276d275e84f0a68.png?1535966440#h"></div>
+          <div class="b"> 微信公众号</div>
+      </div>
+      <div class="icon-box">
+         <div class="icon-weibo icon-item">
+          <a href="https://weibo.com/u/6054266101" rel="nofollow">
+           <div class="t"><img src="https://www.lululemon.cn/themes/lulu/widgets/footer_qrcode/images/footer_2.png"></div>
+           <div class="b">微博</div>
+           </a>
+         </div>
+         <div class="icon-kefu icon-item">
+           <div class="t"><img src="https://www.lululemon.cn/themes/lulu/widgets/footer_qrcode/images/footer_3.png"></div>
+           <div class="b">客服热线<br><span style="white-space:nowrap;">400-600-6865</span></div>
+         </div>
+      </div>    </div>
+  </div>
+  <div id="footer" class="page-footer">
+  <div class="inner-wrap">
+    <script>
+    // if (!Cookie.read('gio_evar_set')) {
+    //     var utm = Cookie.read('utm');
+    //     utm = JSON.decode(utm);
+    //     var gioevar = {'webutmSource_evar': utm.utm_source,'webutmCampaign_evar': utm.utm_campaign, 'webutmMedium_evar':utm.utm_medium,'webutmContent_evar': utm.utm_content, 'webutmTerm_evar':utm.utm_term,
+    //     }; 
+    //     gio('evar.set',gioevar);
+    //     Cookie.write('gio_evar_set',1,{duration:1});
+    // }
+
+var Shop = window['Shop'] || {"url":{"shipping":"\/cart-shipping.html","total":"\/cart-total.html","region":"\/tools-selRegion.html","payment":"\/cart-payment.html","purchase_shipping":"\/cart-purchase_shipping.html","purchase_def_addr":"\/cart-purchase_def_addr.html","purchase_payment":"\/cart-purchase_payment.html","get_default_info":"\/cart-get_default_info.html","diff":"\/product-diff.html","fav_url":"\/member-ajax_fav.html","datepicker":"https:\/\/image.lululemon.cn\/public\/app\/site\/statics\/js_mini","placeholder":"https:\/\/image.lululemon.cn\/public\/app\/b2c\/statics\/images\/imglazyload.gif"},"base_url":"\/"};
+window.addEvent('domready',function(){
+    var __time_out = 1000;
+    if (Shop.set != undefined&&Shop.set.refer_timeout) __time_out = Shop.set.refer_timeout;
+    var ReferObj ={};
+    Object.append(ReferObj,{
+        serverTime:1794802522,
+        init:function(){
+            var FIRST_REFER=Memory.get('FIRST_REFER');
+            var NOW_REFER=Memory.get('NOW_REFER');
+            var nowDate=this.time=this.serverTime*1000;
+            if(!window.location.href.test('#r-')&&!document.referrer||document.referrer.test(document.domain))return;
+            if(window.location.href.test('#r-')) Memory.clean('n');
+            if(!FIRST_REFER){
+
+                if(NOW_REFER){
+                    Memory.set('FIRST_REFER',NOW_REFER,this.getTimeOut(JSON.decode(NOW_REFER).DATE));
+                }else{
+                    this.setRefer('FIRST_REFER',__time_out);
+                }
+            }
+            this.setRefer('NOW_REFER',__time_out);
+            this.createGUID();
+        },
+        getUid:function(){
+            var lf=window.location.href,pos=lf.indexOf('#r-');
+            return pos!=-1?lf.substr(pos+4):'';
+        },
+        getRefer:function(){
+            return document.referrer?document.referrer:'';
+        },
+        setRefer:function(referName,timeout){
+            var uid=this.getUid(),referrer=this.getRefer();
+            var data={'ID':uid,'REFER':referrer,'DATE':this.time};
+
+            if('NOW_REFER'==referName){
+                var refer=JSON.decode(Memory.get('FIRST_REFER'));
+                if(uid!=''&&refer&&refer.ID==''){
+                    var fdata={'ID':uid,'REFER':refer.REFER,'DATE':refer.DATE};
+                    Memory.set('FIRST_REFER',JSON.encode(fdata),this.getTimeOut(refer.DATE));
+                }else if(uid==''){
+                    Object.append(data,{'ID':refer.ID});
+                }
+            }
+            Memory.set(referName,JSON.encode(data),__time_out||15);
+        },
+        getTimeOut:function(nowDate){
+            var timeout=nowDate+__time_out*24*3600*1000;
+            var date=new Date(timeout);
+            return date;
+        },
+        createGUID:function(){
+            var GUID = (function(){
+                var S4=function(){
+                    return (((1+Math.random())*0x10000)|0).toString(16).substring(1);
+                };
+                return (S4()+S4()+"-"+S4()+"-"+S4()+"-"+S4()+"-"+S4()+S4()+S4()).toUpperCase();
+            })();
+            Memory.set('n',GUID,3650);
+        }
+    });
+    ReferObj.init();
+});
+
+
+miniCart = {
+    'show':function(target){
+        target = $(target);
+        if (!target) return;
+
+        if(this.dialog){
+            this.hide();
+        }
+
+        var options = {
+                body: 'popup-body',
+                header: 'popup-header',
+                close: 'popup-btn-close',
+                content:'popup-content',
+                title:'正在加入购物车',
+                main:'<div class="loading">loading...</div>'
+            }, dialog = this.dialog = new Element('div#mini_cart_dialog.popup-container.mini-cart-dialog',{
+                'html': $('popup_template').get('html').substitute(options),
+                styles:{
+                    display:'block',
+                    zIndex: maxZindex('div', 1)
+                }
+            }).inject(document.body);
+
+        this.title = dialog.getElement('.popup-header h2');
+        this.close = dialog.getElements('.popup-btn-close');
+        this.content = dialog.getElement('.popup-content');
+        this.dialog.addEvent('click:relay(.popup-btn-close)',this.hide.bind(this));
+
+        var setSize = this.setSize = function(){
+            if(!dialog.isDisplayed()) return;
+            dialog.setStyles({
+                top:target.getPosition().y+target.getSize().y,
+                left:target.getPosition().x.limit(0,window.getSize().x-dialog.getSize().x) + window.getScroll().x
+            });
+        };
+
+        setSize();
+        window.addEvent('resize',setSize);
+    },
+    'hide':function(){
+        try{
+            this.dialog.destroy();
+            window.removeEvent('resize',this.setSize);
+        }catch(e){}
+    },
+    'load':function(options){
+        options = options || {};
+
+        if(options.data){
+            var spec_num = options.data.getElement('input[name="spec[num]"]').value;
+            var spec_selected = options.data.getElement('input[name="spec[selected]"]').value;
+            if(spec_num > spec_selected){
+                return Message.error('请选择颜色和尺码');
+            }
+        }
+
+        options = Object.merge({
+            method: 'post',
+            onRequest: function(){
+                miniCart.show(options.target);
+            },
+            onSuccess: function(re){
+                if(re) {
+                    this.title.innerHTML = '提醒';
+                    this.content.innerHTML = re;
+                }
+
+                updateCartInfo();
+                
+                if(document.getElement('.minicart_box')&&document.getElement('.minicart_box').get('show_gallery')){
+                    document.getElement('.minicart_box').fireEvent('_show'); //迷你购物车
+                }
+                options.callback && options.callback(re);
+                var color_var = '_';
+                var size_var = '_';
+                if ($('product_spec') != null) {
+                    $('product_spec').getElements('.spec-item').each(function(re){     
+                        if (re.getElement('.selected .color-code') != null) {
+                            color_var = re.getElement('.selected .color-code').innerText;
+                        }else{
+                            size_var = re.getElement('.selected span').innerText;
+                        }
+                    });
+                }
+                var utm = Cookie.read('utm');
+                utm = JSON.decode(utm);
+                var gioutm = {'utmSource_var': utm.utm_source,'utmCampaign_var': utm.utm_campaign, 'utmMedium_var':utm.utm_medium,'utmContent_var': utm.utm_content, 'utmTerm_var':utm.utm_term,
+                    'firstClass_var':'女士',
+                    'secondClass_var':'上装',
+                    'thirdClass_var':'夹克/套头衫',
+                    'goodsName_var':'Scuba™ Evolve 女士经典剪裁拉链连帽衫'+'',
+                    'goodsID_var':'382674',
+                    'color_var':color_var,
+                    'size_var':size_var,
+                    'quantity_var':$$('.action-quantity-input').get('value')[0],
+                    'campaignId_var':'_',
+                    'campaignName_var': '_',
+                }; 
+                gio('track', 'addToCart',gioutm);
+                // var total_price = getVal(container,'.action-price').replace(/￥/g, "") * $$('.product-quantity dd .s').get('text')[0];
+                // _hmt.push(['_trackEvent', 'Ecommerce', 'AddToCart', 'LW3LHPS-079647',total_price]);
+
+                // // fireCustomEvent("lululemon_addToCart_"+'LW3LHPS-079647');
+
+                // //品友
+                // console.log('382674');
+                // py('event','addCart','382674','V5s8T.K_Z.qVYJGaWrvVWZL9Jpc_brPP');
+
+                // //OCPA
+                // gdt('track', 'ADD_TO_CART', {'product_id': '382674'});
+
+            }.bind(this),
+            onFailure: function(xhr){
+                if(xhr.status == 429)
+                {
+                        //alert('活动太火爆，请稍后再试！');
+                    location.href = '/hot.html';
+                }
+                else
+                    {
+                    this.title.innerHTML = '提醒';
+                    this.content.innerHTML = '<div class="minicart-error"><p align="center">加入购物车失败。<br />可能库存不足或提交信息不完整。</p></div>';
+                }
+            }.bind(this)
+        },options||{});
+        if(!options.url) return false;
+
+        new Request(options).send(options.data ? options.data.toQueryString() + '&mini_cart=true' : 'mini_cart=true');
+    },
+    init:function(target, url, data){
+        var linktocart;
+        if(typeOf(target) == 'element') linktocart = target.getElements('[target=_dialog_minicart]');
+        else if(typeOf(target) == 'elements') linktocart = target;
+        else linktocart = $$('a[target=_dialog_minicart], button[target=_dialog_minicart]');
+        if(linktocart.length){
+            linktocart.addEvent('click',function(e){
+                e.preventDefault();
+                miniCart.load({url: url || this.href, data: data || this.getParent('.goods-item') || this.getParent('li'), target: this});
+            });
+        }
+    }
+};
+
+formToCart = function(container,target) {
+    container = $(container || document.body);
+    target = target || '.action-addtocart';
+    if(!container) return;
+
+    var formtocart = container.getElement('form[target=_dialog_minicart]') || container.getFirst().getParent('form[target=_dialog_minicart]');
+    if(formtocart) {
+        formtocart.addEvent('submit', function(e){
+            e.stop();
+            target = this.getElement(target) || this.getElement('*[type=submit]');
+            miniCart.load({
+                url:this.action,
+                method:this.method,
+                data:this,
+                target: target,
+                callback: function() {
+                    target.removeClass('disabled');
+                }.bind(this)
+            });
+        });
+    };
+}
+
+window.addEvent('domready',function(){
+    miniCart.init();
+    formToCart();
+});
+
+var _request = false;
+function front_get_coupon(cpns_id){
+  if(_request) return false;
+    _request = true;
+    new Request({
+        url: "/cart-coupon_receive.html",
+        data: 'cpns_id='+cpns_id+"&response_json=true",
+        onComplete: function(re){
+            gdt('track', 'CLAIM_OFFER', {'coupon_id': cpns_id});
+            var obj = JSON.decode(re);
+            if (obj.status == 'success') {
+                return top.Message.success(obj.msg, function(){
+                    if(obj.url){
+                        location.href = obj.url;
+                    }
+                });
+            } else {
+                return top.Message.error(obj.msg, function(){
+                    if(obj.url){
+                        location.href = obj.url;
+                    }
+                });
+            }
+        }
+    }).post();
+}
+
+</script>
+<script type="text/javascript">
+    var localpath=window.location.href;
+    var localname = '';
+    if ('Scuba™ Evolve 女士经典剪裁拉链连帽衫|露露乐蒙中国大陆官网') {
+        localname ='Scuba™ Evolve 女士经典剪裁拉链连帽衫|露露乐蒙中国大陆官网';
+    }else if(document.title){
+        localname = document.title;
+    }else{
+        localname = window.location.pathname+'_露露乐蒙官方商城';
+    }
+    // console.log('setPageAttributes11')
+    // gio('setPageAttributes', {
+    //     page_url: localpath,
+    //     page_title: localname
+    // });
+    // gio('sendPage');
+    // console.log('setPageAttributes22')
+
+    gio('setPageListener', ({ localpath, localname }) => {
+        // 不判断页面，“全局“设置页面属性（即每次发页面浏览事件之前都设一次页面属性）
+        gdp('setPageAttributes', {
+            page_url: localpath,
+            page_title: localname
+        });
+        // 设置完页面属性后手动控制发送页面访问事件
+        gio('sendPage');
+    });
+
+    // var giopage ={'webpageName_pvar': localname,'webpageRoute_pvar':localpath};
+    // gio('page.set', giopage);
+</script>
+
+<script id="popup_template" type="text/template">
+  <div class="{body}">
+     <div class="{header} clearfix">
+        <h2>{title}</h2>
+        <span><button type="button" title="关闭" class="{close}" hidefocus><i>×</i></button></span>
+    </div>
+    <div class="{content} clearfix">{main}</div>
+  </div>
+</script>
+<script id="message_template" type="text/template">
+  <div class="{body} clearfix">
+    <div class="icon">{icon}</div>
+    <div class="{content}">{main}</div>
+  </div>
+</script>
+<script id="dropmenu_template" type="text/template">
+  <div class="{body}">
+    <div class="{content} clearfix">{main}</div>
+  </div>
+</script>
+© lululemon athletica&nbsp;<a href="https://beian.miit.gov.cn/#/home" type="url"></a><a href="https://beian.miit.gov.cn/#/home">沪ICP备16047568-1号</a>&nbsp;| <a href="https://www.lululemon.cn/article-help-119.html">隐私政策</a> | <a href="https://www.lululemon.cn/article-help-118.html">使用条款</a>&nbsp;|&nbsp;<a href="https://www.lululemon.cn/article-help-91.html" type="url">退货政策</a>&nbsp;|&nbsp;<a href="https://zzlz.gsxt.gov.cn/businessCheck/verifKey.do?showType=p&amp;serial=913100000637599624-SAIC_SHOW_1000009131000006375996241646876757637&amp;signData=MEYCIQCy7BEaLk/2bkXhTj1GuPtI8o4M41GYReuN5wzebgu3cQIhAIs+2kGavw9daJtsbW7P6U2OliwhG7nJB8Eayxf5NRRv"> 
+<img src="https://image.lululemon.cn/public/images/81/31/40/f84fbe4189839c3d332915ca0fe49e51f610634f.png" border="0" height="25px" width="25x" style="vertical-align: middle;"> </a><a href="https://image.lululemon.cn/public/video/%E9%9C%B2%E9%9C%B2%E4%B9%90%E8%92%99%E8%B4%B8%E6%98%93%EF%BC%88%E4%B8%8A%E6%B5%B7%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E8%90%A5%E4%B8%9A%E6%89%A7%E7%85%A7%EF%BC%88withwatermark%EF%BC%89.pdf" type="url">电子营业执照</a>|<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=31010402008374" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;vertical-align: middle;"> 
+<img src="https://image.lululemon.cn/public/images/df/f2/a9/65a9b5abb3960715d94e89a52241fcc551f5882f.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">沪公网安备 31010402335937号</p>
+ </a><p>露露乐蒙贸易（上海）有限公司</p>
+ <script type="text/javascript" src="https://webcert.cnmstl.net/cert/grade/small_h_img.js?sn=74ef6b9a288b11eaafdf00163e068ceb"></script>  </div>
+</div>
+</div>
+
+
+<script type="text/javascript" src="https://www.lululemon.cn/themes/lulu/images/max.js?1794802522"></script>
+<script>
+  var cs = Cookie.read('CS');
+  if (cs == 'true') {
+    var element = document.querySelector('.maxFooterMenu');
+    element.style.display = 'none';
+    var links = document.querySelectorAll('.ad-ly-Morelinks a');
+    for (var i = 0; i < links.length; i++) {
+      var link = links[i];
+      if (link.innerText.includes('首')) {
+        link.href = '/gallery-index---0---1.html';
+      }
+    }
+
+  }
+</script>
+<script>
+!(function(c,b,d,a){c[a]||(c[a]={});c[a].config=
+  {
+    pid:"9zs2o8eah1@3e7b57d8bca3b6b",
+    appType:"web",
+    imgUrl:"https://arms-retcode.aliyuncs.com/r.png?",
+    sendResource:true,
+    enableLinkTrace:true,
+    behavior:true
+  };
+with(b)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("crossorigin","",src=d)
+})(window,document,"https://sdk.rum.aliyuncs.com/v1/bl.js","__bl");
+</script>
+
+ <script type="text/javascript">
+        (function () {
+            window._smReadyFuncs = [];
+            window.SMSdk = {
+                onBoxDataReady: function (boxData) {
+                    console.log('此时拿到boxData或者缓存的boxId--', boxData);
+                },
+                ready: function (fn) {
+                    fn && _smReadyFuncs.push(fn);
+                }
+            };
+
+            window._smConf = {
+                organization: 'Zsq0kDhtR4d2Y9ZwcSBm',
+                appId: 'lulu-E-BTQ',
+                publicKey: 'MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKRb1zZLPpkFgfqBdAy/rsnybraxrHaYiUZHiPMic8KHQCobuk82ybu55FTBgd8Xre+EfyTucExTc9LPtZnfRnelEMEBRfvaBOp5n6ykwlt842QZg+NIk/IdU1kJOeAzlh9z9EmK/3/Raf6KKqRMss0TzJuERGXKh5PlW07r5ByQIDAQAB',
+                apiHost: 'shumei-sdk.lululemon.cn',
+                staticHost: 'https://shumei-sdk.lululemon.cn/',
+                noNeedRetry:'true'
+            };
+            // window._smConf = {
+            //     organization: 'Zsq0kDhtR4d2Y9ZwcSBm',
+            //     appId: 'default',
+            //     publicKey: 'MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDKRb1zZLPpkFgfqBdAy/rsnybraxrHaYiUZHiPMic8KHQCobuk82ybu55FTBgd8Xre+EfyTucExTc9LPtZnfRnelEMEBRfvaBOp5n6ykwlt842QZg+NIk/IdU1kJOeAzlh9z9EmK/3/Raf6KKqRMss0TzJuERGXKh5PlW07r5ByQIDAQAB',
+            //     apiHost: 'https://lululemon.vip.shopex.cn/',
+            //     staticHost: 'https://lululemon.vip.shopex.cn/',
+            // };
+        })();
+        window.startTime = +new Date();
+    </script>
+    <!-- <script src="https://www.lululemon.cn/themes/lulu/images/fp.min.js" type="text/javascript"></script> -->
+    <script src="https://image.lululemon.cn/public/app/b2c/statics/js/fp.min.js"></script>    <script type="text/javascript">
+        window.time2 = +new Date();
+        console.log('time2', window.time2);
+        console.log('diffTime1', window.time2 - window.startTime);
+        console.log('SMSdk', SMSdk);
+
+        /**
+         * 绑定事件
+         * @param element
+         * @param eventType
+         * @param func
+         */
+        function bindEvent(element, eventType, func) {
+            if (element.addEventListener) {
+                element.addEventListener(eventType, func, false);
+            }
+            else if (element.attachEvent) {
+                eventType = 'on' + eventType;
+                element.attachEvent(eventType, func);
+            }
+            else {
+                eventType = 'on' + eventType;
+                element[eventType] = func;
+            }
+        }
+
+        /**
+         * 业务逻辑处理函数
+         * 打印设备标识
+         */
+        function logDeviceId(deviceId) {
+            //这里模拟业务逻辑是打印，可以实现提交登录、注册等请求
+            document.getElementById('deviceId').innerHTML = deviceId || '空';
+        }
+
+        /**
+         * cb业务逻辑
+         * 使用数美设备标识逻辑
+         */
+        function dealSmDeviceId(cb) {
+            var smDeviceId = '';
+            var smDeviceIdReady = false;
+
+            SMSdk.ready(async function () {
+                // smDeviceId = SMSdk.getDeviceId ? SMSdk.getDeviceId() : smDeviceId;
+                const deviceParams = await SMSdk.getDeviceParams();
+                console.log('deviceParams', deviceParams)
+                smDeviceId = await getServerDeviceId(deviceParams)
+
+                if (!smDeviceIdReady) {
+                    smDeviceIdReady = true;
+                    //执行业务逻辑
+                    cb && cb(smDeviceId);
+                }
+            });
+        }
+
+        function getServerDeviceId(deviceParams) {
+          return new Promise((resolve, reject) => {
+              let postData = JSON.stringify(deviceParams);
+              
+              // Capture the start time before the request
+              const requestStartTime = +new Date();
+
+              new Request({
+                  url: "https://shumei-sdk.lululemon.cn/deviceprofile/v4",
+                  headers: {
+                      'Content-Type': 'application/json'
+                  },
+                  onSuccess: function(rs) {
+                      if(rs) {
+                          rs = JSON.parse(rs);
+                          if (rs.detail && rs.detail.deviceId) {
+                              // Calculate the response time
+                              const responseTime = +new Date() - requestStartTime;
+                              resolve({ deviceId: rs.detail.deviceId, responseTime:responseTime });
+                          } else {
+                              reject(new Error('No device ID found in response'));
+                          }
+                      }
+                  },
+                  onFailure: function(error) {
+                      reject(error);
+                  }
+              }).post(postData);
+          });
+      }
+
+        // 场景二：无需交互直接使用（如：浏览）
+        dealSmDeviceId(function (deviceId) {
+            // var data = 'shumei_deviceId='+deviceId.deviceId;
+            Cookie.write('shumei_deviceId',deviceId.deviceId);
+
+            console.log('回调执行成功! 设备标识为：' + deviceId.deviceId);
+            // window.endTime = +new Date();
+            // console.log('diffTime2', window.endTime - window.startTime);
+
+            var data = 'shumei_deviceId=' + deviceId.deviceId + '&diffTime=' + deviceId.responseTime;
+            console.log(data);
+            ajax_shumeiDeviceId(data);
+
+        });
+        function ajax_shumeiDeviceId(data) {
+            new Request({
+              url: "/passport-shumeiDeviceId.html",
+                onSuccess: function(rs) {
+                    if(rs) {
+                        rs = JSON.decode(rs);
+                        if (rs.status=='success') {}
+                    }
+                }
+            }).post(data);
+        }
+
+        
+    </script>
+</body>
+</html>

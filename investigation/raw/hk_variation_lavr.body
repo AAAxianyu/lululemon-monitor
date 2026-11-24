@@ -1,0 +1,1326 @@
+{
+  "action": "Product-Variation",
+  "queryString": "dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=1",
+  "locale": "en_HK",
+  "product": {
+    "id": "lopmi7nqah",
+    "uuid": "dab1ece07e82d38b244e20aaef",
+    "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+    "formattedProductName": "Scuba%20Evolve%20Classic%20Full-Zip%20Hoodie",
+    "masterProductID": "lopmi7nqah",
+    "productType": "master",
+    "productNamePart1": "Scuba Evolve Classic Full-Zip Hoodie",
+    "productNamePart2": "",
+    "price": {
+      "type": "range",
+      "min": {
+        "sales": {
+          "value": 950,
+          "currency": "HKD",
+          "formatted": "HK$950.00",
+          "decimalPrice": "950.00"
+        },
+        "list": null
+      },
+      "max": {
+        "sales": {
+          "value": 1180,
+          "currency": "HKD",
+          "formatted": "HK$1,180.00",
+          "decimalPrice": "1180.00"
+        },
+        "list": null
+      },
+      "html": "    \n        \n            <div class=\"price\" itemtype=\"http://schema.org/AggregateOffer\">\n                <span class=\"range\">\n    \n    \n    \n    \n    \n\n\n    <div class=\"sales \">\n        \n            <span class=\"value\" content=\"950.00\" role=\"text\" aria-label=\"HK$950.00\">\n                <ins class=\"text-decoration-none\" aria-hidden=\"true\">\n                    \n    HK$950\n\n\n                </ins>\n            </span>\n        \n    </div>\n\n<!-- Adding List Price Range template to handle when list price is in range but sale price is not-->\n<!-- Added priceType != range condition to avoid duplicates since we have the same template in range.isml to handle for 'sale price range' -->\n\n    \n    <div class=\"strike-through list\">\n        <span class=\"value\" content=\"null\" role=\"text\" >\n            <del aria-hidden=\"true\">\n                \n            </del>\n        </span>\n    </div>\n\n\n    -\n    \n    \n    \n\n\n    <div class=\"sales \">\n        \n            <span class=\"value\" content=\"1180.00\" role=\"text\" aria-label=\"HK$1,180.00\">\n                <ins class=\"text-decoration-none\" aria-hidden=\"true\">\n                    \n    HK$1,180\n\n\n                </ins>\n            </span>\n        \n    </div>\n\n<!-- Adding List Price Range template to handle when list price is in range but sale price is not-->\n<!-- Added priceType != range condition to avoid duplicates since we have the same template in range.isml to handle for 'sale price range' -->\n\n    \n    <div class=\"strike-through list\">\n        <span class=\"value\" content=\"null\" role=\"text\" >\n            <del aria-hidden=\"true\">\n                \n            </del>\n        </span>\n    </div>\n\n\n\n   \n</span>\n<div class=\"dynamicPricing\" >\n    <span class=\"salePrice\"></span>\n    \n        <span class=\"price-vary-msg d-none\">Prices vary by colour</span>\n    \n    <span class=\"strikedOutPrice\"></span>\n</div>\n\n\n            </div>\n        \n    \n\n\n"
+    },
+    "images": {
+      "hi-res": [
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1600,1600",
+          "title": "Model is 5’10” and wears a size S"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=1600,1600",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=1600,1600",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=1600,1600",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=1600,1600",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=1600,1600",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=1600,1600",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=1600,1600",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        }
+      ],
+      "large": [
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=800,800",
+          "title": "Model is 5’10” and wears a size S"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=800,800",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=800,800",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=800,800",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=800,800",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=800,800",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=800,800",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=800,800",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        }
+      ],
+      "medium": [
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=400,400",
+          "title": "Model is 5’10” and wears a size S"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=400,400",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=400,400",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=400,400",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=400,400",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=400,400",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=400,400",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=400,400",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        }
+      ],
+      "small": [
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=140,140",
+          "title": "Model is 5’10” and wears a size S"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=140,140",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=140,140",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=140,140",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=140,140",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=140,140",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=140,140",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        },
+        {
+          "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+          "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=140,140",
+          "title": "Scuba Evolve Classic Full-Zip Hoodie"
+        }
+      ]
+    },
+    "selectedQuantity": 1,
+    "minOrderQuantity": 1,
+    "maxOrderQuantity": 5,
+    "variationAttributes": [
+      {
+        "attributeId": "color",
+        "displayName": "Color",
+        "id": "color",
+        "swatchable": true,
+        "values": [
+          {
+            "id": "081193",
+            "description": null,
+            "displayValue": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+            "value": "081193",
+            "selected": true,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "promoTag": "Online Exclusive",
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/81193?size=150,150",
+                  "title": "Model is 5’10” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 2
+          },
+          {
+            "id": "075787",
+            "description": null,
+            "displayValue": "Pink Pearl/Gold",
+            "value": "075787",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=075787&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/75787?size=150,150",
+                  "title": "Model is 5’9” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 9,
+            "row": 2
+          },
+          {
+            "id": "069780",
+            "description": null,
+            "displayValue": "True Navy/Mirror Silver",
+            "value": "069780",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": false,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=069780&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/69780?size=150,150",
+                  "title": "Model is 5'11” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 2
+          },
+          {
+            "id": "3385",
+            "description": null,
+            "displayValue": "Black/Gold",
+            "value": "3385",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=3385&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/3385?size=150,150",
+                  "title": "Model is 5’9” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 2
+          },
+          {
+            "id": "079641",
+            "description": null,
+            "displayValue": "Toasted Pink/Gold",
+            "value": "079641",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=079641&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/79641?size=150,150",
+                  "title": "Model is 5’11” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 2
+          },
+          {
+            "id": "0001",
+            "description": null,
+            "displayValue": "Black",
+            "value": "0001",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=0001&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/0001?size=150,150",
+                  "title": "Model is 5’9” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 2
+          },
+          {
+            "id": "042797",
+            "description": null,
+            "displayValue": "Light Ivory/Gold",
+            "value": "042797",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": false,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=042797&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/42797?size=150,150",
+                  "title": "Model is 5’9” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 9,
+            "row": 2
+          },
+          {
+            "id": "081674",
+            "description": null,
+            "displayValue": "Mahogany Muse/Gold",
+            "value": "081674",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=081674&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/81674?size=150,150",
+                  "title": "Model is 5'10” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 2
+          },
+          {
+            "id": "076693",
+            "description": null,
+            "displayValue": "Heathered Core Ultra Light Grey/Mirror Silver",
+            "value": "076693",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": false,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=076693&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/76693?size=150,150",
+                  "title": "Model is 5'9” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 2
+          },
+          {
+            "id": "079647",
+            "description": null,
+            "displayValue": "Heathered Cypress Forest",
+            "value": "079647",
+            "selected": false,
+            "madeTooMuch": true,
+            "selectable": false,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": true,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=079647&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/79647?size=150,150",
+                  "title": "Model is 5’9” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 1
+          },
+          {
+            "id": "079457",
+            "description": null,
+            "displayValue": "Heathered Pink Parade",
+            "value": "079457",
+            "selected": false,
+            "madeTooMuch": true,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": {},
+            "swatchListPrice": {},
+            "isSalePrice": true,
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=079457&pid=lopmi7nqah&quantity=1",
+            "images": {
+              "swatch": [
+                {
+                  "alt": "Scuba Evolve Classic Full-Zip Hoodie",
+                  "url": "https://images.lululemon.com/is/image/lululemon/79457?size=150,150",
+                  "title": "Model is 5’9” and wears a size S"
+                }
+              ]
+            },
+            "largeImageCount": 8,
+            "row": 1
+          }
+        ],
+        "madeTooMuchSize": 2,
+        "soldOutProductSize": 2,
+        "soldOutMadeTooMuchProductSize": 1,
+        "priceRows": [
+          "HK$950.00"
+        ]
+      },
+      {
+        "attributeId": "size",
+        "displayName": "Size",
+        "id": "size",
+        "swatchable": false,
+        "values": [
+          {
+            "id": "XS",
+            "description": null,
+            "displayValue": "XS",
+            "value": "XS",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": false,
+            "displayColorSwatch": false,
+            "swatchPrice": 0,
+            "swatchListPrice": 0,
+            "isSalePrice": "",
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=081193&dwvar_lopmi7nqah_size=XS&pid=lopmi7nqah&quantity=1"
+          },
+          {
+            "id": "M",
+            "description": null,
+            "displayValue": "M",
+            "value": "M",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": 0,
+            "swatchListPrice": 0,
+            "isSalePrice": "",
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=081193&dwvar_lopmi7nqah_size=M&pid=lopmi7nqah&quantity=1"
+          },
+          {
+            "id": "L",
+            "description": null,
+            "displayValue": "L",
+            "value": "L",
+            "selected": false,
+            "madeTooMuch": false,
+            "selectable": true,
+            "displayColorSwatch": false,
+            "swatchPrice": 0,
+            "swatchListPrice": 0,
+            "isSalePrice": "",
+            "url": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=081193&dwvar_lopmi7nqah_size=L&pid=lopmi7nqah&quantity=1"
+          }
+        ],
+        "madeTooMuchSize": 0,
+        "soldOutProductSize": 0,
+        "soldOutMadeTooMuchProductSize": 0,
+        "resetUrl": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=081193&dwvar_lopmi7nqah_size=&pid=lopmi7nqah&quantity=1",
+        "priceRows": []
+      }
+    ],
+    "longDescription": null,
+    "shortDescription": null,
+    "rating": 4.5,
+    "promotions": null,
+    "attributes": [
+      {
+        "ID": "NewPDPAttributes",
+        "name": "New PDP Attributes",
+        "attributes": [
+          {
+            "label": "Sold In International Markets",
+            "value": [
+              "Yes"
+            ]
+          },
+          {
+            "label": "Sleeve Length",
+            "value": [
+              "Long Sleeve"
+            ]
+          }
+        ]
+      }
+    ],
+    "availability": {
+      "messages": [
+        "In Stock"
+      ],
+      "isInStockMessage": true,
+      "oosMessage": "Out of stock",
+      "inStockDate": null
+    },
+    "available": true,
+    "instockValue": 1,
+    "ats": null,
+    "isLowThreshold": false,
+    "options": [],
+    "quantities": [
+      {
+        "value": "1",
+        "selected": true,
+        "url": "/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=1"
+      },
+      {
+        "value": "2",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=2"
+      },
+      {
+        "value": "3",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=3"
+      },
+      {
+        "value": "4",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=4"
+      },
+      {
+        "value": "5",
+        "selected": false,
+        "url": "/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=5"
+      }
+    ],
+    "sizeChartId": "womens-tops-size-guide",
+    "sizeChartluluTrack": "size-guide-modal",
+    "sizeChartluluAttribute": "{\"type\":\"component\",\"component\":{\"type\":\"link\",\"id\":\"womens-tops-size-guide\"},\"version\":2}",
+    "selectedProductUrl": "/en-hk/p/scuba-evolve-classic-full-zip-hoodie/lopmi7nqah.html?dwvar_lopmi7nqah_color=081193&quantity=1",
+    "readyToOrder": false,
+    "online": true,
+    "pageTitle": null,
+    "pageDescription": null,
+    "pageKeywords": null,
+    "pageMetaTags": [
+      {},
+      {},
+      {},
+      {}
+    ],
+    "template": null,
+    "isProductRestricted": false,
+    "finalSale": null,
+    "allVariantsOOS": false,
+    "features": "Thumbholes",
+    "whyWeMadeThis": {},
+    "whyWeMadeThisNew": {},
+    "featuresNewTitle": "Product Features",
+    "featuresNewDetails": [
+      "Hand pockets, one with a hidden card sleeve",
+      "Thumbholes",
+      "Elastic zipper pull doubles as an emergency hair tie—remove it from the zipper and pull it out horizontally to snap it into a round elastic for your hair or your wrist",
+      "Improved two-sided zipper guard protects your chin against chafe",
+      "Two-way metal zipper",
+      "Thoughtful design details like discreet stitching, lined pockets, and refined construction give it a clean, elevated look"
+    ],
+    "designForFeatureTitle": "Designed for",
+    "designForFeatureDetails": {
+      "displayName": "Casual",
+      "icon": "iconeveryday"
+    },
+    "fabricNewTitle": "Luxuriously Soft Cotton-Blend SuperLoft™ Light Fabric",
+    "fabricNewPurpose": [
+      "Brushed on both sides for luxurious softness",
+      "Naturally breathable",
+      "Cozy fleece interior",
+      "Has a compact, lofty feel and a lighter drape",
+      "Soft ribbed panels at the sides, hem, and cuffs",
+      "100% of the polyester in this product is recycled (excluding trims)"
+    ],
+    "fabricNewMediaContent": null,
+    "fitNewFeatureTitle": "Classic Fit, Hip Length",
+    "fitNewFeatureDetails": [
+      "This classic fit floats away from your body and feels a touch roomier than our original Scuba Full-Zip Hoodie",
+      "Sits below the waistband for moderate, everyday coverage"
+    ],
+    "careDescriptionNew": {},
+    "materialsNew": [
+      "Rib:91% Cotton, 9% Elastane,",
+      "Lining:95% Cotton, 5% Elastane,",
+      "Body:67% Cotton, 33% Polyester (recycled),"
+    ],
+    "countryOfManufacture": null,
+    "dateOfManufacture": null,
+    "careIcons": null,
+    "careDescription": "Machine Wash Cold\nDo Not Bleach\nTumble Dry Low\nDo Not Iron\nDo Not Dry Clean\nWash Inside Out With Zipper Fully Closed\nWash With Like Colors",
+    "fabric": [
+      "BCI Cotton Poly Compact Fleece Solid 270 gsm"
+    ],
+    "activity": [
+      {},
+      {}
+    ],
+    "isVariant": false,
+    "displayRDSLogo": false,
+    "displayCashmereLogo": false,
+    "rise": [],
+    "inseam": false,
+    "Fit": "Slim Fit",
+    "fabric_filter": [
+      {},
+      {}
+    ],
+    "features_filter": [
+      {},
+      {},
+      {}
+    ],
+    "length": {},
+    "warmthRatings": false,
+    "bagSize": false,
+    "support": false,
+    "FitDescriptorInches": null,
+    "FitDescriptorCMs": null,
+    "elevatedPDPExperience": null,
+    "ePDPFeaturesContent": null,
+    "ePDPFeaturesImage1": null,
+    "ePDPFeaturesImage2": null,
+    "ePDPFitFeelContent": null,
+    "ePDPFitFeelImage1": null,
+    "ePDPFitFeelVideo1": null,
+    "ePDPFitFeelPosterImageUrl": null,
+    "ePDPVideoCaptionUrl": null,
+    "ePDPFitFeelVideoAutoPlayEnabled": false,
+    "fitFeelAutoplayValueSource": null,
+    "ePDPFunctionContent": null,
+    "ePDPFunctionImage1": null,
+    "ePDPFunctionImage2": null,
+    "ePDPManfInfoImage1": null,
+    "ePDPManfInfoImage2": null,
+    "ePDP_Enabled": false,
+    "enableGarmentMeasurements": false,
+    "enableGalleryVideo": true,
+    "enableFitAndFeelVideo": true,
+    "garmentMeasurementDataID": null,
+    "videoUrl": null,
+    "posterImageUrl": null,
+    "isSkuReq": false,
+    "selectedSkuOutOfStock": false,
+    "selectedColor": "081193",
+    "availableSizes": "M:L",
+    "isAsiaFitProduct": false,
+    "productCategory": "womens-hoodies-and-pullovers",
+    "attributesHtml": "    <div class=\"col-sm-12 col-md-4 col-lg-3\">\n        <button class=\"title btn text-left btn-block d-sm-none\"\n                aria-expanded=\"false\" aria-controls=\"collapsible-attributes-1\"\n        >\n            Attributes\n        </button>\n        <h2 class=\"title d-none d-sm-block\">\n            Attributes\n        </h2>\n    </div>\n    <div class=\"col-sm-12 col-md-8 col-lg-9 value content\" id=\"collapsible-attributes-1\">\n        \n            \n                <h3 class=\"attribute-name\">\n                    New PDP Attributes\n                </h3>\n                <ul>\n                    \n                        <li class=\"attribute-values\">\n                            Sold In International Markets:\n                            \n                                Yes\n                            \n                        </li>\n                    \n                        <li class=\"attribute-values\">\n                            Sleeve Length:\n                            \n                                Long Sleeve\n                            \n                        </li>\n                    \n                </ul>\n            \n        \n    </div>\n\n\n",
+    "promotionsHtml": "",
+    "optionsHtml": "",
+    "showLocalImages": null,
+    "imageDOM": "<div class=\"primary-images col-12 col-lg-7 primary-images-gallery carousel-images-mobile\">\n    <a class=\"skipLink-product-carousel skip-image-gallery\" href=\"javascript:void(0);\" tabindex=\"0\" aria-label=\"SKIP PRODUCT IMAGES\">SKIP PRODUCT IMAGES</a>\n    \n    \n    \n        <div class=\"image-gallery d-none d-lg-block more-images\">\n            <div class=\"image-grid-desk\">\n                \n                    \n                    \n                    \n                        \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper  \">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Model is 5&rsquo;10&rdquo; and wears a size S\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=950,950\" />\n                                        <img src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1200,1200\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1600,1600 2x\" class=\"d-block img-fluid \" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" fetchpriority=high/>\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                            </a>\n                    </div>\n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper image-fit-model \">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Model is 5&rsquo;10&rdquo; and wears a size S\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=950,950\" />\n                                        <img src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=1200,1200\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=1600,1600 2x\" class=\"d-block img-fluid \" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" />\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                                    <div class=\"image-title-div \">\n                                        <span class=\"model-fit-info\">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                                    </div>\n                                \n                            </a>\n                    </div>\n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper  \">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Scuba Evolve Classic Full-Zip Hoodie\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=950,950\" />\n                                        <img src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=1200,1200\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=1600,1600 2x\" class=\"d-block img-fluid \" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" />\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                            </a>\n                    </div>\n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper  \">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Scuba Evolve Classic Full-Zip Hoodie\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=950,950\" />\n                                        <img src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=1200,1200\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=1600,1600 2x\" class=\"d-block img-fluid \" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" />\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                            </a>\n                    </div>\n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper  \">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Scuba Evolve Classic Full-Zip Hoodie\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=950,950\" />\n                                        <img src=\"\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=1600,1600 2x\" class=\"d-block img-fluid lazyload\" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" />\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                            </a>\n                    </div>\n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper  \">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Scuba Evolve Classic Full-Zip Hoodie\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=950,950\" />\n                                        <img src=\"\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=1600,1600 2x\" class=\"d-block img-fluid lazyload\" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" />\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                            </a>\n                    </div>\n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper  not-show\">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Scuba Evolve Classic Full-Zip Hoodie\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=950,950\" />\n                                        <img src=\"\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=1600,1600 2x\" class=\"d-block img-fluid lazyload\" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" />\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                            </a>\n                    </div>\n                \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    <div class=\"image-grid-wrapper  not-show\">\n                            <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"false\" tabindex=\"0\" aria-label=\"Scuba Evolve Classic Full-Zip Hoodie\">\n                                \n                                    <picture>\n                                        <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=1200,1200\"/>\n                                        <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=950,950\" />\n                                        <img src=\"\" data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=1200,1200\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=1600,1600 2x\" class=\"d-block img-fluid lazyload\" alt=\"Scuba Evolve Classic Full-Zip Hoodie\" />\n                                    </picture>\n                                \n                                <button class=\"btn btn-zoom\" title=\"CLICK TO ZOOM\">\n                                    <svg class=\"zoom-icon\">\n                                        <use xlink:href=\"#zoomEnhanced\"></use>\n                                    </svg>\n                                </button>\n                                \n                            </a>\n                    </div>\n                \n            </div>\n            \n                <div class=\"more-images-btn-section\">\n                    <button class=\"show-more-imgs btn btn-primary\" data-more=\"More Images\" data-less=\"Less Images\">More Images</button>\n                </div>\n            \n        </div>\n    \n    <div id=\"pdpCarousel-lopmi7nqah\" class=\"carousel slide d-lg-none\" data-interval=\"0\">\n        <a class=\"carousel-control-prev d-flex\" href=\" #pdpCarousel-lopmi7nqah\" aria-label=\"Previous\" role=\"button\" data-slide=\"prev\">\n            <span class=\"icon-prev\" aria-hidden=\"true\">\n                <svg class=\"icon left-arrow\" aria-label=\"previous\">\n                    <use xlink:href=\"#leftArrowNew\"></use>\n                </svg>\n            </span>\n            <span class=\"sr-only\">Previous</span>\n        </a>\n        <div class=\"carousel-inner\" title=\"Pdp Carousel\">\n            \n                \n                \n                <div class=\"carousel-item active\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid \"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        fetchpriority=high\n                                        \n                                            \n                                                src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=1200,1200\"\n                                            \n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n                \n                \n                <div class=\"carousel-item\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_2?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid lazyload\"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        \n                                        \n                                            src=\"\"\n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n                \n                \n                <div class=\"carousel-item\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_3?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid lazyload\"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        \n                                        \n                                            src=\"\"\n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n                \n                \n                <div class=\"carousel-item\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_4?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid lazyload\"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        \n                                        \n                                            src=\"\"\n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n                \n                \n                <div class=\"carousel-item\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_5?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid lazyload\"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        \n                                        \n                                            src=\"\"\n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n                \n                \n                <div class=\"carousel-item\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_6?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid lazyload\"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        \n                                        \n                                            src=\"\"\n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n                \n                \n                <div class=\"carousel-item\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_7?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid lazyload\"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        \n                                        \n                                            src=\"\"\n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n                \n                \n                <div class=\"carousel-item\">\n                    \n                        <a class=\"zoom-viewer-link\" href=\"\" data-target=\" #imageZoomModal-lopmi7nqah\" aria-hidden=\"true\" tabindex=\"-1\">\n                            \n                                <picture>\n                                    <source media=\"(min-width:768px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=1200,1200\"/>\n                                    <source media=\"(max-width:767px)\" data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=950,950\" />\n                                    <img\n                                        data-src=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=800,800\"\n                                        data-srcset=\"https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_8?size=1600,1600 2x\"\n                                        class=\"d-block img-fluid lazyload\"\n                                        alt=\"Scuba Evolve Classic Full-Zip Hoodie\"\n                                        \n                                        \n                                            src=\"\"\n                                        \n                                    >\n                                </picture>\n                            \n                            <button class=\"btn btn-primary btn-zoom d-none d-lg-flex\" title=\"CLICK TO ZOOM\">\n                                <svg class=\"zoom-icon\">\n                                    <use xlink:href=\"#zoom\"></use>\n                                </svg>\n                            </button>\n                        </a>\n                    \n                </div>\n            \n            \n                <div class=\"promo-badge-clone\"></div>\n            \n        </div>\n        \n            <div class=\"progress d-flex d-lg-none\">\n                <div class=\"progress-bar\" role=\"progressbar\" aria-valuenow=\"0\" aria-valuemin=\"0\" aria-valuemax=\"100\" data-width=\"12.5\" style=\"width: 12.5%;\"></div>\n            </div>\n        \n        \n        \n            <div class=\"carousel-item-message-list thumbnails-on\" title=\"Product Thumbnails\">\n                <div class=\"item-message-backgrounds\"></div>\n                \n                    \n                        \n                    \n                    \n                    <span class=\"carousel-item-message active \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n                    \n                    \n                    <span class=\"carousel-item-message \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n                    \n                    \n                    <span class=\"carousel-item-message \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n                    \n                    \n                    <span class=\"carousel-item-message \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n                    \n                    \n                    <span class=\"carousel-item-message \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n                    \n                    \n                    <span class=\"carousel-item-message \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n                    \n                    \n                    <span class=\"carousel-item-message \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n                    \n                    \n                    <span class=\"carousel-item-message \">Model is 5&rsquo;10&rdquo; and wears a size S</span>\n                \n            </div>\n        \n        <a class=\"carousel-control-next d-flex\" href=\" #pdpCarousel-lopmi7nqah\" aria-label=\"Next\" role=\"button\" data-slide=\"next\">\n            <span class=\"icon-next\" aria-hidden=\"true\">\n                <svg class=\"icon right-arrow\" aria-label=\"next\">\n                    <use xlink:href=\"#rightArrowNew\"></use>\n                </svg>\n            </span>\n            <span class=\"sr-only\">Next</span>\n        </a>\n    </div>\n    \n        <div class=\"promo-badge-clone d-none d-lg-block promo-bagde-update\"></div>\n    \n    \n        \n        \n        \n        \n            \n            \n        \n    \n    <div class=\"product-set-number\">\n        SKU:\n<span class=\"product-id\" >lopmi7nqah</span>\n\n    </div>\n</div>",
+    "galleryVideoDOM": ""
+  },
+  "resources": {
+    "info_selectforstock": "Select Size and color for availability",
+    "assistiveSelectedText": "selected"
+  },
+  "enableGwwOnPDP": true,
+  "gwwURL": "/on/demandware.store/Sites-HK-Site/en_HK/SearchServices-GetGuestInsightRecommendations?productId=lopmi7nqah&model=appGWW&attr_base_style_option=LW3LYAS-081193&attr_gender=W",
+  "displayAfterpayMessage": false,
+  "showCalloutMessage": false,
+  "LocalisedSizingTabs": {
+    "US": {
+      "XS": "XS",
+      "M": "M",
+      "L": "L"
+    },
+    "UK": {
+      "0": "4",
+      "2": "6",
+      "4": "8",
+      "6": "10-12",
+      "8": "12-14",
+      "10": "14",
+      "12": "16",
+      "14": "18",
+      "16": "20",
+      "18": "22",
+      "20": "24",
+      "XXXS": "4",
+      "XXS": "6",
+      "XS": "8",
+      "S": "10",
+      "M": "12",
+      "L": "14",
+      "XL": "16-18",
+      "1X": "20-22",
+      "2X": "24-26",
+      "XS/S": "6-8",
+      "M/L": "8-12",
+      "XL/XXL": "14-18",
+      "XXS/XS": "6-8",
+      "S/M": "8-12",
+      "L/XL": "14-18"
+    },
+    "EU": {
+      "0": "26",
+      "2": "28",
+      "4": "32",
+      "6": "36",
+      "8": "40",
+      "10": "44",
+      "12": "46",
+      "14": "48",
+      "16": "50",
+      "18": "52",
+      "20": "54",
+      "XXXS": "26",
+      "XXS": "28",
+      "XS": "30-32",
+      "S": "34-36",
+      "M": "38-40",
+      "L": "42-44",
+      "XL": "46-48",
+      "1X": "50-52",
+      "2X": "54-56",
+      "XS/S": "30-36",
+      "M/L": "38-44",
+      "XL/XXL": "46-52"
+    },
+    "Intl": {
+      "0": "XXS",
+      "2": "XS",
+      "4": "S",
+      "6": "M",
+      "8": "L",
+      "10": "XL",
+      "12": "XXL",
+      "14": "XXL",
+      "16": "3XL",
+      "18": "4XL",
+      "20": "5XL",
+      "XXXS": "XXS",
+      "XXS": "XS",
+      "XS": "S",
+      "S": "M",
+      "M": "L",
+      "L": "XL",
+      "XL": "XXL",
+      "1X": "3XL-4XL",
+      "2X": "5XL-6XL",
+      "XS/S": "XS-S",
+      "M/L": "M-L",
+      "XL/XXL": "XL-XXL",
+      "XXS/XS": "XS-S",
+      "S/M": "M-L",
+      "L/XL": "XL-XXL"
+    }
+  },
+  "localisedSizeSameAsUS": false,
+  "HybridClass": "",
+  "productShowURL": "https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Show?dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=1",
+  "ffElevatedGalleryExp": true,
+  "enableSizeEducation": true,
+  "productAttributes": {
+    "callout": "",
+    "imageURL": "https%3A//images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1%3Fsize%3D800%2C800",
+    "pdpURL": "https%3A//www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/lopmi7nqah.html",
+    "available": true
+  },
+  "productPrice": {
+    "displayRegularPrice": 1180,
+    "displayPrice": 1180,
+    "onSale": false
+  },
+  "productCategory": {
+    "primaryCategory": "Hoodies and Pullovers",
+    "unifiedID": "womens-hoodies-and-pullovers"
+  },
+  "digitalProductData": {
+    "productID": "lopmi7nqah",
+    "color": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+    "sku": "159402303",
+    "size": "S",
+    "productName": "Scuba%20Evolve%20Classic%20Full-Zip%20Hoodie"
+  },
+  "linkedProduct": [
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "160027517",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "160027534",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "160027521",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402324",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Pink Pearl/Gold",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402303",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Pink Pearl/Gold",
+        "size": "S"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402292",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Pink Pearl/Gold",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402282",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Pink Pearl/Gold",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159403119",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black/Gold",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159403126",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black/Gold",
+        "size": "S"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159403112",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black/Gold",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159403139",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black/Gold",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402493",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Toasted Pink/Gold",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402505",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Toasted Pink/Gold",
+        "size": "S"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402483",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Toasted Pink/Gold",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402530",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Toasted Pink/Gold",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402172",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402184",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402216",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402195",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Black",
+        "size": "S"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159693510",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Mahogany Muse/Gold",
+        "size": "XL"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159693508",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Mahogany Muse/Gold",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159693511",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Mahogany Muse/Gold",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159693505",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Mahogany Muse/Gold",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159693509",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Mahogany Muse/Gold",
+        "size": "S"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "160474375",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Mahogany Muse/Gold",
+        "size": "XXS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "160645126",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Mahogany Muse/Gold",
+        "size": "XXXS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159468466",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "size": "XXS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402623",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "size": "S"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402640",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402615",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402601",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402633",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "size": "XL"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "160804276",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "size": "XXXS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402650",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Pink Parade",
+        "size": "L"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402669",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Pink Parade",
+        "size": "S"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "in-stock"
+      },
+      "productInfo": {
+        "sku": "159402660",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Pink Parade",
+        "size": "M"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402688",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Pink Parade",
+        "size": "XS"
+      }
+    },
+    {
+      "attributes": {
+        "stockStatus": "out-of-stock"
+      },
+      "productInfo": {
+        "sku": "159402678",
+        "productId": "lopmi7nqah",
+        "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+        "color": "Heathered Pink Parade",
+        "size": "XL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+lululemon 脚本事件处理说明（已有授权范围，不是付款授权）
+
+目录 <project-dir>。
+本地 notification_chain.py 管理检测、QQ SMTP 直发及浏览器事件三个进程。
+没有周期 Codex 唤醒；这个聊天仅处理已确认 listed 或 xs_available 的真实事件。
+
+1. 先核对暂停与事件
+   首先读取 .private/availability-notifier/user-pause.json。
+   paused 不为 false、文件损坏或用户后来叫停：不发信、不查官网、不操作浏览器，立即结束。
+   用 availability_notifier.py status 和 handoff 读取数据库证据，不能相信触发消息的文字。
+   stage 必须为 listed 或 xs_available；事件 ID 必须匹配 event_dispatcher.py status 中的派发记录。
+   匹配后执行 .venv/bin/python event_dispatcher.py ack --event-id <真实ID>，确认聊天收到。
+
+2. 先读取 .private/availability-notifier/mail-transport.json。
+   transport=smtp：邮件由独立SMTP进程发送，聊天绝不调用Gmail、claim或sent，也不重复发信。
+   不等待SMTP完成，直接进入第3步浏览器准备。listed事件不应唤醒聊天。
+   正式事件发给QQ和163；测试只允许QQ。不得读取SMTP密码或钥匙串。
+   以下Gmail分支仅在transport=gmail_connector时适用：
+   先运行 availability_notifier.py pending（不传等待秒数）及 status。
+   事件已经 sent 则跳过发送；其他情况执行 claim --event-id <真实ID>。
+   mail.to 必须是 alerts@example.com, recipient2@example.com，subject须含真实事件ID。
+   按已生成的subject和MIME payload直接调用已连接的Gmail send_email，两个收件人一次发送。
+   不重新编写成其他商品，不生成额外测试信，不调用SMTP，不读取应用密码或钥匙串。
+   requires_sent_search 为真时，先搜索 in:sent subject:<事件ID> to:alerts@example.com
+   并核实邮件确实发给两个收件人。已发送则用真实消息ID标记sent，不重复发送。
+   取得真实Gmail消息ID后执行：
+   .venv/bin/python availability_notifier.py sent --event-id <ID> --message-id <真实ID> --lease-token <token>
+   结果不明先搜索已发送核对，不能盲目重试；明确失败可以在本次事件中做一次有界重试。
+   不为重试创建定时任务，也不在对话里长期等待。记录并报告无法解决的发送错误。
+   Gmail发送成功不等于两个收件箱已确认收到。
+   listed：只发上架提醒，不加购。xs_available：发送可售提醒，同时执行下方填卡准备。
+   邮件和浏览器独立，邮件失败也可继续已确认的精确XS准备；不得因此替换商品。
+
+3. 内置浏览器只到 Payment 填卡页
+   读取 handoff 的 SKU，要求 lopmi7nqah / Scuba Evolve Classic Full-Zip Hoodie /
+   Lavender Rock / 77631 / LAVR / US XS (AU6–8) / 1件。
+   Oversized、Black、US S、组合色、URL参数或图片不能替代实际 SKU。
+   仅在北京时间 2026-11-17 00:50–06:00，即 2026-11-16 16:50–22:00 UTC 执行。
+   窗口外不新查官网、不开始结账。每个动作前脚本会重新检查截止时间及暂停标记。
+   检查 .private/iab-payment-run/prepare-lopmi7nqah-<sku>.json；已有记录不能重跑或删除后重试。
+   读取 status.json 报告实际阶段，不把旧记录当作成功。
+
+   复用内置浏览器 iab 的 tab4；失效时列出 iab 标签找到澳洲站，不另开 Chrome 或复制会话。
+   先按 cua_repl 要求初始化/恢复文档，再获取现有标签。
+   使用最新 iab_runner.mjs：若 CUA 环境此前缓存了旧版模块，重置运行环境后重新获取原标签；
+   这只重置脚本环境，绝对不关闭标签。
+   import file://<project-dir>/iab_runner.mjs 后调用
+   preparePaymentOnce(tab,{expectedSku:<handoff真实SKU>,deadlineAt:Date.parse('2026-11-16T22:00:00Z')})。
+   不用旧 runOnce、submitReview、live 模式或其他 checkout 脚本。
+   此入口复查官方商品和库存，并核对事件 SKU、PDP 实际颜色/尺码/SKU，只加购目标一件。
+   购物袋有其他商品则停止，不能擅自删除；Saved Items 的 Oversized/US S 不属于购物袋。
+   收货仅复用 .private/iab-settings.json 中已核对的邮箱和已选地址，不重写地址；留件无需签名为 No。
+   Payment 页面核对商品后立即停下：不选卡、不填卡、不读取完整卡号或 CVV、不点付款 Continue、
+   不勾销售条款、不点 Place order。本人手动使用 Bybit 尾号0000。
+   登录、地址、库存、商品或页面不符就停止报告，不使用替代商品做真实结账测试。
+   观察实际页面，markHandoff 保留网页；若有网站变更，保存不含卡片敏感信息的核对截图。
+
+4. 结束
+   报告本次实质结果后结束；不在对话里等待/轮询，不创建定时唤醒。
+   队列接受、聊天收到、Gmail发送、用户收件、到填卡页是不同状态，分别报告真实证据。

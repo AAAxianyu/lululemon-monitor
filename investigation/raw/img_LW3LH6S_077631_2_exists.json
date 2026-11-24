@@ -1,0 +1,29 @@
+{
+  "label": "img_LW3LH6S_077631_2_exists",
+  "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_2?req=exists",
+  "method": "GET",
+  "client": "curl_cffi; impersonate=chrome; no cookies or authentication",
+  "requested_at_utc": "2026-11-16T04:18:17.887006+00:00",
+  "request_headers": {},
+  "status": 200,
+  "final_url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_2?req=exists",
+  "headers": {
+    "access-control-allow-origin": "*",
+    "last-modified": "Mon, 16 Nov 2026 04:18:18 GMT",
+    "etag": "\"57f5d6067eb4b0dc029e9c343fdc6ae3\"",
+    "content-type": "text/plain",
+    "server": "Unknown",
+    "vary": "Accept-Encoding",
+    "content-encoding": "gzip",
+    "content-length": "79",
+    "expires": "Mon, 16 Nov 2026 04:24:18 GMT",
+    "date": "Mon, 16 Nov 2026 04:18:18 GMT",
+    "akamai-request-bc": "on",
+    "server-timing": "clientrtt; dur=4, clienttt; dur=89, origin; dur=32, cdntime; dur=57",
+    "akamai-cache-status": "Miss from child, Miss from parent",
+    "x-akamai-cache": "0",
+    "akamai-grn": "0.25153b17.1794802698.63672c21"
+  },
+  "bytes": 62,
+  "sha256": "93c421d7401059679e7e61dd202786c16bf909984537b90f73a786aedc8c1c28"
+}

@@ -1,0 +1,840 @@
+{
+  "target": {
+    "productId": "lopmi7nqah",
+    "name": "Scuba Evolve Classic Full-Zip Hoodie",
+    "color": "Lavender Rock",
+    "colorId": "77631",
+    "colorGroup": "LAVR"
+  },
+  "regions": {
+    "au": {
+      "name": "Scuba Evolve Classic Full-Zip Hoodie",
+      "productId": "lopmi7nqah",
+      "colors": [
+        {
+          "id": "81758",
+          "name": "Perfect Plumful/Gold",
+          "colorGroup": "PLFU/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/81758"
+        },
+        {
+          "id": "81674",
+          "name": "Mahogany Muse/Gold",
+          "colorGroup": "MAMU/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/81674"
+        },
+        {
+          "id": "76693",
+          "name": "Heathered Core Ultra Light Grey/Mirror Silver",
+          "colorGroup": "HCUG/MRRS",
+          "url": "https://images.lululemon.com/is/image/lululemon/76693"
+        },
+        {
+          "id": "69780",
+          "name": "True Navy/Mirror Silver",
+          "colorGroup": "TRNV/MRRS",
+          "url": "https://images.lululemon.com/is/image/lululemon/69780"
+        },
+        {
+          "id": "3385",
+          "name": "Black/Gold",
+          "colorGroup": "BLK/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/3385"
+        },
+        {
+          "id": "79647",
+          "name": "Heathered Cypress Forest",
+          "colorGroup": "THCY",
+          "url": "https://images.lululemon.com/is/image/lululemon/79647"
+        },
+        {
+          "id": "79641",
+          "name": "Toasted Pink/Gold",
+          "colorGroup": "TOPK/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/79641"
+        },
+        {
+          "id": "79640",
+          "name": "Icy Taupe/Mirror Silver",
+          "colorGroup": "ICYT/MRRS",
+          "url": "https://images.lululemon.com/is/image/lululemon/79640"
+        },
+        {
+          "id": "79457",
+          "name": "Heathered Pink Parade",
+          "colorGroup": "HPKP",
+          "url": "https://images.lululemon.com/is/image/lululemon/79457"
+        },
+        {
+          "id": "75787",
+          "name": "Pink Pearl/Gold",
+          "colorGroup": "PIAR/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/75787"
+        },
+        {
+          "id": "42797",
+          "name": "Light Ivory/Gold",
+          "colorGroup": "LTIV/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/42797"
+        },
+        {
+          "id": "0001",
+          "name": "Black",
+          "colorGroup": "BLK",
+          "url": "https://images.lululemon.com/is/image/lululemon/0001"
+        }
+      ],
+      "colorCount": 12,
+      "skuCount": 65,
+      "styles": {
+        "LW3LYAS": [
+          {
+            "id": "LW3LYAS-081758",
+            "colorId": "81758"
+          }
+        ],
+        "LW3LH6S": [
+          {
+            "id": "LW3LH6S-081674",
+            "colorId": "81674"
+          },
+          {
+            "id": "LW3LH6S-069780",
+            "colorId": "69780"
+          },
+          {
+            "id": "LW3LH6S-3385",
+            "colorId": "3385"
+          },
+          {
+            "id": "LW3LH6S-079641",
+            "colorId": "79641"
+          },
+          {
+            "id": "LW3LH6S-079640",
+            "colorId": "79640"
+          },
+          {
+            "id": "LW3LH6S-075787",
+            "colorId": "75787"
+          },
+          {
+            "id": "LW3LH6S-042797",
+            "colorId": "42797"
+          },
+          {
+            "id": "LW3LH6S-0001",
+            "colorId": "0001"
+          }
+        ],
+        "LW3LHPS": [
+          {
+            "id": "LW3LHPS-076693",
+            "colorId": "76693"
+          },
+          {
+            "id": "LW3LHPS-079647",
+            "colorId": "79647"
+          },
+          {
+            "id": "LW3LHPS-079457",
+            "colorId": "79457"
+          }
+        ]
+      },
+      "newColorsBadging": [
+        "081758",
+        "081674",
+        "069780"
+      ],
+      "badgesWithoutColorRecord": [],
+      "targetColors": [],
+      "targetSkus": [],
+      "inventoryCount": 65,
+      "inventoryExtraIds": [],
+      "colorInventory": [
+        {
+          "id": "81758",
+          "name": "Perfect Plumful/Gold",
+          "skuCount": 5,
+          "availableSkuCount": 4
+        },
+        {
+          "id": "81674",
+          "name": "Mahogany Muse/Gold",
+          "skuCount": 7,
+          "availableSkuCount": 3
+        },
+        {
+          "id": "76693",
+          "name": "Heathered Core Ultra Light Grey/Mirror Silver",
+          "skuCount": 7,
+          "availableSkuCount": 5
+        },
+        {
+          "id": "69780",
+          "name": "True Navy/Mirror Silver",
+          "skuCount": 5,
+          "availableSkuCount": 1
+        },
+        {
+          "id": "3385",
+          "name": "Black/Gold",
+          "skuCount": 5,
+          "availableSkuCount": 2
+        },
+        {
+          "id": "79647",
+          "name": "Heathered Cypress Forest",
+          "skuCount": 5,
+          "availableSkuCount": 0
+        },
+        {
+          "id": "79641",
+          "name": "Toasted Pink/Gold",
+          "skuCount": 5,
+          "availableSkuCount": 4
+        },
+        {
+          "id": "79640",
+          "name": "Icy Taupe/Mirror Silver",
+          "skuCount": 6,
+          "availableSkuCount": 1
+        },
+        {
+          "id": "79457",
+          "name": "Heathered Pink Parade",
+          "skuCount": 5,
+          "availableSkuCount": 0
+        },
+        {
+          "id": "75787",
+          "name": "Pink Pearl/Gold",
+          "skuCount": 5,
+          "availableSkuCount": 3
+        },
+        {
+          "id": "42797",
+          "name": "Light Ivory/Gold",
+          "skuCount": 5,
+          "availableSkuCount": 0
+        },
+        {
+          "id": "0001",
+          "name": "Black",
+          "skuCount": 5,
+          "availableSkuCount": 5
+        }
+      ]
+    },
+    "us": {
+      "name": "Scuba Evolve Classic Full-Zip Hoodie",
+      "productId": "lopmi7nqah",
+      "colors": [
+        {
+          "id": "81193",
+          "name": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+          "colorGroup": "FTTN/FTTN",
+          "url": "https://images.lululemon.com/is/image/lululemon/81193"
+        },
+        {
+          "id": "69780",
+          "name": "True Navy/Mirror Silver",
+          "colorGroup": "TRNV/MRRS",
+          "url": "https://images.lululemon.com/is/image/lululemon/69780"
+        },
+        {
+          "id": "3385",
+          "name": "Black/Gold",
+          "colorGroup": "BLK/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/3385"
+        },
+        {
+          "id": "76925",
+          "name": "Raspberry Rave/Raspberry Rave",
+          "colorGroup": "RARV/RARV",
+          "url": "https://images.lululemon.com/is/image/lululemon/76925"
+        },
+        {
+          "id": "79640",
+          "name": "Icy Taupe/Mirror Silver",
+          "colorGroup": "ICYT/MRRS",
+          "url": "https://images.lululemon.com/is/image/lululemon/79640"
+        },
+        {
+          "id": "75787",
+          "name": "Pink Pearl/Gold",
+          "colorGroup": "PIAR/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/75787"
+        },
+        {
+          "id": "76615",
+          "name": "Remixed Marine",
+          "colorGroup": "REMA",
+          "url": "https://images.lululemon.com/is/image/lululemon/76615"
+        },
+        {
+          "id": "79641",
+          "name": "Toasted Pink/Gold",
+          "colorGroup": "TOPK/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/79641"
+        },
+        {
+          "id": "32493",
+          "name": "Heathered Core Ultra Light Grey",
+          "colorGroup": "HCUG",
+          "url": "https://images.lululemon.com/is/image/lululemon/32493"
+        },
+        {
+          "id": "0001",
+          "name": "Black",
+          "colorGroup": "BLK",
+          "url": "https://images.lululemon.com/is/image/lululemon/0001"
+        },
+        {
+          "id": "42797",
+          "name": "Light Ivory/Gold",
+          "colorGroup": "LTIV/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/42797"
+        }
+      ],
+      "colorCount": 11,
+      "skuCount": 66,
+      "styles": {
+        "LW3LYAS": [
+          {
+            "id": "LW3LYAS-081193",
+            "colorId": "81193"
+          }
+        ],
+        "LW3LH6S": [
+          {
+            "id": "LW3LH6S-069780",
+            "colorId": "69780"
+          },
+          {
+            "id": "LW3LH6S-3385",
+            "colorId": "3385"
+          },
+          {
+            "id": "LW3LH6S-076925",
+            "colorId": "76925"
+          },
+          {
+            "id": "LW3LH6S-079640",
+            "colorId": "79640"
+          },
+          {
+            "id": "LW3LH6S-075787",
+            "colorId": "75787"
+          },
+          {
+            "id": "LW3LH6S-076615",
+            "colorId": "76615"
+          },
+          {
+            "id": "LW3LH6S-079641",
+            "colorId": "79641"
+          },
+          {
+            "id": "LW3LH6S-0001",
+            "colorId": "0001"
+          },
+          {
+            "id": "LW3LH6S-042797",
+            "colorId": "42797"
+          }
+        ],
+        "LW3LHPS": [
+          {
+            "id": "LW3LHPS-032493",
+            "colorId": "32493"
+          }
+        ]
+      },
+      "newColorsBadging": [
+        "77631",
+        "69780",
+        "3385",
+        "81193",
+        "81758"
+      ],
+      "badgesWithoutColorRecord": [
+        "77631",
+        "81758"
+      ],
+      "targetColors": [],
+      "targetSkus": []
+    },
+    "ca": {
+      "name": "Scuba Evolve Classic Full-Zip Hoodie",
+      "productId": "lopmi7nqah",
+      "colors": [
+        {
+          "id": "81193",
+          "name": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+          "colorGroup": "FTTN/FTTN",
+          "url": "https://images.lululemon.com/is/image/lululemon/81193"
+        },
+        {
+          "id": "69780",
+          "name": "True Navy/Mirror Silver",
+          "colorGroup": "TRNV/MRRS",
+          "url": "https://images.lululemon.com/is/image/lululemon/69780"
+        },
+        {
+          "id": "76925",
+          "name": "Raspberry Rave/Raspberry Rave",
+          "colorGroup": "RARV/RARV",
+          "url": "https://images.lululemon.com/is/image/lululemon/76925"
+        },
+        {
+          "id": "79640",
+          "name": "Icy Taupe/Mirror Silver",
+          "colorGroup": "ICYT/MRRS",
+          "url": "https://images.lululemon.com/is/image/lululemon/79640"
+        },
+        {
+          "id": "75787",
+          "name": "Pink Pearl/Gold",
+          "colorGroup": "PIAR/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/75787"
+        },
+        {
+          "id": "76615",
+          "name": "Remixed Marine",
+          "colorGroup": "REMA",
+          "url": "https://images.lululemon.com/is/image/lululemon/76615"
+        },
+        {
+          "id": "79641",
+          "name": "Toasted Pink/Gold",
+          "colorGroup": "TOPK/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/79641"
+        },
+        {
+          "id": "32493",
+          "name": "Heathered Core Ultra Light Grey",
+          "colorGroup": "HCUG",
+          "url": "https://images.lululemon.com/is/image/lululemon/32493"
+        },
+        {
+          "id": "0001",
+          "name": "Black",
+          "colorGroup": "BLK",
+          "url": "https://images.lululemon.com/is/image/lululemon/0001"
+        },
+        {
+          "id": "42797",
+          "name": "Light Ivory/Gold",
+          "colorGroup": "LTIV/GOLD",
+          "url": "https://images.lululemon.com/is/image/lululemon/42797"
+        }
+      ],
+      "colorCount": 10,
+      "skuCount": 60,
+      "styles": {
+        "LW3LYAS": [
+          {
+            "id": "LW3LYAS-081193",
+            "colorId": "81193"
+          }
+        ],
+        "LW3LH6S": [
+          {
+            "id": "LW3LH6S-069780",
+            "colorId": "69780"
+          },
+          {
+            "id": "LW3LH6S-076925",
+            "colorId": "76925"
+          },
+          {
+            "id": "LW3LH6S-079640",
+            "colorId": "79640"
+          },
+          {
+            "id": "LW3LH6S-075787",
+            "colorId": "75787"
+          },
+          {
+            "id": "LW3LH6S-076615",
+            "colorId": "76615"
+          },
+          {
+            "id": "LW3LH6S-079641",
+            "colorId": "79641"
+          },
+          {
+            "id": "LW3LH6S-0001",
+            "colorId": "0001"
+          },
+          {
+            "id": "LW3LH6S-042797",
+            "colorId": "42797"
+          }
+        ],
+        "LW3LHPS": [
+          {
+            "id": "LW3LHPS-032493",
+            "colorId": "32493"
+          }
+        ]
+      },
+      "newColorsBadging": [
+        "3385",
+        "69780",
+        "81758",
+        "81193",
+        "79911"
+      ],
+      "badgesWithoutColorRecord": [
+        "3385",
+        "81758",
+        "79911"
+      ],
+      "targetColors": [],
+      "targetSkus": []
+    }
+  },
+  "hongKong": {
+    "requestedQuery": "dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=1",
+    "productName": "Scuba Evolve Classic Full-Zip Hoodie",
+    "selectedColor": "081193",
+    "selectedProductUrl": "/en-hk/p/scuba-evolve-classic-full-zip-hoodie/lopmi7nqah.html?dwvar_lopmi7nqah_color=081193&quantity=1",
+    "colorCount": 11,
+    "colors": [
+      {
+        "id": "081193",
+        "name": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+        "selected": true,
+        "selectable": true
+      },
+      {
+        "id": "075787",
+        "name": "Pink Pearl/Gold",
+        "selected": false,
+        "selectable": true
+      },
+      {
+        "id": "069780",
+        "name": "True Navy/Mirror Silver",
+        "selected": false,
+        "selectable": false
+      },
+      {
+        "id": "3385",
+        "name": "Black/Gold",
+        "selected": false,
+        "selectable": true
+      },
+      {
+        "id": "079641",
+        "name": "Toasted Pink/Gold",
+        "selected": false,
+        "selectable": true
+      },
+      {
+        "id": "0001",
+        "name": "Black",
+        "selected": false,
+        "selectable": true
+      },
+      {
+        "id": "042797",
+        "name": "Light Ivory/Gold",
+        "selected": false,
+        "selectable": false
+      },
+      {
+        "id": "081674",
+        "name": "Mahogany Muse/Gold",
+        "selected": false,
+        "selectable": true
+      },
+      {
+        "id": "076693",
+        "name": "Heathered Core Ultra Light Grey/Mirror Silver",
+        "selected": false,
+        "selectable": true
+      },
+      {
+        "id": "079647",
+        "name": "Heathered Cypress Forest",
+        "selected": false,
+        "selectable": false
+      },
+      {
+        "id": "079457",
+        "name": "Heathered Pink Parade",
+        "selected": false,
+        "selectable": true
+      }
+    ],
+    "targetColors": [],
+    "jsonLdSkuCount": 52
+  },
+  "images": [
+    {
+      "label": "imageset_control",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?req=set",
+      "status": 200,
+      "bytes": 198,
+      "sha256": "7e48a658ad85484485b5f03e6aac0c042070bf177fa0b9a256f7b66a72448634",
+      "decoded_image": null,
+      "response_excerpt": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<set n=\"lululemon/LW3LH6S_075787_1\" pv=\"1.0\" type=\"img\"><item dx=\"1800\" dy=\"2160\" iv=\"V7_j73\"><i n=\"lululemon/LW3LH6S_075787_1\"/></item></set>"
+    },
+    {
+      "label": "imageset_target",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?req=set",
+      "status": 200,
+      "bytes": 216,
+      "sha256": "bc058b819b92fe9e1f9acec94104cb8e84cdbffe32332a5a9ffb72a41845851e",
+      "decoded_image": null,
+      "response_excerpt": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<set n=\"lululemon/LW3LYAS_077631_1\" pv=\"1.0\" type=\"img\"><item dx=\"600\" dy=\"600\" iv=\"TcOjO1\"><i isDefault=\"1\" n=\"lululemon/lululemon_Yogo_RGB_WHT\"/></item></set>"
+    },
+    {
+      "label": "img_LW3LH4S_077631_1_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH4S_077631_1?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "8dc4b377000f44b13228f4f69297832442a033b64e5175a4451d9f499bbc5ad7",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Sun Nov 15 20:17:15 PST 2026\ncatalogRecord.exists=1"
+    },
+    {
+      "label": "img_LW3LH4S_077631_1_props",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH4S_077631_1?req=props",
+      "status": 200,
+      "bytes": 350,
+      "sha256": "9fc1b8caeca04ce6ebb538e9cf6ea949d059b8e0db678b31f8512410a198814b",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Mon Nov 16 04:17:15 UTC 2026\nimage.bgc=0xffffffff\nimage.height=2160\nimage.iccEmbed=0\nimage.iccProfile=sRGB IEC61966-2.1\nimage.length=161802\nimage.mask=0\nimage.pathEmbed=0\nimage.pixTyp=RGB\nimage.printRes=72\nimage.quality=80,0\nimage.type=image/webp\nimage.version=BhqlS2\nimage.width=1800\nimage.xmpEmbed=0\nmetadata.version=0g1010"
+    },
+    {
+      "label": "img_LW3LH6S_075787_1_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "10f8c779f32862322085fe0bd147c53a9e864d1f16972c9d6106184a6b698653",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Mon Nov 16 04:17:13 UTC 2026\ncatalogRecord.exists=1"
+    },
+    {
+      "label": "img_LW3LH6S_075787_1_props",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?req=props",
+      "status": 200,
+      "bytes": 349,
+      "sha256": "6b1736998773ffbba7c7a49716a3292b0e92a5f0fd35f69cbd42c6c28ec243f3",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Sun Nov 15 20:17:13 PST 2026\nimage.bgc=0xffffffff\nimage.height=2160\nimage.iccEmbed=0\nimage.iccProfile=sRGB IEC61966-2.1\nimage.length=96948\nimage.mask=0\nimage.pathEmbed=0\nimage.pixTyp=RGB\nimage.printRes=72\nimage.quality=80,0\nimage.type=image/webp\nimage.version=96yl_0\nimage.width=1800\nimage.xmpEmbed=0\nmetadata.version=0g1010"
+    },
+    {
+      "label": "img_LW3LH6S_077631_1_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_1?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "8cbc604dc1642823598e42070e1df90c8d3e487343246f713c48fd0f5b1896ba",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Sun Nov 15 20:17:10 PST 2026\ncatalogRecord.exists=0"
+    },
+    {
+      "label": "img_LW3LH6S_077631_1_props",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_1?req=props",
+      "status": 403,
+      "bytes": 20,
+      "sha256": "4318e64ac550c0ef81a27d3e2b1c87aaf46e1f81b3ef82735a9dd1c9cb07d50d",
+      "decoded_image": null,
+      "response_excerpt": "Unable to find image"
+    },
+    {
+      "label": "img_LW3LH6S_077631_2_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_2?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "93c421d7401059679e7e61dd202786c16bf909984537b90f73a786aedc8c1c28",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Sun Nov 15 20:18:18 PST 2026\ncatalogRecord.exists=0"
+    },
+    {
+      "label": "img_LW3LHPS_077631_1_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_077631_1?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "622b134c03de28dad0766ed743e7d2aa7fae81efeab521752dcf3c24bb3c6aed",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Mon Nov 16 04:17:10 UTC 2026\ncatalogRecord.exists=0"
+    },
+    {
+      "label": "img_LW3LHPS_077631_1_props",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_077631_1?req=props",
+      "status": 403,
+      "bytes": 20,
+      "sha256": "4318e64ac550c0ef81a27d3e2b1c87aaf46e1f81b3ef82735a9dd1c9cb07d50d",
+      "decoded_image": null,
+      "response_excerpt": "Unable to find image"
+    },
+    {
+      "label": "img_LW3LHPS_077631_2_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_077631_2?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "a922c71cd860b70eca9aedad7458c6ef55b6ab9347fd0c363a723044df69cb96",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Mon Nov 16 04:18:18 UTC 2026\ncatalogRecord.exists=0"
+    },
+    {
+      "label": "img_LW3LYAS_077631_1_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "13150b63ba02c6ad44aaeba2e5df12924958cdb31cfd325b502f378ebf0ad69c",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Sun Nov 15 20:17:12 PST 2026\ncatalogRecord.exists=0"
+    },
+    {
+      "label": "img_LW3LYAS_077631_1_props",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?req=props",
+      "status": 403,
+      "bytes": 20,
+      "sha256": "4318e64ac550c0ef81a27d3e2b1c87aaf46e1f81b3ef82735a9dd1c9cb07d50d",
+      "decoded_image": null,
+      "response_excerpt": "Unable to find image"
+    },
+    {
+      "label": "img_LW3LYAS_077631_2_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_2?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "a922c71cd860b70eca9aedad7458c6ef55b6ab9347fd0c363a723044df69cb96",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Mon Nov 16 04:18:18 UTC 2026\ncatalogRecord.exists=0"
+    },
+    {
+      "label": "img_LW3LYAS_081758_1_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081758_1?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "38ff76165ac89a908f3a2abb17201ab3655eee7c6032b1f8f672f740e51d0b3b",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Mon Nov 16 04:17:14 UTC 2026\ncatalogRecord.exists=1"
+    },
+    {
+      "label": "img_LW3LYAS_081758_1_props",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081758_1?req=props",
+      "status": 200,
+      "bytes": 350,
+      "sha256": "7db70189a6035b6c10bb1f2775704736b5391bb6faec9ba760d7f2e2559fd188",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Sun Nov 15 20:17:14 PST 2026\nimage.bgc=0xffffffff\nimage.height=2160\nimage.iccEmbed=0\nimage.iccProfile=sRGB IEC61966-2.1\nimage.length=132462\nimage.mask=0\nimage.pathEmbed=0\nimage.pixTyp=RGB\nimage.printRes=72\nimage.quality=80,0\nimage.type=image/webp\nimage.version=5TilY0\nimage.width=1800\nimage.xmpEmbed=0\nmetadata.version=0g1010"
+    },
+    {
+      "label": "img_codex_lulu_nonexistent_control_20261115_exists",
+      "url": "https://images.lululemon.com/is/image/lululemon/codex_lulu_nonexistent_control_20261115?req=exists",
+      "status": 200,
+      "bytes": 62,
+      "sha256": "a5970308876f6c33fb8ddc64519d9ca2cba4b42ca206c9a9f5c863be343917e7",
+      "decoded_image": null,
+      "response_excerpt": "#S7Z OK\n#Mon Nov 16 04:17:15 UTC 2026\ncatalogRecord.exists=0"
+    },
+    {
+      "label": "img_codex_lulu_nonexistent_control_20261115_props",
+      "url": "https://images.lululemon.com/is/image/lululemon/codex_lulu_nonexistent_control_20261115?req=props",
+      "status": 403,
+      "bytes": 20,
+      "sha256": "4318e64ac550c0ef81a27d3e2b1c87aaf46e1f81b3ef82735a9dd1c9cb07d50d",
+      "decoded_image": null,
+      "response_excerpt": "Unable to find image"
+    },
+    {
+      "label": "render_LW3LH4S_077631_1",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH4S_077631_1?wid=480&fmt=jpeg",
+      "status": 200,
+      "bytes": 12004,
+      "sha256": "e32316e4e4e1fc54cec5547a69dcaef6da28b8185cbbdd0dc0ebd23264c30b9a",
+      "decoded_image": {
+        "size": [
+          480,
+          576
+        ],
+        "format": "WEBP"
+      },
+      "response_excerpt": null
+    },
+    {
+      "label": "render_LW3LH6S_075787_1",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?wid=480&fmt=jpeg",
+      "status": 200,
+      "bytes": 10624,
+      "sha256": "aa11b9b6205e8a88e3e0a4a173f65211ea030f718ff26dec122f3cd753c7830e",
+      "decoded_image": {
+        "size": [
+          480,
+          576
+        ],
+        "format": "WEBP"
+      },
+      "response_excerpt": null
+    },
+    {
+      "label": "render_LW3LH6S_077631_1",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_077631_1?wid=480&fmt=jpeg",
+      "status": 200,
+      "bytes": 54,
+      "sha256": "f6d0bc85be06f7b3aead84613bc2c4b33be2b0e6e303686fed24cd09857f8f6e",
+      "decoded_image": {
+        "size": [
+          480,
+          480
+        ],
+        "format": "WEBP"
+      },
+      "response_excerpt": null
+    },
+    {
+      "label": "render_LW3LHPS_077631_1",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_077631_1?wid=480&fmt=jpeg",
+      "status": 200,
+      "bytes": 54,
+      "sha256": "f6d0bc85be06f7b3aead84613bc2c4b33be2b0e6e303686fed24cd09857f8f6e",
+      "decoded_image": {
+        "size": [
+          480,
+          480
+        ],
+        "format": "WEBP"
+      },
+      "response_excerpt": null
+    },
+    {
+      "label": "render_LW3LYAS_077631_1",
+      "url": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?wid=480&fmt=jpeg",
+      "status": 200,
+      "bytes": 54,
+      "sha256": "f6d0bc85be06f7b3aead84613bc2c4b33be2b0e6e303686fed24cd09857f8f6e",
+      "decoded_image": {
+        "size": [
+          480,
+          480
+        ],
+        "format": "WEBP"
+      },
+      "response_excerpt": null
+    },
+    {
+      "label": "render_codex_lulu_nonexistent_control_20261115",
+      "url": "https://images.lululemon.com/is/image/lululemon/codex_lulu_nonexistent_control_20261115?wid=480&fmt=jpeg",
+      "status": 200,
+      "bytes": 54,
+      "sha256": "f6d0bc85be06f7b3aead84613bc2c4b33be2b0e6e303686fed24cd09857f8f6e",
+      "decoded_image": {
+        "size": [
+          480,
+          480
+        ],
+        "format": "WEBP"
+      },
+      "response_excerpt": null
+    }
+  ]
+}

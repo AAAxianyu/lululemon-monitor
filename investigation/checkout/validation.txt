@@ -1,0 +1,31 @@
+lululemon 澳洲站结账流程验证
+检查日期：2026-11-15（America/Los_Angeles）
+授权范围：测试至订单提交前；不得提交订单、付款或授权支付。
+
+测试商品：Scuba Evolve Classic Full-Zip Hoodie，Black，US XS / AU 6-8，1 件。
+商品 ID：lopmi7nqah；SKU：159402216；单价：AUD 169。
+目标 Lavender Rock 未发现可验证 SKU，因此本次只验证同款其他颜色的流程。
+
+初始购物袋：已有 Scuba Evolve Oversized Full-Zip Hoodie，Lavender Rock，US S / AU 8-10，1 件。
+测试期间：增加黑色 Classic 后共 2 件，合计 AUD 338，标准配送显示免费。
+
+已验证步骤：
+1. 商品页选择 US XS，显示 SKU 159402216。
+2. 点击 Add to bag，出现 Added to Bag；购物袋正确显示 Classic / Black / US XS / Qty 1。
+3. 点击 Checkout，进入 /en-au/shop/checkout；四阶段为 Contact、Shipping、Payment、Review。
+4. 联系方式校验通过。使用用户提供的本次测试联系方式，未订阅营销邮件。
+5. 收货信息按用户提供截图填写。首行放 Parcel Locker 名称时触发缺少门牌号提示；将已有街道门牌信息放到首行、Parcel Locker 名称放到第二行，并使用截图地址中的 Sydney 作为 suburb 后，通过校验。
+6. 提交收货信息前，已取消 Save address to my account；Authority to leave 保持未勾选。
+7. 成功到达 /en-au/shop/checkout/payment。Contact 和 Shipping 为 Completed；Payment 为 In progress；Review 为 Not started。
+8. 信用卡使用 Adyen 澳洲 live 安全字段 iframe。没有可直接使用的已保存卡；卡号、有效期、安全码、持卡人姓名均为空。
+9. 空表单点击 Continue，显示 Enter a valid card number / Enter the expiry date / Enter the security code / Enter name as shown on card，留在 Payment。
+10. 仅选择 PayPal 查看说明：需要跳转登录 PayPal 后返回完成订单；未点击 PayPal 授权入口。
+11. 返回购物袋并移除新增的 Classic 黑色 US XS。页面明确提示 Classic removed from bag，购物袋恢复原有 Oversized 1 件、AUD 169。
+
+未进行：填写银行卡信息、跳转 PayPal 登录/授权、点击最终订单提交、发起付款。
+尚未验证：有效付款资料能否通过、Payment -> Review、最终提交、银行卡/银行验证、目标 Lavender Rock 的真实加购与结账。
+这次是浏览器交互验证，不代表独立 HTTP 自动购买脚本或无人值守全链路已实现。
+用户提供的地址未保存为账户地址；结账会话中可能保留本次测试联系方式和收货信息。
+
+公开脚本分析：manifest/contact/shipping/payment/review 共 5 个公开文件 GET 均返回 HTTP 200；URL、状态码和 SHA256 见同目录各 JSON 文件。未向交易接口发送直接 HTTP mutation。
+证据截图：payment-validation.jpg，只包含空白付款表单和必填项错误，不含收货联系方式。

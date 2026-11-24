@@ -1,0 +1,868 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProductGroup",
+  "@id": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/lopmi7nqah.html",
+  "name": "Scuba Evolve Classic Full-Zip Hoodie",
+  "image": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081758_1?size=800,800",
+  "description": "Update your soft-wear. An evolution of our Scuba collection, this classic, close-fitting hoodie is cut from our new SuperLoft\u2122 Light fabric and features signature ribbed panelling on the sides.",
+  "brand": {
+    "@type": "Brand",
+    "name": "lululemon"
+  },
+  "productGroupID": "lopmi7nqah",
+  "hasMerchantReturnPolicy": {
+    "@type": "MerchantReturnPolicy",
+    "applicableCountry": "HK",
+    "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+    "merchantReturnDays": 30,
+    "returnMethod": [
+      "https://schema.org/ReturnByMail",
+      "https://schema.org/ReturnInStore"
+    ],
+    "returnFees": "https://schema.org/FreeReturn"
+  },
+  "variesBy": [
+    "color",
+    "size"
+  ],
+  "hasVariant": [
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Light Ivory/Gold - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_042797_1?size=800,800",
+      "sku": "159402239",
+      "color": "Light Ivory/Gold",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402239.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Light Ivory/Gold - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_042797_1?size=800,800",
+      "sku": "159402268",
+      "color": "Light Ivory/Gold",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402268.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Light Ivory/Gold - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_042797_1?size=800,800",
+      "sku": "159402250",
+      "color": "Light Ivory/Gold",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402250.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Light Ivory/Gold - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_042797_1?size=800,800",
+      "sku": "159402227",
+      "color": "Light Ivory/Gold",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402227.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Pink Pearl/Gold - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?size=800,800",
+      "sku": "159402324",
+      "color": "Pink Pearl/Gold",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402324.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Pink Pearl/Gold - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?size=800,800",
+      "sku": "159402303",
+      "color": "Pink Pearl/Gold",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402303.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Pink Pearl/Gold - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?size=800,800",
+      "sku": "159402292",
+      "color": "Pink Pearl/Gold",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402292.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Pink Pearl/Gold - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_075787_1?size=800,800",
+      "sku": "159402282",
+      "color": "Pink Pearl/Gold",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402282.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_0001_1?size=800,800",
+      "sku": "159402172",
+      "color": "Black",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402172.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_0001_1?size=800,800",
+      "sku": "159402184",
+      "color": "Black",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402184.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_0001_1?size=800,800",
+      "sku": "159402216",
+      "color": "Black",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402216.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_0001_1?size=800,800",
+      "sku": "159402195",
+      "color": "Black",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402195.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Core Ultra Light Grey/Mirror Silver - XXS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_076693_1?size=800,800",
+      "sku": "159468466",
+      "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+      "size": "XXS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159468466.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Core Ultra Light Grey/Mirror Silver - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_076693_1?size=800,800",
+      "sku": "159402623",
+      "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402623.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Core Ultra Light Grey/Mirror Silver - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_076693_1?size=800,800",
+      "sku": "159402640",
+      "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402640.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Core Ultra Light Grey/Mirror Silver - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_076693_1?size=800,800",
+      "sku": "159402615",
+      "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402615.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Core Ultra Light Grey/Mirror Silver - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_076693_1?size=800,800",
+      "sku": "159402601",
+      "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402601.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Core Ultra Light Grey/Mirror Silver - XL",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_076693_1?size=800,800",
+      "sku": "159402633",
+      "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+      "size": "XL",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402633.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Pink Parade - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079457_1?size=800,800",
+      "sku": "159402650",
+      "color": "Heathered Pink Parade",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402650.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Pink Parade - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079457_1?size=800,800",
+      "sku": "159402669",
+      "color": "Heathered Pink Parade",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402669.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Pink Parade - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079457_1?size=800,800",
+      "sku": "159402660",
+      "color": "Heathered Pink Parade",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402660.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Pink Parade - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079457_1?size=800,800",
+      "sku": "159402688",
+      "color": "Heathered Pink Parade",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402688.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Pink Parade - XL",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079457_1?size=800,800",
+      "sku": "159402678",
+      "color": "Heathered Pink Parade",
+      "size": "XL",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402678.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black/Gold - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_3385_1?size=800,800",
+      "sku": "159403119",
+      "color": "Black/Gold",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159403119.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black/Gold - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_3385_1?size=800,800",
+      "sku": "159403126",
+      "color": "Black/Gold",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159403126.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black/Gold - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_3385_1?size=800,800",
+      "sku": "159403112",
+      "color": "Black/Gold",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159403112.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Black/Gold - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_3385_1?size=800,800",
+      "sku": "159403139",
+      "color": "Black/Gold",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159403139.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Toasted Pink/Gold - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_079641_1?size=800,800",
+      "sku": "159402493",
+      "color": "Toasted Pink/Gold",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402493.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Toasted Pink/Gold - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_079641_1?size=800,800",
+      "sku": "159402505",
+      "color": "Toasted Pink/Gold",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402505.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Toasted Pink/Gold - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_079641_1?size=800,800",
+      "sku": "159402483",
+      "color": "Toasted Pink/Gold",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402483.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Toasted Pink/Gold - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_079641_1?size=800,800",
+      "sku": "159402530",
+      "color": "Toasted Pink/Gold",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402530.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Cypress Forest - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079647_1?size=800,800",
+      "sku": "159402717",
+      "color": "Heathered Cypress Forest",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402717.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Cypress Forest - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079647_1?size=800,800",
+      "sku": "159402698",
+      "color": "Heathered Cypress Forest",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402698.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Cypress Forest - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079647_1?size=800,800",
+      "sku": "159402707",
+      "color": "Heathered Cypress Forest",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402707.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Cypress Forest - XL",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079647_1?size=800,800",
+      "sku": "159402727",
+      "color": "Heathered Cypress Forest",
+      "size": "XL",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402727.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Cypress Forest - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079647_1?size=800,800",
+      "sku": "159402737",
+      "color": "Heathered Cypress Forest",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159402737.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Cypress Forest - XXS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_079647_1?size=800,800",
+      "sku": "159403184",
+      "color": "Heathered Cypress Forest",
+      "size": "XXS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159403184.html",
+        "priceCurrency": "HKD",
+        "price": 950
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Fuchsia Taffy Tone/Fuchsia Taffy Tone - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=800,800",
+      "sku": "160027517",
+      "color": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/160027517.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Fuchsia Taffy Tone/Fuchsia Taffy Tone - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=800,800",
+      "sku": "160027534",
+      "color": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/160027534.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Fuchsia Taffy Tone/Fuchsia Taffy Tone - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LYAS_081193_1?size=800,800",
+      "sku": "160027521",
+      "color": "Fuchsia Taffy Tone/Fuchsia Taffy Tone",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/160027521.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Mahogany Muse/Gold - XL",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_081674_1?size=800,800",
+      "sku": "159693510",
+      "color": "Mahogany Muse/Gold",
+      "size": "XL",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159693510.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Mahogany Muse/Gold - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_081674_1?size=800,800",
+      "sku": "159693508",
+      "color": "Mahogany Muse/Gold",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159693508.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Mahogany Muse/Gold - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_081674_1?size=800,800",
+      "sku": "159693511",
+      "color": "Mahogany Muse/Gold",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159693511.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Mahogany Muse/Gold - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_081674_1?size=800,800",
+      "sku": "159693505",
+      "color": "Mahogany Muse/Gold",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159693505.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Mahogany Muse/Gold - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_081674_1?size=800,800",
+      "sku": "159693509",
+      "color": "Mahogany Muse/Gold",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/InStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159693509.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - True Navy/Mirror Silver - XS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_069780_1?size=800,800",
+      "sku": "159643590",
+      "color": "True Navy/Mirror Silver",
+      "size": "XS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159643590.html",
+        "priceCurrency": "HKD",
+        "price": 1280
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - True Navy/Mirror Silver - M",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_069780_1?size=800,800",
+      "sku": "159643587",
+      "color": "True Navy/Mirror Silver",
+      "size": "M",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159643587.html",
+        "priceCurrency": "HKD",
+        "price": 1280
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - True Navy/Mirror Silver - S",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_069780_1?size=800,800",
+      "sku": "159643588",
+      "color": "True Navy/Mirror Silver",
+      "size": "S",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159643588.html",
+        "priceCurrency": "HKD",
+        "price": 1280
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - True Navy/Mirror Silver - L",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_069780_1?size=800,800",
+      "sku": "159643585",
+      "color": "True Navy/Mirror Silver",
+      "size": "L",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/159643585.html",
+        "priceCurrency": "HKD",
+        "price": 1280
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Mahogany Muse/Gold - XXS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_081674_1?size=800,800",
+      "sku": "160474375",
+      "color": "Mahogany Muse/Gold",
+      "size": "XXS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/160474375.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Mahogany Muse/Gold - XXXS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LH6S_081674_1?size=800,800",
+      "sku": "160645126",
+      "color": "Mahogany Muse/Gold",
+      "size": "XXXS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/160645126.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Scuba Evolve Classic Full-Zip Hoodie - Heathered Core Ultra Light Grey/Mirror Silver - XXXS",
+      "image": "https://images.lululemon.com/is/image/lululemon/LW3LHPS_076693_1?size=800,800",
+      "sku": "160804276",
+      "color": "Heathered Core Ultra Light Grey/Mirror Silver",
+      "size": "XXXS",
+      "offers": {
+        "@type": "Offer",
+        "itemCondition": "http://schema.org/NewCondition",
+        "availability": "http://schema.org/OutOfStock",
+        "url": "https://www.lululemon.com.hk/en-hk/p/scuba-evolve-classic-full-zip-hoodie/160804276.html",
+        "priceCurrency": "HKD",
+        "price": 1180
+      }
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5.00",
+    "bestRating": "5",
+    "reviewCount": "1"
+  }
+}

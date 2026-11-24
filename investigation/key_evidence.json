@@ -1,0 +1,37 @@
+{
+  "us_classic": {
+    "id": "lopmi7nqah",
+    "name": "Scuba Evolve Classic Full-Zip Hoodie",
+    "newColorsBadging": [
+      "77631",
+      "69780",
+      "3385",
+      "81193",
+      "81758"
+    ]
+  },
+  "au_classic": {
+    "id": "lopmi7nqah",
+    "name": "Scuba Evolve Classic Full-Zip Hoodie",
+    "newColorsBadging": [
+      "081758",
+      "081674",
+      "069780"
+    ],
+    "styles": [
+      "LW3LYAS",
+      "LW3LH6S",
+      "LW3LHPS"
+    ]
+  },
+  "color_mapping_positive_control": {
+    "id": "loqc8jr9vh",
+    "name": "Scuba Evolve Oversized Full-Zip Hoodie",
+    "color": {
+      "id": "77631",
+      "name": "Lavender Rock",
+      "colorGroup": "LAVR",
+      "url": "https://images.lululemon.com/is/image/lululemon/77631"
+    }
+  }
+}

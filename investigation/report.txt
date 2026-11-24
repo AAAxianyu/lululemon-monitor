@@ -1,0 +1,118 @@
+Scuba Evolve Classic Full-Zip Hoodie / Lavender Rock 调查报告
+调查日期：2026-11-15（America/Los_Angeles）；UTC 及澳洲东部已为 2026-11-16。
+目标：澳洲站商品 lopmi7nqah，颜色 Lavender Rock / LAVR / 77631。
+
+结论
+找到一条此前未列出的官方元数据线索：美国站同一 Classic 商品的 newColorsBadging 数组包含 77631。但未找到澳洲站目标颜色的实际颜色变体、SKU、库存记录、真实 Classic 图片、有效购买链接或可证实的上架日期。
+该字段与“官方数据存在关联”的证据强，与“计划上架/已经生产”的证明力弱。它不是颜色变体或 SKU。不能据此认定澳洲会销售，也不能由未找到断言绝对不存在。
+
+1. 已验证的当前商品接口
+GET https://www.lululemon.com.au/.uf-svc/v1/products/lopmi7nqah
+GET https://www.lululemon.com.au/.uf-svc/v1/products/lopmi7nqah?include=page
+请求头：x-lll-locale: en-au
+结果：HTTP 200，application/vnd.api+json。
+使用 curl_cffi 的 Chrome HTTP/TLS 配置；没有导出、复用浏览器 Cookie 或认证信息。
+响应：data.id=lopmi7nqah；data.type=product-details；data.attributes.name=Scuba Evolve Classic Full-Zip Hoodie。
+
+发现过程：原商品页的 Python urllib 请求及 curl_cffi 页面请求受 Akamai 403 限制；浏览器可以正常加载。读取 DOM 中的 app-config 和 __NEXT_DATA__，发现 ouroborosApiHost=https://www.lululemon.com.au/.uf-svc，pdp-alpine-use-ouroboros-api=true，查询缓存键 [pdp,lopmi7nqah,v1,en-au]。随后以直接 HTTP 下载官方脚本并验证 REST 接口。
+公开前端脚本：
+https://shop.lululemon.com/static/upper-funnel/21.2.2/_next/static/chunks/pages/p/%5B...slug%5D-a789b90f184a5368.js
+https://shop.lululemon.com/static/upper-funnel/21.2.2/_next/static/chunks/webpack-ad0743d7005e1c6b.js
+https://shop.lululemon.com/static/uf/pdp-app/latest/static/chunks/remoteEntry.js
+https://shop.lululemon.com/static/uf/pdp-app/latest/static/chunks/__federation_expose_alpine_pdp_app.d63f7231333437dd.js
+均由直接 HTTP 得到 200。最后一份脚本明确使用 /v1/products/{id}?include=page 和 x-lll-locale。
+
+澳洲 REST 返回 12 个颜色、65 个 SKU，包括售罄颜色，因此检查范围超出可见色卡。所有颜色、款色、SKU 均无 77631、Lavender Rock 或 LAVR，也没有名称含 Lavender Rock 的拉链组合色。
+已确认的 Classic 款号与澳洲颜色：
+LW3LH6S：0001 Black；3385 Black/Gold；42797 Light Ivory/Gold；69780 True Navy/Mirror Silver；75787 Pink Pearl/Gold；79640 Icy Taupe/Mirror Silver；79641 Toasted Pink/Gold；81674 Mahogany Muse/Gold。
+LW3LHPS：76693 Heathered Core Ultra Light Grey/Mirror Silver；79457 Heathered Pink Parade；79647 Heathered Cypress Forest。
+LW3LYAS：81758 Perfect Plumful/Gold。
+其中 Heathered Pink Parade、Heathered Cypress Forest、Light Ivory/Gold 的 SKU 均为不可用，但仍在原始数据中。
+澳洲 newColorsBadging=["081758","081674","069780"]，无 077631。
+
+库存接口：
+GET https://www.lululemon.com.au/.uf-svc/v1/products/lopmi7nqah/skus/availability?fulfillment=ship
+请求头 x-lll-locale: en-au；HTTP 200；65 条 skus.availability。
+与商品接口的 65 个 SKU ID 完全对应，没有额外孤立库存 ID。
+首次未带 x-lll-locale 时返回 HTTP 400 VALIDATION_ERROR，detail=must have required property 'x-lll-locale'。补齐后成功。这是请求格式问题，不是商品不存在。
+
+SKU 正对照（不是目标颜色）：
+GET https://www.lululemon.com.au/.uf-svc/v1/skus?skuIds=159402292
+x-lll-locale: en-au；HTTP 200。
+响应：styleId=LW3LH6S，productId=lopmi7nqah，color.id=75787，color.name=Pink Pearl/Gold，size=10-12（AU；US M）。
+url=/en-au/p/scuba-evolve-classic-full-zip-hoodie/lopmi7nqah?color=75787&skuId=159402292。
+该对照只验证接口及款号关系，不是 Lavender Rock 的购买链接。
+
+2. 美国站官方隐藏元数据线索
+GET https://shop.lululemon.com/.uf-svc/v1/products/lopmi7nqah
+请求头 x-lll-locale: en-us；HTTP 200。
+关键原始字段（省略其他字段）：
+{"data":{"id":"lopmi7nqah","attributes":{"name":"Scuba Evolve Classic Full-Zip Hoodie","newColorsBadging":["77631","69780","3385","81193","81758"]}}}
+同一请求添加 Cache-Control: no-cache 后仍返回相同数据和相同 SHA-256：
+9d606f882993deb4a7e1eed3c64a835282aee4026f1e303e87a0e84ac50dbc5f
+?include=page 请求也保留此标记。
+美国返回 11 色、66 个 SKU；77631 不在 colors、styles[*].colors 或 skus[*].color 中；没有对应 Classic 图。
+美国同一个标记数组还包含 81758，但美国 colors 也没有它；81758 却有澳洲真实商品记录。加拿大数组同样有未在其颜色表中出现的标记。这说明标记数组不能单独当作可购颜色表。
+前端代码将 newColorsBadging 映射成 productSummary.newColors；映射器在找不到颜色记录时保留原始 ID，并不由标记创建 SKU。相关片段已保存为 frontend_evidence.json。
+可能解释包括预先配置、历史残留或错误配置；本次无法区分，不能择一当事实。
+
+Lavender Rock 色号的官方正对照：
+GET https://shop.lululemon.com/.uf-svc/v1/products/loqc8jr9vh
+x-lll-locale: en-us；HTTP 200。
+响应名称 Scuba Evolve Oversized Full-Zip Hoodie；color.id=77631，name=Lavender Rock，colorGroup=LAVR；相应 SKU styleId=LW3LH4S。
+这是 Oversized，已排除为 Classic 目标的正面证据。
+
+3. 其他地区
+加拿大：同一 shop.lululemon.com/.uf-svc/v1/products/lopmi7nqah，x-lll-locale: en-ca；HTTP 200。10 色、60 SKU，无目标颜色或 SKU。
+香港：官网 HTML HTTP 200，ProductGroup JSON-LD 含 52 条尺寸变体、11 色；无目标。进一步从其 HTML 提取实际 SFCC Product-Variation URL。
+GET https://www.lululemon.com.hk/on/demandware.store/Sites-HK-Site/en_HK/Product-Variation?dwvar_lopmi7nqah_color=077631&pid=lopmi7nqah&quantity=1
+HTTP 200；响应 product.selectedColor=081193；selectedProductUrl 指向 dwvar_lopmi7nqah_color=081193；选择的是 Fuchsia Taffy Tone/Fuchsia Taffy Tone。其 variationAttributes 中无 077631。
+同接口正对照参数 dwvar_lopmi7nqah_color=075787 返回 selectedColor=075787。故目标参数返回 200 不等于目标存在；接口未返回明确的“目标不存在”业务错误，而是回退选择。
+中国大陆：读取 https://www.lululemon.cn/product-382674.html，HTTP 200。确认 LW3LHPS 为 Scuba Evolve 女士经典剪裁拉链连帽衫；此页仅两色，无 Lavender 相关内容。未检查中国大陆完整 Classic 系列。
+英国、新西兰、韩国商品页受 403 挑战页限制。英国/新西兰对同构 REST 路径的尝试返回 410 HTML，未取得有效商品 API 响应，不能认定商品不存在。香港路径取自澳洲 REST 的 include=page/hrefLang。
+
+4. 官方图片服务
+只测试三个已由官方确认的 Classic 款号 LW3LH6S、LW3LHPS、LW3LYAS，没有枚举未知款号或组合色号。
+六个资产：三个款号分别拼接 _077631_1、_077631_2。
+例：GET https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?req=exists
+六个请求均 HTTP 200，正文 catalogRecord.exists=0。
+三张 _1 的 ?req=props 均 HTTP 403，正文 Unable to find image。此处是图片服务业务响应，区别于网页的 Akamai Access Denied。
+
+图像二进制验证：对三个 Classic _077631_1 请求 ?wid=480&fmt=jpeg，均 HTTP 200、Content-Type=image/webp、54 字节、480×480。
+三者 SHA-256 均为 f6d0bc85be06f7b3aead84613bc2c4b33be2b0e6e303686fed24cd09857f8f6e，与人为设置的不存在资产 codex_lulu_nonexistent_control_20261115 完全一致。
+正常 Classic 正对照 LW3LH6S_075787_1：req=exists 为 1；渲染为 480×576、10,624 字节，哈希不同。
+正常新增款号正对照 LW3LYAS_081758_1：req=exists 为 1，req=props 显示原始 1800×2160。
+Oversized 正对照 LW3LH4S_077631_1：req=exists 为 1；渲染为 480×576、12,004 字节。不是目标。
+
+图片集验证：
+GET https://images.lululemon.com/is/image/lululemon/LW3LYAS_077631_1?req=set
+HTTP 200：<set ...><item dx="600" dy="600" ...><i isDefault="1" n="lululemon/lululemon_Yogo_RGB_WHT"/></item></set>
+明确为默认占位资产，不能把外层仍含请求文件名当作图片存在。
+正常正对照 LW3LH6S_075787_1?req=set 返回 <i n="lululemon/LW3LH6S_075787_1"/>，原始尺寸 1800×2160。
+图片服务对上述精确命名的记录明确返回不存在；无法推广到未知未来款号、不同组合色号、不同文件名或未公开的资源。
+
+5. 日期与 sitemap
+GET https://www.lululemon.com.au/robots.txt HTTP 200，给出 sitemap.xml。
+GET https://www.lululemon.com.au/sitemap.xml HTTP 200。
+GET https://www.lululemon.com.au/sitemap/Product_Sitemap_en_AU.xml HTTP 200：目标父商品 lastmod=2026-10-27。
+GET https://www.lululemon.com.au/sitemap/sitemap_0-product.xml HTTP 200：目标旧 .html 父商品 lastmod=2026-10-27T16:38:44+00:00。
+两份站点地图未发现另一个 Classic 目标条目或 Lavender Rock 的独立商品条目。父商品 lastmod 不是颜色上架日期。
+澳洲商品 highlights 中 startDate=2026-10-01、expiryDate=2035-12-31 属于 Bestseller 展示标记，不是 Lavender Rock 的上架时间。
+没有发现可确认目标上架日期的官方公告；补充搜索没有找到可用的准确 Classic + Lavender Rock 上新消息。目录中相邻商品的 Lavender Rock 已排除。
+
+6. 接口访问失败与不存在的边界
+/api/graphql：澳美均 HTTP 400，Cannot query field "productDetailPage" on type "Query"。这是 schema 不匹配。
+/cne/graphql：本次已在当前公开 PDP 脚本中核实其作为备用路径存在；不是主要启用的 REST 数据源。
+对从脚本提取的 GetPdpDataById 查询，美国 HTTP 403 Access Denied。
+澳洲 HTTP 200，但 errors 含 GQL_PCM_API_ERROR_400 / PCM_API_ERROR_400，data.productDetailPage=null；将 fetchPcmMedia、fetchVariants 改为脚本默认 false 后仍同样错误。不是 NOT_FOUND，不能解释为目标不存在。
+基于香港已核实 SFCC 形式测试澳洲旧 Product-Variation 路由，目标与已知正常颜色对照均返回 HTTP 404 HTML。说明该旧路径未取得商品结果，不是 077631 特定不存在的证据。
+
+7. 交付文件与复现
+request_log.json：每次已记录直接请求的完整 URL、方法、请求参数/头、状态码、响应头、字节数、SHA-256 和短响应片段。
+raw/*.body：原始响应正文（包括错误响应和二进制图像）；raw/*.json：各次请求元数据。
+au_product_api.pretty.json、us_product_api.pretty.json、ca_product_api.pretty.json：商品响应的格式化副本。
+findings.json：颜色、款号、SKU 计数及目标匹配检查。
+GetPdpDataById.graphql、frontend_evidence.json：从已下载官方脚本提取的查询和接口/标记处理代码。
+hk_productgroup.json：香港 JSON-LD；香港变体接口原文在 raw/hk_variation_lavr.body。
+http_probe.py、graphql_probe.py、cne_graphql_probe.py 等为复现脚本；http_probe.py 需要 curl_cffi，analyze.py 的图像尺寸来源由 Pillow 读取。
+本报告未创建购物车、下单、订阅通知或联系任何商家。

@@ -1,0 +1,1 @@
+{"jsonapi":{"version":"1.1"},"errors":[{"status":"400","code":"VALIDATION_ERROR","title":"Invalid parameter: x-lll-locale","detail":"must have required property 'x-lll-locale'","source":{"parameter":"x-lll-locale"}}]}

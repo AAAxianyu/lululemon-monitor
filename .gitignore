@@ -1,0 +1,7 @@
+.venv/
+.private/
+__pycache__/
+checkout_data/
+monitor_data/
+node_modules/
+.DS_Store

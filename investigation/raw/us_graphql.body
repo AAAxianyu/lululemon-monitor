@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"productDetailPage\" on type \"Query\".","locations":[{"line":9,"column":3}],"extensions":{"code":"GRAPHQL_VALIDATION_FAILED","phxRequestId":"ad526d09-a7ba-4d02-847c-cd6b0beb402b"}}]}
